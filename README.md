@@ -14,4 +14,4 @@ The analysis pipeline and custom scripts used in the manuscript are listed below
 
 ### Script Number:
 Script numbers represent scripts within a pipeline step. 
-For example, script #02_bulk_RNA-seq_Processing_DGE.R contains the analysis pipeline and code for the second step.
+For example, script #02_Differential_Gene_Expression.R contains code for Differential Gene Expression (DGE) analysis (using DEseq2).
