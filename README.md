@@ -6,7 +6,7 @@ The 'main_datasets' directory includes processed bulk RNA-seq, GSEA, alternative
 
 
 # Pipeline Stages:
-1. RNAseq Processing
+1. bulk RNA-seq Processing
 2. Differentially Expressed Genes(DEGs)
 3. Alternative Splicing analysis
 4. Weighted Gene Co-expression Network Analysis (WGCNA)
