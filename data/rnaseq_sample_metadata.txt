@@ -1,1009 +1,1009 @@
-Sample	Model	Condition	Model_Sex	Sex	Genotype	Drug	Batch	Group
-ADNP_HfF_1	ADNP	HfF	ADNP_F	Female	Mutant	Fluoxetine	B1	Group2
-ADNP_HfF_2	ADNP	HfF	ADNP_F	Female	Mutant	Fluoxetine	B1	Group2
-ADNP_HfF_3	ADNP	HfF	ADNP_F	Female	Mutant	Fluoxetine	B1	Group2
-ADNP_HfF_4	ADNP	HfF	ADNP_F	Female	Mutant	Fluoxetine	B1	Group2
-ADNP_HfF_5	ADNP	HfF	ADNP_F	Female	Mutant	Fluoxetine	B1	Group2
-ADNP_HfM_1	ADNP	HfM	ADNP_M	Male	Mutant	Fluoxetine	B1	Group2
-ADNP_HfM_2	ADNP	HfM	ADNP_M	Male	Mutant	Fluoxetine	B1	Group2
-ADNP_HfM_3	ADNP	HfM	ADNP_M	Male	Mutant	Fluoxetine	B1	Group2
-ADNP_HfM_4	ADNP	HfM	ADNP_M	Male	Mutant	Fluoxetine	B1	Group2
-ADNP_HfM_5	ADNP	HfM	ADNP_M	Male	Mutant	Fluoxetine	B1	Group2
-ADNP_HLF_1	ADNP	HLF	ADNP_F	Female	Mutant	Lithium	B5	Group2
-ADNP_HLF_2	ADNP	HLF	ADNP_F	Female	Mutant	Lithium	B5	Group2
-ADNP_HLF_3	ADNP	HLF	ADNP_F	Female	Mutant	Lithium	B5	Group2
-ADNP_HLF_5	ADNP	HLF	ADNP_F	Female	Mutant	Lithium	B5	Group2
-ADNP_HLM_1	ADNP	HLM	ADNP_M	Male	Mutant	Lithium	B5	Group2
-ADNP_HLM_2	ADNP	HLM	ADNP_M	Male	Mutant	Lithium	B5	Group2
-ADNP_HLM_3	ADNP	HLM	ADNP_M	Male	Mutant	Lithium	B5	Group2
-ADNP_HLM_4	ADNP	HLM	ADNP_M	Male	Mutant	Lithium	B5	Group2
-ADNP_HLM_5	ADNP	HLM	ADNP_M	Male	Mutant	Lithium	B5	Group2
-ADNP_HvF_1	ADNP	HvF	ADNP_F	Female	Mutant	Vehicle	B1	Group2
-ADNP_HvF_2	ADNP	HvF	ADNP_F	Female	Mutant	Vehicle	B1	Group2
-ADNP_HvF_3	ADNP	HvF	ADNP_F	Female	Mutant	Vehicle	B1	Group2
-ADNP_HvF_4	ADNP	HvF	ADNP_F	Female	Mutant	Vehicle	B1	Group2
-ADNP_HvF_5	ADNP	HvF	ADNP_F	Female	Mutant	Vehicle	B1	Group2
-ADNP_HvF_6	ADNP	HvF	ADNP_F	Female	Mutant	Vehicle	B5	Group2
-ADNP_HvF_7	ADNP	HvF	ADNP_F	Female	Mutant	Vehicle	B5	Group2
-ADNP_HvF_8	ADNP	HvF	ADNP_F	Female	Mutant	Vehicle	B5	Group2
-ADNP_HvM_1	ADNP	HvM	ADNP_M	Male	Mutant	Vehicle	B1	Group2
-ADNP_HvM_2	ADNP	HvM	ADNP_M	Male	Mutant	Vehicle	B1	Group2
-ADNP_HvM_3	ADNP	HvM	ADNP_M	Male	Mutant	Vehicle	B1	Group2
-ADNP_HvM_4	ADNP	HvM	ADNP_M	Male	Mutant	Vehicle	B1	Group2
-ADNP_HvM_5	ADNP	HvM	ADNP_M	Male	Mutant	Vehicle	B1	Group2
-ADNP_HvM_6	ADNP	HvM	ADNP_M	Male	Mutant	Vehicle	B5	Group2
-ADNP_HvM_7	ADNP	HvM	ADNP_M	Male	Mutant	Vehicle	B5	Group2
-ADNP_HvM_8	ADNP	HvM	ADNP_M	Male	Mutant	Vehicle	B5	Group2
-ADNP_WfF_1	ADNP	WfF	ADNP_F	Female	Wildtype	Fluoxetine	B1	Group2
-ADNP_WfF_2	ADNP	WfF	ADNP_F	Female	Wildtype	Fluoxetine	B1	Group2
-ADNP_WfF_3	ADNP	WfF	ADNP_F	Female	Wildtype	Fluoxetine	B1	Group2
-ADNP_WfF_4	ADNP	WfF	ADNP_F	Female	Wildtype	Fluoxetine	B1	Group2
-ADNP_WfF_5	ADNP	WfF	ADNP_F	Female	Wildtype	Fluoxetine	B1	Group2
-ADNP_WfM_1	ADNP	WfM	ADNP_M	Male	Wildtype	Fluoxetine	B1	Group2
-ADNP_WfM_2	ADNP	WfM	ADNP_M	Male	Wildtype	Fluoxetine	B1	Group2
-ADNP_WfM_3	ADNP	WfM	ADNP_M	Male	Wildtype	Fluoxetine	B1	Group2
-ADNP_WfM_4	ADNP	WfM	ADNP_M	Male	Wildtype	Fluoxetine	B1	Group2
-ADNP_WfM_5	ADNP	WfM	ADNP_M	Male	Wildtype	Fluoxetine	B1	Group2
-ADNP_WLF_1	ADNP	WLF	ADNP_F	Female	Wildtype	Lithium	B5	Group2
-ADNP_WLF_2	ADNP	WLF	ADNP_F	Female	Wildtype	Lithium	B5	Group2
-ADNP_WLF_3	ADNP	WLF	ADNP_F	Female	Wildtype	Lithium	B5	Group2
-ADNP_WLF_4	ADNP	WLF	ADNP_F	Female	Wildtype	Lithium	B5	Group2
-ADNP_WLF_5	ADNP	WLF	ADNP_F	Female	Wildtype	Lithium	B5	Group2
-ADNP_WLM_1	ADNP	WLM	ADNP_M	Male	Wildtype	Lithium	B5	Group2
-ADNP_WLM_2	ADNP	WLM	ADNP_M	Male	Wildtype	Lithium	B5	Group2
-ADNP_WLM_3	ADNP	WLM	ADNP_M	Male	Wildtype	Lithium	B5	Group2
-ADNP_WvF_1	ADNP	WvF	ADNP_F	Female	Wildtype	Vehicle	B1	Group2
-ADNP_WvF_2	ADNP	WvF	ADNP_F	Female	Wildtype	Vehicle	B1	Group2
-ADNP_WvF_3	ADNP	WvF	ADNP_F	Female	Wildtype	Vehicle	B1	Group2
-ADNP_WvF_4	ADNP	WvF	ADNP_F	Female	Wildtype	Vehicle	B1	Group2
-ADNP_WvF_5	ADNP	WvF	ADNP_F	Female	Wildtype	Vehicle	B1	Group2
-ADNP_WvF_6	ADNP	WvF	ADNP_F	Female	Wildtype	Vehicle	B5	Group2
-ADNP_WvF_7	ADNP	WvF	ADNP_F	Female	Wildtype	Vehicle	B5	Group2
-ADNP_WvF_8	ADNP	WvF	ADNP_F	Female	Wildtype	Vehicle	B5	Group2
-ADNP_WvM_1	ADNP	WvM	ADNP_M	Male	Wildtype	Vehicle	B1	Group2
-ADNP_WvM_2	ADNP	WvM	ADNP_M	Male	Wildtype	Vehicle	B1	Group2
-ADNP_WvM_3	ADNP	WvM	ADNP_M	Male	Wildtype	Vehicle	B1	Group2
-ADNP_WvM_4	ADNP	WvM	ADNP_M	Male	Wildtype	Vehicle	B1	Group2
-ADNP_WvM_5	ADNP	WvM	ADNP_M	Male	Wildtype	Vehicle	B1	Group2
-ADNP_WvM_6	ADNP	WvM	ADNP_M	Male	Wildtype	Vehicle	B5	Group2
-ADNP_WvM_7	ADNP	WvM	ADNP_M	Male	Wildtype	Vehicle	B5	Group2
-Arid_HfF_1	Arid	HfF	Arid_F	Female	Mutant	Fluoxetine	B2	Group2
-Arid_HfF_2	Arid	HfF	Arid_F	Female	Mutant	Fluoxetine	B2	Group2
-Arid_HfF_3	Arid	HfF	Arid_F	Female	Mutant	Fluoxetine	B2	Group2
-Arid_HfF_4	Arid	HfF	Arid_F	Female	Mutant	Fluoxetine	B2	Group2
-Arid_HfF_5	Arid	HfF	Arid_F	Female	Mutant	Fluoxetine	B2	Group2
-Arid_HfM_1	Arid	HfM	Arid_M	Male	Mutant	Fluoxetine	B2	Group1
-Arid_HfM_2	Arid	HfM	Arid_M	Male	Mutant	Fluoxetine	B2	Group1
-Arid_HfM_3	Arid	HfM	Arid_M	Male	Mutant	Fluoxetine	B2	Group1
-Arid_HfM_4	Arid	HfM	Arid_M	Male	Mutant	Fluoxetine	B2	Group1
-Arid_HfM_5	Arid	HfM	Arid_M	Male	Mutant	Fluoxetine	B2	Group1
-Arid_HLF_1	Arid	HLF	Arid_F	Female	Mutant	Lithium	B2	Group2
-Arid_HLF_2	Arid	HLF	Arid_F	Female	Mutant	Lithium	B2	Group2
-Arid_HLF_3	Arid	HLF	Arid_F	Female	Mutant	Lithium	B2	Group2
-Arid_HLF_4	Arid	HLF	Arid_F	Female	Mutant	Lithium	B2	Group2
-Arid_HLF_5	Arid	HLF	Arid_F	Female	Mutant	Lithium	B2	Group2
-Arid_HLM_1	Arid	HLM	Arid_M	Male	Mutant	Lithium	B2	Group1
-Arid_HLM_2	Arid	HLM	Arid_M	Male	Mutant	Lithium	B2	Group1
-Arid_HLM_3	Arid	HLM	Arid_M	Male	Mutant	Lithium	B2	Group1
-Arid_HLM_4	Arid	HLM	Arid_M	Male	Mutant	Lithium	B2	Group1
-Arid_HLM_5	Arid	HLM	Arid_M	Male	Mutant	Lithium	B2	Group1
-Arid_HvF_1	Arid	HvF	Arid_F	Female	Mutant	Vehicle	B2	Group2
-Arid_HvF_2	Arid	HvF	Arid_F	Female	Mutant	Vehicle	B2	Group2
-Arid_HvF_3	Arid	HvF	Arid_F	Female	Mutant	Vehicle	B2	Group2
-Arid_HvF_4	Arid	HvF	Arid_F	Female	Mutant	Vehicle	B2	Group2
-Arid_HvM_1	Arid	HvM	Arid_M	Male	Mutant	Vehicle	B2	Group1
-Arid_HvM_2	Arid	HvM	Arid_M	Male	Mutant	Vehicle	B2	Group1
-Arid_HvM_3	Arid	HvM	Arid_M	Male	Mutant	Vehicle	B2	Group1
-Arid_HvM_4	Arid	HvM	Arid_M	Male	Mutant	Vehicle	B2	Group1
-Arid_HvM_5	Arid	HvM	Arid_M	Male	Mutant	Vehicle	B2	Group1
-Arid_WfF_1	Arid	WfF	Arid_F	Female	Wildtype	Fluoxetine	B2	Group2
-Arid_WfF_2	Arid	WfF	Arid_F	Female	Wildtype	Fluoxetine	B2	Group2
-Arid_WfF_3	Arid	WfF	Arid_F	Female	Wildtype	Fluoxetine	B2	Group2
-Arid_WfF_4	Arid	WfF	Arid_F	Female	Wildtype	Fluoxetine	B2	Group2
-Arid_WfF_5	Arid	WfF	Arid_F	Female	Wildtype	Fluoxetine	B2	Group2
-Arid_WfM_1	Arid	WfM	Arid_M	Male	Wildtype	Fluoxetine	B2	Group1
-Arid_WfM_2	Arid	WfM	Arid_M	Male	Wildtype	Fluoxetine	B2	Group1
-Arid_WfM_3	Arid	WfM	Arid_M	Male	Wildtype	Fluoxetine	B2	Group1
-Arid_WfM_4	Arid	WfM	Arid_M	Male	Wildtype	Fluoxetine	B2	Group1
-Arid_WfM_5	Arid	WfM	Arid_M	Male	Wildtype	Fluoxetine	B2	Group1
-Arid_WLF_1	Arid	WLF	Arid_F	Female	Wildtype	Lithium	B2	Group2
-Arid_WLF_2	Arid	WLF	Arid_F	Female	Wildtype	Lithium	B2	Group2
-Arid_WLF_3	Arid	WLF	Arid_F	Female	Wildtype	Lithium	B2	Group2
-Arid_WLF_4	Arid	WLF	Arid_F	Female	Wildtype	Lithium	B2	Group2
-Arid_WLF_5	Arid	WLF	Arid_F	Female	Wildtype	Lithium	B2	Group2
-Arid_WLM_1	Arid	WLM	Arid_M	Male	Wildtype	Lithium	B2	Group1
-Arid_WLM_2	Arid	WLM	Arid_M	Male	Wildtype	Lithium	B2	Group1
-Arid_WLM_3	Arid	WLM	Arid_M	Male	Wildtype	Lithium	B2	Group1
-Arid_WLM_4	Arid	WLM	Arid_M	Male	Wildtype	Lithium	B2	Group1
-Arid_WLM_5	Arid	WLM	Arid_M	Male	Wildtype	Lithium	B2	Group1
-Arid_WvF_1	Arid	WvF	Arid_F	Female	Wildtype	Vehicle	B2	Group2
-Arid_WvF_2	Arid	WvF	Arid_F	Female	Wildtype	Vehicle	B2	Group2
-Arid_WvF_3	Arid	WvF	Arid_F	Female	Wildtype	Vehicle	B2	Group2
-Arid_WvF_4	Arid	WvF	Arid_F	Female	Wildtype	Vehicle	B2	Group2
-Arid_WvF_5	Arid	WvF	Arid_F	Female	Wildtype	Vehicle	B2	Group2
-Arid_WvM_2	Arid	WvM	Arid_M	Male	Wildtype	Vehicle	B2	Group1
-Arid_WvM_3	Arid	WvM	Arid_M	Male	Wildtype	Vehicle	B2	Group1
-Arid_WvM_4	Arid	WvM	Arid_M	Male	Wildtype	Vehicle	B2	Group1
-Arid_WvM_5	Arid	WvM	Arid_M	Male	Wildtype	Vehicle	B2	Group1
-ASH_HfF_1	ASH	HfF	ASH_F	Female	Mutant	Fluoxetine	B4-2	Group1
-ASH_HfF_2	ASH	HfF	ASH_F	Female	Mutant	Fluoxetine	B4-2	Group1
-ASH_HfF_3	ASH	HfF	ASH_F	Female	Mutant	Fluoxetine	B4-3	Group1
-ASH_HfF_4	ASH	HfF	ASH_F	Female	Mutant	Fluoxetine	B4-2	Group1
-ASH_HfF_5	ASH	HfF	ASH_F	Female	Mutant	Fluoxetine	B4-3	Group1
-ASH_HfM_1	ASH	HfM	ASH_M	Male	Mutant	Fluoxetine	B4-3	Group2
-ASH_HfM_2	ASH	HfM	ASH_M	Male	Mutant	Fluoxetine	B4-3	Group2
-ASH_HfM_3	ASH	HfM	ASH_M	Male	Mutant	Fluoxetine	B4-3	Group2
-ASH_HfM_4	ASH	HfM	ASH_M	Male	Mutant	Fluoxetine	B4-3	Group2
-ASH_HfM_5	ASH	HfM	ASH_M	Male	Mutant	Fluoxetine	B4-2	Group2
-ASH_HLF_1	ASH	HLF	ASH_F	Female	Mutant	Lithium	B4-3	Group1
-ASH_HLF_2	ASH	HLF	ASH_F	Female	Mutant	Lithium	B4-3	Group1
-ASH_HLF_3	ASH	HLF	ASH_F	Female	Mutant	Lithium	B4-3	Group1
-ASH_HLF_5	ASH	HLF	ASH_F	Female	Mutant	Lithium	B4-2	Group1
-ASH_HLM_1	ASH	HLM	ASH_M	Male	Mutant	Lithium	B4-3	Group2
-ASH_HLM_2	ASH	HLM	ASH_M	Male	Mutant	Lithium	B4-3	Group2
-ASH_HLM_3	ASH	HLM	ASH_M	Male	Mutant	Lithium	B4-3	Group2
-ASH_HLM_4	ASH	HLM	ASH_M	Male	Mutant	Lithium	B4-3	Group2
-ASH_HLM_5	ASH	HLM	ASH_M	Male	Mutant	Lithium	B4-3	Group2
-ASH_HvF_1	ASH	HvF	ASH_F	Female	Mutant	Vehicle	B4-3	Group1
-ASH_HvF_2	ASH	HvF	ASH_F	Female	Mutant	Vehicle	B4-3	Group1
-ASH_HvF_3	ASH	HvF	ASH_F	Female	Mutant	Vehicle	B4-3	Group1
-ASH_HvF_4	ASH	HvF	ASH_F	Female	Mutant	Vehicle	B4-3	Group1
-ASH_HvF_5	ASH	HvF	ASH_F	Female	Mutant	Vehicle	B4-3	Group1
-ASH_HvM_1	ASH	HvM	ASH_M	Male	Mutant	Vehicle	B4-3	Group2
-ASH_HvM_2	ASH	HvM	ASH_M	Male	Mutant	Vehicle	B4-3	Group2
-ASH_HvM_3	ASH	HvM	ASH_M	Male	Mutant	Vehicle	B4-3	Group2
-ASH_HvM_4	ASH	HvM	ASH_M	Male	Mutant	Vehicle	B4-2	Group2
-ASH_HvM_5	ASH	HvM	ASH_M	Male	Mutant	Vehicle	B4-3	Group2
-ASH_WfF_1	ASH	WfF	ASH_F	Female	Wildtype	Fluoxetine	B4-3	Group1
-ASH_WfF_2	ASH	WfF	ASH_F	Female	Wildtype	Fluoxetine	B4-3	Group1
-ASH_WfF_3	ASH	WfF	ASH_F	Female	Wildtype	Fluoxetine	B4-3	Group1
-ASH_WfF_4	ASH	WfF	ASH_F	Female	Wildtype	Fluoxetine	B4-2	Group1
-ASH_WfF_5	ASH	WfF	ASH_F	Female	Wildtype	Fluoxetine	B4-3	Group1
-ASH_WfM_1	ASH	WfM	ASH_M	Male	Wildtype	Fluoxetine	B4-3	Group2
-ASH_WfM_2	ASH	WfM	ASH_M	Male	Wildtype	Fluoxetine	B4-3	Group2
-ASH_WfM_3	ASH	WfM	ASH_M	Male	Wildtype	Fluoxetine	B4-3	Group2
-ASH_WfM_4	ASH	WfM	ASH_M	Male	Wildtype	Fluoxetine	B4-3	Group2
-ASH_WfM_5	ASH	WfM	ASH_M	Male	Wildtype	Fluoxetine	B4-3	Group2
-ASH_WLF_1	ASH	WLF	ASH_F	Female	Wildtype	Lithium	B4-2	Group1
-ASH_WLF_2	ASH	WLF	ASH_F	Female	Wildtype	Lithium	B4-2	Group1
-ASH_WLF_3	ASH	WLF	ASH_F	Female	Wildtype	Lithium	B4-2	Group1
-ASH_WLF_4	ASH	WLF	ASH_F	Female	Wildtype	Lithium	B4-2	Group1
-ASH_WLF_5	ASH	WLF	ASH_F	Female	Wildtype	Lithium	B4-3	Group1
-ASH_WLM_1	ASH	WLM	ASH_M	Male	Wildtype	Lithium	B4-3	Group2
-ASH_WLM_2	ASH	WLM	ASH_M	Male	Wildtype	Lithium	B4-3	Group2
-ASH_WLM_3	ASH	WLM	ASH_M	Male	Wildtype	Lithium	B4-2	Group2
-ASH_WLM_4	ASH	WLM	ASH_M	Male	Wildtype	Lithium	B4-2	Group2
-ASH_WLM_5	ASH	WLM	ASH_M	Male	Wildtype	Lithium	B4-2	Group2
-ASH_WvF_1	ASH	WvF	ASH_F	Female	Wildtype	Vehicle	B4-2	Group1
-ASH_WvF_2	ASH	WvF	ASH_F	Female	Wildtype	Vehicle	B4-2	Group1
-ASH_WvF_3	ASH	WvF	ASH_F	Female	Wildtype	Vehicle	B4-2	Group1
-ASH_WvF_4	ASH	WvF	ASH_F	Female	Wildtype	Vehicle	B4-3	Group1
-ASH_WvF_5	ASH	WvF	ASH_F	Female	Wildtype	Vehicle	B4-3	Group1
-ASH_WvM_1	ASH	WvM	ASH_M	Male	Wildtype	Vehicle	B4-3	Group2
-ASH_WvM_2	ASH	WvM	ASH_M	Male	Wildtype	Vehicle	B4-3	Group2
-ASH_WvM_3	ASH	WvM	ASH_M	Male	Wildtype	Vehicle	B4-3	Group2
-ASH_WvM_4	ASH	WvM	ASH_M	Male	Wildtype	Vehicle	B4-3	Group2
-ASH_WvM_5	ASH	WvM	ASH_M	Male	Wildtype	Vehicle	B4-3	Group2
-CHN_HfF_1	CHN	HfF	CHN_F	Female	Mutant	Fluoxetine	B1	Group2
-CHN_HfF_2	CHN	HfF	CHN_F	Female	Mutant	Fluoxetine	B1	Group2
-CHN_HfF_3	CHN	HfF	CHN_F	Female	Mutant	Fluoxetine	B1	Group2
-CHN_HfF_4	CHN	HfF	CHN_F	Female	Mutant	Fluoxetine	B1	Group2
-CHN_HfF_5	CHN	HfF	CHN_F	Female	Mutant	Fluoxetine	B1	Group2
-CHN_HfM_1	CHN	HfM	CHN_M	Male	Mutant	Fluoxetine	B1	Group1
-CHN_HfM_2	CHN	HfM	CHN_M	Male	Mutant	Fluoxetine	B1	Group1
-CHN_HfM_3	CHN	HfM	CHN_M	Male	Mutant	Fluoxetine	B1	Group1
-CHN_HfM_4	CHN	HfM	CHN_M	Male	Mutant	Fluoxetine	B1	Group1
-CHN_HfM_5	CHN	HfM	CHN_M	Male	Mutant	Fluoxetine	B1	Group1
-CHN_HLF_1	CHN	HLF	CHN_F	Female	Mutant	Lithium	B1	Group2
-CHN_HLF_2	CHN	HLF	CHN_F	Female	Mutant	Lithium	B1	Group2
-CHN_HLF_3	CHN	HLF	CHN_F	Female	Mutant	Lithium	B1	Group2
-CHN_HLF_4	CHN	HLF	CHN_F	Female	Mutant	Lithium	B1	Group2
-CHN_HLF_5	CHN	HLF	CHN_F	Female	Mutant	Lithium	B1	Group2
-CHN_HLM_1	CHN	HLM	CHN_M	Male	Mutant	Lithium	B1	Group1
-CHN_HLM_2	CHN	HLM	CHN_M	Male	Mutant	Lithium	B1	Group1
-CHN_HLM_3	CHN	HLM	CHN_M	Male	Mutant	Lithium	B1	Group1
-CHN_HLM_4	CHN	HLM	CHN_M	Male	Mutant	Lithium	B1	Group1
-CHN_HLM_5	CHN	HLM	CHN_M	Male	Mutant	Lithium	B1	Group1
-CHN_HvF_1	CHN	HvF	CHN_F	Female	Mutant	Vehicle	B1	Group2
-CHN_HvF_2	CHN	HvF	CHN_F	Female	Mutant	Vehicle	B1	Group2
-CHN_HvF_3	CHN	HvF	CHN_F	Female	Mutant	Vehicle	B1	Group2
-CHN_HvF_4	CHN	HvF	CHN_F	Female	Mutant	Vehicle	B1	Group2
-CHN_HvF_5	CHN	HvF	CHN_F	Female	Mutant	Vehicle	B1	Group2
-CHN_HvM_1	CHN	HvM	CHN_M	Male	Mutant	Vehicle	B1	Group1
-CHN_HvM_2	CHN	HvM	CHN_M	Male	Mutant	Vehicle	B1	Group1
-CHN_HvM_3	CHN	HvM	CHN_M	Male	Mutant	Vehicle	B1	Group1
-CHN_HvM_4	CHN	HvM	CHN_M	Male	Mutant	Vehicle	B1	Group1
-CHN_HvM_5	CHN	HvM	CHN_M	Male	Mutant	Vehicle	B1	Group1
-CHN_WfF_1	CHN	WfF	CHN_F	Female	Wildtype	Fluoxetine	B1	Group2
-CHN_WfF_2	CHN	WfF	CHN_F	Female	Wildtype	Fluoxetine	B1	Group2
-CHN_WfF_3	CHN	WfF	CHN_F	Female	Wildtype	Fluoxetine	B1	Group2
-CHN_WfF_4	CHN	WfF	CHN_F	Female	Wildtype	Fluoxetine	B1	Group2
-CHN_WfF_5	CHN	WfF	CHN_F	Female	Wildtype	Fluoxetine	B1	Group2
-CHN_WfM_1	CHN	WfM	CHN_M	Male	Wildtype	Fluoxetine	B1	Group1
-CHN_WfM_2	CHN	WfM	CHN_M	Male	Wildtype	Fluoxetine	B1	Group1
-CHN_WfM_3	CHN	WfM	CHN_M	Male	Wildtype	Fluoxetine	B1	Group1
-CHN_WfM_4	CHN	WfM	CHN_M	Male	Wildtype	Fluoxetine	B1	Group1
-CHN_WfM_5	CHN	WfM	CHN_M	Male	Wildtype	Fluoxetine	B1	Group1
-CHN_WLF_1	CHN	WLF	CHN_F	Female	Wildtype	Lithium	B1	Group2
-CHN_WLF_2	CHN	WLF	CHN_F	Female	Wildtype	Lithium	B1	Group2
-CHN_WLF_3	CHN	WLF	CHN_F	Female	Wildtype	Lithium	B1	Group2
-CHN_WLF_4	CHN	WLF	CHN_F	Female	Wildtype	Lithium	B1	Group2
-CHN_WLF_5	CHN	WLF	CHN_F	Female	Wildtype	Lithium	B1	Group2
-CHN_WLM_1	CHN	WLM	CHN_M	Male	Wildtype	Lithium	B1	Group1
-CHN_WLM_2	CHN	WLM	CHN_M	Male	Wildtype	Lithium	B1	Group1
-CHN_WLM_3	CHN	WLM	CHN_M	Male	Wildtype	Lithium	B1	Group1
-CHN_WLM_4	CHN	WLM	CHN_M	Male	Wildtype	Lithium	B1	Group1
-CHN_WLM_5	CHN	WLM	CHN_M	Male	Wildtype	Lithium	B1	Group1
-CHN_WvF_1	CHN	WvF	CHN_F	Female	Wildtype	Vehicle	B1	Group2
-CHN_WvF_2	CHN	WvF	CHN_F	Female	Wildtype	Vehicle	B1	Group2
-CHN_WvF_3	CHN	WvF	CHN_F	Female	Wildtype	Vehicle	B1	Group2
-CHN_WvF_4	CHN	WvF	CHN_F	Female	Wildtype	Vehicle	B1	Group2
-CHN_WvF_5	CHN	WvF	CHN_F	Female	Wildtype	Vehicle	B1	Group2
-CHN_WvM_1	CHN	WvM	CHN_M	Male	Wildtype	Vehicle	B1	Group1
-CHN_WvM_2	CHN	WvM	CHN_M	Male	Wildtype	Vehicle	B1	Group1
-CHN_WvM_3	CHN	WvM	CHN_M	Male	Wildtype	Vehicle	B1	Group1
-CHN_WvM_4	CHN	WvM	CHN_M	Male	Wildtype	Vehicle	B1	Group1
-CHN_WvM_5	CHN	WvM	CHN_M	Male	Wildtype	Vehicle	B1	Group1
-Dyrk_HfF_1	Dyrk	HfF	Dyrk_F	Female	Mutant	Fluoxetine	B3	Group2
-Dyrk_HfF_2	Dyrk	HfF	Dyrk_F	Female	Mutant	Fluoxetine	B3	Group2
-Dyrk_HfF_3	Dyrk	HfF	Dyrk_F	Female	Mutant	Fluoxetine	B3	Group2
-Dyrk_HfF_4	Dyrk	HfF	Dyrk_F	Female	Mutant	Fluoxetine	B3	Group2
-Dyrk_HfF_5	Dyrk	HfF	Dyrk_F	Female	Mutant	Fluoxetine	B3	Group2
-Dyrk_HfM_1	Dyrk	HfM	Dyrk_M	Male	Mutant	Fluoxetine	B3	Group1
-Dyrk_HfM_2	Dyrk	HfM	Dyrk_M	Male	Mutant	Fluoxetine	B3	Group1
-Dyrk_HfM_3	Dyrk	HfM	Dyrk_M	Male	Mutant	Fluoxetine	B3	Group1
-Dyrk_HfM_4	Dyrk	HfM	Dyrk_M	Male	Mutant	Fluoxetine	B3	Group1
-Dyrk_HfM_5	Dyrk	HfM	Dyrk_M	Male	Mutant	Fluoxetine	B3	Group1
-Dyrk_HLF_1	Dyrk	HLF	Dyrk_F	Female	Mutant	Lithium	B3	Group2
-Dyrk_HLF_2	Dyrk	HLF	Dyrk_F	Female	Mutant	Lithium	B3	Group2
-Dyrk_HLF_3	Dyrk	HLF	Dyrk_F	Female	Mutant	Lithium	B3	Group2
-Dyrk_HLF_4	Dyrk	HLF	Dyrk_F	Female	Mutant	Lithium	B3	Group2
-Dyrk_HLF_5	Dyrk	HLF	Dyrk_F	Female	Mutant	Lithium	B3	Group2
-Dyrk_HLM_1	Dyrk	HLM	Dyrk_M	Male	Mutant	Lithium	B3	Group1
-Dyrk_HLM_2	Dyrk	HLM	Dyrk_M	Male	Mutant	Lithium	B3	Group1
-Dyrk_HLM_3	Dyrk	HLM	Dyrk_M	Male	Mutant	Lithium	B3	Group1
-Dyrk_HLM_4	Dyrk	HLM	Dyrk_M	Male	Mutant	Lithium	B3	Group1
-Dyrk_HLM_5	Dyrk	HLM	Dyrk_M	Male	Mutant	Lithium	B3	Group1
-Dyrk_HvF_1	Dyrk	HvF	Dyrk_F	Female	Mutant	Vehicle	B3	Group2
-Dyrk_HvF_2	Dyrk	HvF	Dyrk_F	Female	Mutant	Vehicle	B3	Group2
-Dyrk_HvF_3	Dyrk	HvF	Dyrk_F	Female	Mutant	Vehicle	B3	Group2
-Dyrk_HvF_4	Dyrk	HvF	Dyrk_F	Female	Mutant	Vehicle	B3	Group2
-Dyrk_HvF_5	Dyrk	HvF	Dyrk_F	Female	Mutant	Vehicle	B3	Group2
-Dyrk_HvM_1	Dyrk	HvM	Dyrk_M	Male	Mutant	Vehicle	B3	Group1
-Dyrk_HvM_2	Dyrk	HvM	Dyrk_M	Male	Mutant	Vehicle	B3	Group1
-Dyrk_HvM_3	Dyrk	HvM	Dyrk_M	Male	Mutant	Vehicle	B3	Group1
-Dyrk_HvM_4	Dyrk	HvM	Dyrk_M	Male	Mutant	Vehicle	B3	Group1
-Dyrk_HvM_5	Dyrk	HvM	Dyrk_M	Male	Mutant	Vehicle	B3	Group1
-Dyrk_WfF_1	Dyrk	WfF	Dyrk_F	Female	Wildtype	Fluoxetine	B3	Group2
-Dyrk_WfF_2	Dyrk	WfF	Dyrk_F	Female	Wildtype	Fluoxetine	B3	Group2
-Dyrk_WfF_3	Dyrk	WfF	Dyrk_F	Female	Wildtype	Fluoxetine	B3	Group2
-Dyrk_WfF_4	Dyrk	WfF	Dyrk_F	Female	Wildtype	Fluoxetine	B3	Group2
-Dyrk_WfF_5	Dyrk	WfF	Dyrk_F	Female	Wildtype	Fluoxetine	B3	Group2
-Dyrk_WfM_1	Dyrk	WfM	Dyrk_M	Male	Wildtype	Fluoxetine	B3	Group1
-Dyrk_WfM_2	Dyrk	WfM	Dyrk_M	Male	Wildtype	Fluoxetine	B3	Group1
-Dyrk_WfM_3	Dyrk	WfM	Dyrk_M	Male	Wildtype	Fluoxetine	B3	Group1
-Dyrk_WfM_4	Dyrk	WfM	Dyrk_M	Male	Wildtype	Fluoxetine	B3	Group1
-Dyrk_WLF_1	Dyrk	WLF	Dyrk_F	Female	Wildtype	Lithium	B3	Group2
-Dyrk_WLF_2	Dyrk	WLF	Dyrk_F	Female	Wildtype	Lithium	B3	Group2
-Dyrk_WLF_3	Dyrk	WLF	Dyrk_F	Female	Wildtype	Lithium	B3	Group2
-Dyrk_WLF_4	Dyrk	WLF	Dyrk_F	Female	Wildtype	Lithium	B3	Group2
-Dyrk_WLF_5	Dyrk	WLF	Dyrk_F	Female	Wildtype	Lithium	B3	Group2
-Dyrk_WLM_1	Dyrk	WLM	Dyrk_M	Male	Wildtype	Lithium	B3	Group1
-Dyrk_WLM_2	Dyrk	WLM	Dyrk_M	Male	Wildtype	Lithium	B3	Group1
-Dyrk_WLM_3	Dyrk	WLM	Dyrk_M	Male	Wildtype	Lithium	B3	Group1
-Dyrk_WLM_4	Dyrk	WLM	Dyrk_M	Male	Wildtype	Lithium	B3	Group1
-Dyrk_WLM_5	Dyrk	WLM	Dyrk_M	Male	Wildtype	Lithium	B3	Group1
-Dyrk_WvF_1	Dyrk	WvF	Dyrk_F	Female	Wildtype	Vehicle	B3	Group2
-Dyrk_WvF_2	Dyrk	WvF	Dyrk_F	Female	Wildtype	Vehicle	B3	Group2
-Dyrk_WvF_3	Dyrk	WvF	Dyrk_F	Female	Wildtype	Vehicle	B3	Group2
-Dyrk_WvF_4	Dyrk	WvF	Dyrk_F	Female	Wildtype	Vehicle	B3	Group2
-Dyrk_WvF_5	Dyrk	WvF	Dyrk_F	Female	Wildtype	Vehicle	B3	Group2
-Dyrk_WvM_1	Dyrk	WvM	Dyrk_M	Male	Wildtype	Vehicle	B3	Group1
-Dyrk_WvM_2	Dyrk	WvM	Dyrk_M	Male	Wildtype	Vehicle	B3	Group1
-Dyrk_WvM_3	Dyrk	WvM	Dyrk_M	Male	Wildtype	Vehicle	B3	Group1
-Dyrk_WvM_4	Dyrk	WvM	Dyrk_M	Male	Wildtype	Vehicle	B3	Group1
-Dyrk_WvM_5	Dyrk	WvM	Dyrk_M	Male	Wildtype	Vehicle	B3	Group1
-G2b_HfF_1	G2b	HfF	G2b_F	Female	Mutant	Fluoxetine	B1	Group2
-G2b_HfF_2	G2b	HfF	G2b_F	Female	Mutant	Fluoxetine	B1	Group2
-G2b_HfF_3	G2b	HfF	G2b_F	Female	Mutant	Fluoxetine	B1	Group2
-G2b_HfF_4	G2b	HfF	G2b_F	Female	Mutant	Fluoxetine	B1	Group2
-G2b_HfF_5	G2b	HfF	G2b_F	Female	Mutant	Fluoxetine	B1	Group2
-G2b_HfM_1	G2b	HfM	G2b_M	Male	Mutant	Fluoxetine	B1	Group2
-G2b_HfM_2	G2b	HfM	G2b_M	Male	Mutant	Fluoxetine	B1	Group2
-G2b_HfM_3	G2b	HfM	G2b_M	Male	Mutant	Fluoxetine	B1	Group2
-G2b_HfM_4	G2b	HfM	G2b_M	Male	Mutant	Fluoxetine	B1	Group2
-G2b_HfM_5	G2b	HfM	G2b_M	Male	Mutant	Fluoxetine	B1	Group2
-G2b_HLF_1	G2b	HLF	G2b_F	Female	Mutant	Lithium	B1	Group2
-G2b_HLF_2	G2b	HLF	G2b_F	Female	Mutant	Lithium	B1	Group2
-G2b_HLF_3	G2b	HLF	G2b_F	Female	Mutant	Lithium	B1	Group2
-G2b_HLF_4	G2b	HLF	G2b_F	Female	Mutant	Lithium	B1	Group2
-G2b_HLF_5	G2b	HLF	G2b_F	Female	Mutant	Lithium	B1	Group2
-G2b_HLM_1	G2b	HLM	G2b_M	Male	Mutant	Lithium	B1	Group2
-G2b_HLM_2	G2b	HLM	G2b_M	Male	Mutant	Lithium	B1	Group2
-G2b_HLM_3	G2b	HLM	G2b_M	Male	Mutant	Lithium	B1	Group2
-G2b_HLM_4	G2b	HLM	G2b_M	Male	Mutant	Lithium	B1	Group2
-G2b_HLM_5	G2b	HLM	G2b_M	Male	Mutant	Lithium	B1	Group2
-G2b_HvF_1	G2b	HvF	G2b_F	Female	Mutant	Vehicle	B1	Group2
-G2b_HvF_2	G2b	HvF	G2b_F	Female	Mutant	Vehicle	B1	Group2
-G2b_HvF_3	G2b	HvF	G2b_F	Female	Mutant	Vehicle	B1	Group2
-G2b_HvF_4	G2b	HvF	G2b_F	Female	Mutant	Vehicle	B1	Group2
-G2b_HvF_5	G2b	HvF	G2b_F	Female	Mutant	Vehicle	B1	Group2
-G2b_HvM_1	G2b	HvM	G2b_M	Male	Mutant	Vehicle	B1	Group2
-G2b_HvM_2	G2b	HvM	G2b_M	Male	Mutant	Vehicle	B1	Group2
-G2b_HvM_3	G2b	HvM	G2b_M	Male	Mutant	Vehicle	B1	Group2
-G2b_HvM_4	G2b	HvM	G2b_M	Male	Mutant	Vehicle	B1	Group2
-G2b_HvM_5	G2b	HvM	G2b_M	Male	Mutant	Vehicle	B1	Group2
-G2b_WfF_1	G2b	WfF	G2b_F	Female	Wildtype	Fluoxetine	B1	Group2
-G2b_WfF_2	G2b	WfF	G2b_F	Female	Wildtype	Fluoxetine	B1	Group2
-G2b_WfF_3	G2b	WfF	G2b_F	Female	Wildtype	Fluoxetine	B1	Group2
-G2b_WfF_4	G2b	WfF	G2b_F	Female	Wildtype	Fluoxetine	B1	Group2
-G2b_WfF_5	G2b	WfF	G2b_F	Female	Wildtype	Fluoxetine	B1	Group2
-G2b_WfM_1	G2b	WfM	G2b_M	Male	Wildtype	Fluoxetine	B1	Group2
-G2b_WfM_2	G2b	WfM	G2b_M	Male	Wildtype	Fluoxetine	B1	Group2
-G2b_WfM_3	G2b	WfM	G2b_M	Male	Wildtype	Fluoxetine	B1	Group2
-G2b_WfM_4	G2b	WfM	G2b_M	Male	Wildtype	Fluoxetine	B1	Group2
-G2b_WfM_5	G2b	WfM	G2b_M	Male	Wildtype	Fluoxetine	B1	Group2
-G2b_WLF_1	G2b	WLF	G2b_F	Female	Wildtype	Lithium	B1	Group2
-G2b_WLF_2	G2b	WLF	G2b_F	Female	Wildtype	Lithium	B1	Group2
-G2b_WLF_3	G2b	WLF	G2b_F	Female	Wildtype	Lithium	B1	Group2
-G2b_WLF_4	G2b	WLF	G2b_F	Female	Wildtype	Lithium	B1	Group2
-G2b_WLF_5	G2b	WLF	G2b_F	Female	Wildtype	Lithium	B1	Group2
-G2b_WLM_1	G2b	WLM	G2b_M	Male	Wildtype	Lithium	B1	Group2
-G2b_WLM_2	G2b	WLM	G2b_M	Male	Wildtype	Lithium	B1	Group2
-G2b_WLM_3	G2b	WLM	G2b_M	Male	Wildtype	Lithium	B1	Group2
-G2b_WLM_4	G2b	WLM	G2b_M	Male	Wildtype	Lithium	B1	Group2
-G2b_WLM_5	G2b	WLM	G2b_M	Male	Wildtype	Lithium	B1	Group2
-G2b_WvF_1	G2b	WvF	G2b_F	Female	Wildtype	Vehicle	B1	Group2
-G2b_WvF_2	G2b	WvF	G2b_F	Female	Wildtype	Vehicle	B1	Group2
-G2b_WvF_3	G2b	WvF	G2b_F	Female	Wildtype	Vehicle	B1	Group2
-G2b_WvF_4	G2b	WvF	G2b_F	Female	Wildtype	Vehicle	B1	Group2
-G2b_WvF_5	G2b	WvF	G2b_F	Female	Wildtype	Vehicle	B1	Group2
-G2b_WvM_1	G2b	WvM	G2b_M	Male	Wildtype	Vehicle	B1	Group2
-G2b_WvM_2	G2b	WvM	G2b_M	Male	Wildtype	Vehicle	B1	Group2
-G2b_WvM_3	G2b	WvM	G2b_M	Male	Wildtype	Vehicle	B1	Group2
-G2b_WvM_4	G2b	WvM	G2b_M	Male	Wildtype	Vehicle	B1	Group2
-G2b_WvM_5	G2b	WvM	G2b_M	Male	Wildtype	Vehicle	B1	Group2
-K5B_HfF_1	K5B	HfF	K5B_F	Female	Mutant	Fluoxetine	B5	Group1
-K5B_HfF_2	K5B	HfF	K5B_F	Female	Mutant	Fluoxetine	B5	Group1
-K5B_HfF_3	K5B	HfF	K5B_F	Female	Mutant	Fluoxetine	B5	Group1
-K5B_HfF_4	K5B	HfF	K5B_F	Female	Mutant	Fluoxetine	B5	Group1
-K5B_HfF_5	K5B	HfF	K5B_F	Female	Mutant	Fluoxetine	B5	Group1
-K5B_HfM_1	K5B	HfM	K5B_M	Male	Mutant	Fluoxetine	B5	Group1
-K5B_HfM_2	K5B	HfM	K5B_M	Male	Mutant	Fluoxetine	B5	Group1
-K5B_HfM_3	K5B	HfM	K5B_M	Male	Mutant	Fluoxetine	B5	Group1
-K5B_HfM_4	K5B	HfM	K5B_M	Male	Mutant	Fluoxetine	B5	Group1
-K5B_HfM_5	K5B	HfM	K5B_M	Male	Mutant	Fluoxetine	B5	Group1
-K5B_HLF_1	K5B	HLF	K5B_F	Female	Mutant	Lithium	B5	Group1
-K5B_HLF_2	K5B	HLF	K5B_F	Female	Mutant	Lithium	B5	Group1
-K5B_HLF_3	K5B	HLF	K5B_F	Female	Mutant	Lithium	B5	Group1
-K5B_HLF_4	K5B	HLF	K5B_F	Female	Mutant	Lithium	B5	Group1
-K5B_HLF_5	K5B	HLF	K5B_F	Female	Mutant	Lithium	B5	Group1
-K5B_HLM_1	K5B	HLM	K5B_M	Male	Mutant	Lithium	B5	Group1
-K5B_HLM_2	K5B	HLM	K5B_M	Male	Mutant	Lithium	B5	Group1
-K5B_HLM_3	K5B	HLM	K5B_M	Male	Mutant	Lithium	B5	Group1
-K5B_HLM_4	K5B	HLM	K5B_M	Male	Mutant	Lithium	B5	Group1
-K5B_HLM_5	K5B	HLM	K5B_M	Male	Mutant	Lithium	B5	Group1
-K5B_HvF_1	K5B	HvF	K5B_F	Female	Mutant	Vehicle	B5	Group1
-K5B_HvF_2	K5B	HvF	K5B_F	Female	Mutant	Vehicle	B5	Group1
-K5B_HvF_3	K5B	HvF	K5B_F	Female	Mutant	Vehicle	B5	Group1
-K5B_HvF_4	K5B	HvF	K5B_F	Female	Mutant	Vehicle	B5	Group1
-K5B_HvF_5	K5B	HvF	K5B_F	Female	Mutant	Vehicle	B5	Group1
-K5B_HvM_1	K5B	HvM	K5B_M	Male	Mutant	Vehicle	B5	Group1
-K5B_HvM_2	K5B	HvM	K5B_M	Male	Mutant	Vehicle	B5	Group1
-K5B_HvM_3	K5B	HvM	K5B_M	Male	Mutant	Vehicle	B5	Group1
-K5B_HvM_4	K5B	HvM	K5B_M	Male	Mutant	Vehicle	B5	Group1
-K5B_HvM_5	K5B	HvM	K5B_M	Male	Mutant	Vehicle	B5	Group1
-K5B_WfF_1	K5B	WfF	K5B_F	Female	Wildtype	Fluoxetine	B5	Group1
-K5B_WfF_2	K5B	WfF	K5B_F	Female	Wildtype	Fluoxetine	B5	Group1
-K5B_WfF_3	K5B	WfF	K5B_F	Female	Wildtype	Fluoxetine	B5	Group1
-K5B_WfF_4	K5B	WfF	K5B_F	Female	Wildtype	Fluoxetine	B5	Group1
-K5B_WfF_5	K5B	WfF	K5B_F	Female	Wildtype	Fluoxetine	B5	Group1
-K5B_WfM_1	K5B	WfM	K5B_M	Male	Wildtype	Fluoxetine	B5	Group1
-K5B_WfM_2	K5B	WfM	K5B_M	Male	Wildtype	Fluoxetine	B5	Group1
-K5B_WfM_3	K5B	WfM	K5B_M	Male	Wildtype	Fluoxetine	B5	Group1
-K5B_WfM_4	K5B	WfM	K5B_M	Male	Wildtype	Fluoxetine	B5	Group1
-K5B_WfM_5	K5B	WfM	K5B_M	Male	Wildtype	Fluoxetine	B5	Group1
-K5B_WLF_1	K5B	WLF	K5B_F	Female	Wildtype	Lithium	B5	Group1
-K5B_WLF_2	K5B	WLF	K5B_F	Female	Wildtype	Lithium	B5	Group1
-K5B_WLF_3	K5B	WLF	K5B_F	Female	Wildtype	Lithium	B5	Group1
-K5B_WLF_4	K5B	WLF	K5B_F	Female	Wildtype	Lithium	B5	Group1
-K5B_WLM_1	K5B	WLM	K5B_M	Male	Wildtype	Lithium	B5	Group1
-K5B_WLM_2	K5B	WLM	K5B_M	Male	Wildtype	Lithium	B5	Group1
-K5B_WLM_3	K5B	WLM	K5B_M	Male	Wildtype	Lithium	B5	Group1
-K5B_WLM_4	K5B	WLM	K5B_M	Male	Wildtype	Lithium	B5	Group1
-K5B_WvF_1	K5B	WvF	K5B_F	Female	Wildtype	Vehicle	B5	Group1
-K5B_WvF_2	K5B	WvF	K5B_F	Female	Wildtype	Vehicle	B5	Group1
-K5B_WvF_3	K5B	WvF	K5B_F	Female	Wildtype	Vehicle	B5	Group1
-K5B_WvF_4	K5B	WvF	K5B_F	Female	Wildtype	Vehicle	B5	Group1
-K5B_WvF_5	K5B	WvF	K5B_F	Female	Wildtype	Vehicle	B5	Group1
-K5B_WvM_1	K5B	WvM	K5B_M	Male	Wildtype	Vehicle	B5	Group1
-K5B_WvM_2	K5B	WvM	K5B_M	Male	Wildtype	Vehicle	B5	Group1
-K5B_WvM_3	K5B	WvM	K5B_M	Male	Wildtype	Vehicle	B5	Group1
-K5B_WvM_4	K5B	WvM	K5B_M	Male	Wildtype	Vehicle	B5	Group1
-K5B_WvM_5	K5B	WvM	K5B_M	Male	Wildtype	Vehicle	B5	Group1
-Shank3_HfF_1	Shank3	HfF	Shank3_F	Female	Mutant	Fluoxetine	B6	Group2
-Shank3_HfF_2	Shank3	HfF	Shank3_F	Female	Mutant	Fluoxetine	B6	Group2
-Shank3_HfF_3	Shank3	HfF	Shank3_F	Female	Mutant	Fluoxetine	B6	Group2
-Shank3_HfF_4	Shank3	HfF	Shank3_F	Female	Mutant	Fluoxetine	B6	Group2
-Shank3_HfF_5	Shank3	HfF	Shank3_F	Female	Mutant	Fluoxetine	B6	Group2
-Shank3_HfM_1	Shank3	HfM	Shank3_M	Male	Mutant	Fluoxetine	B6	Group1
-Shank3_HfM_2	Shank3	HfM	Shank3_M	Male	Mutant	Fluoxetine	B6	Group1
-Shank3_HfM_3	Shank3	HfM	Shank3_M	Male	Mutant	Fluoxetine	B6	Group1
-Shank3_HfM_4	Shank3	HfM	Shank3_M	Male	Mutant	Fluoxetine	B6	Group1
-Shank3_HfM_5	Shank3	HfM	Shank3_M	Male	Mutant	Fluoxetine	B6	Group1
-Shank3_HLF_1	Shank3	HLF	Shank3_F	Female	Mutant	Lithium	B6	Group2
-Shank3_HLF_2	Shank3	HLF	Shank3_F	Female	Mutant	Lithium	B6	Group2
-Shank3_HLF_3	Shank3	HLF	Shank3_F	Female	Mutant	Lithium	B6	Group2
-Shank3_HLF_4	Shank3	HLF	Shank3_F	Female	Mutant	Lithium	B6	Group2
-Shank3_HLF_5	Shank3	HLF	Shank3_F	Female	Mutant	Lithium	B6	Group2
-Shank3_HLM_1	Shank3	HLM	Shank3_M	Male	Mutant	Lithium	B6	Group1
-Shank3_HLM_2	Shank3	HLM	Shank3_M	Male	Mutant	Lithium	B6	Group1
-Shank3_HLM_3	Shank3	HLM	Shank3_M	Male	Mutant	Lithium	B6	Group1
-Shank3_HLM_4	Shank3	HLM	Shank3_M	Male	Mutant	Lithium	B6	Group1
-Shank3_HLM_5	Shank3	HLM	Shank3_M	Male	Mutant	Lithium	B6	Group1
-Shank3_HvF_1	Shank3	HvF	Shank3_F	Female	Mutant	Vehicle	B6	Group2
-Shank3_HvF_2	Shank3	HvF	Shank3_F	Female	Mutant	Vehicle	B6	Group2
-Shank3_HvF_3	Shank3	HvF	Shank3_F	Female	Mutant	Vehicle	B6	Group2
-Shank3_HvF_4	Shank3	HvF	Shank3_F	Female	Mutant	Vehicle	B6	Group2
-Shank3_HvF_5	Shank3	HvF	Shank3_F	Female	Mutant	Vehicle	B6	Group2
-Shank3_HvM_1	Shank3	HvM	Shank3_M	Male	Mutant	Vehicle	B6	Group1
-Shank3_HvM_2	Shank3	HvM	Shank3_M	Male	Mutant	Vehicle	B6	Group1
-Shank3_HvM_3	Shank3	HvM	Shank3_M	Male	Mutant	Vehicle	B6	Group1
-Shank3_HvM_4	Shank3	HvM	Shank3_M	Male	Mutant	Vehicle	B6	Group1
-Shank3_HvM_5	Shank3	HvM	Shank3_M	Male	Mutant	Vehicle	B6	Group1
-Shank3_WfF_1	Shank3	WfF	Shank3_F	Female	Wildtype	Fluoxetine	B6	Group2
-Shank3_WfF_2	Shank3	WfF	Shank3_F	Female	Wildtype	Fluoxetine	B6	Group2
-Shank3_WfF_3	Shank3	WfF	Shank3_F	Female	Wildtype	Fluoxetine	B6	Group2
-Shank3_WfF_4	Shank3	WfF	Shank3_F	Female	Wildtype	Fluoxetine	B6	Group2
-Shank3_WfF_5	Shank3	WfF	Shank3_F	Female	Wildtype	Fluoxetine	B6	Group2
-Shank3_WfM_1	Shank3	WfM	Shank3_M	Male	Wildtype	Fluoxetine	B6	Group1
-Shank3_WfM_2	Shank3	WfM	Shank3_M	Male	Wildtype	Fluoxetine	B6	Group1
-Shank3_WfM_3	Shank3	WfM	Shank3_M	Male	Wildtype	Fluoxetine	B6	Group1
-Shank3_WfM_4	Shank3	WfM	Shank3_M	Male	Wildtype	Fluoxetine	B6	Group1
-Shank3_WfM_5	Shank3	WfM	Shank3_M	Male	Wildtype	Fluoxetine	B6	Group1
-Shank3_WLF_1	Shank3	WLF	Shank3_F	Female	Wildtype	Lithium	B6	Group2
-Shank3_WLF_2	Shank3	WLF	Shank3_F	Female	Wildtype	Lithium	B6	Group2
-Shank3_WLF_3	Shank3	WLF	Shank3_F	Female	Wildtype	Lithium	B6	Group2
-Shank3_WLF_4	Shank3	WLF	Shank3_F	Female	Wildtype	Lithium	B6	Group2
-Shank3_WLM_1	Shank3	WLM	Shank3_M	Male	Wildtype	Lithium	B6	Group1
-Shank3_WLM_2	Shank3	WLM	Shank3_M	Male	Wildtype	Lithium	B6	Group1
-Shank3_WLM_3	Shank3	WLM	Shank3_M	Male	Wildtype	Lithium	B6	Group1
-Shank3_WLM_4	Shank3	WLM	Shank3_M	Male	Wildtype	Lithium	B6	Group1
-Shank3_WLM_5	Shank3	WLM	Shank3_M	Male	Wildtype	Lithium	B6	Group1
-Shank3_WvF_1	Shank3	WvF	Shank3_F	Female	Wildtype	Vehicle	B6	Group2
-Shank3_WvF_2	Shank3	WvF	Shank3_F	Female	Wildtype	Vehicle	B6	Group2
-Shank3_WvF_3	Shank3	WvF	Shank3_F	Female	Wildtype	Vehicle	B6	Group2
-Shank3_WvF_4	Shank3	WvF	Shank3_F	Female	Wildtype	Vehicle	B6	Group2
-Shank3_WvF_5	Shank3	WvF	Shank3_F	Female	Wildtype	Vehicle	B6	Group2
-Shank3_WvM_1	Shank3	WvM	Shank3_M	Male	Wildtype	Vehicle	B6	Group1
-Shank3_WvM_2	Shank3	WvM	Shank3_M	Male	Wildtype	Vehicle	B6	Group1
-Shank3_WvM_3	Shank3	WvM	Shank3_M	Male	Wildtype	Vehicle	B6	Group1
-Shank3_WvM_4	Shank3	WvM	Shank3_M	Male	Wildtype	Vehicle	B6	Group1
-Shank3_WvM_5	Shank3	WvM	Shank3_M	Male	Wildtype	Vehicle	B6	Group1
-Mt1_HfF_1	Mt1	HfF	Mt1_F	Female	Mutant	Fluoxetine	B4-1	Group2
-Mt1_HfF_2	Mt1	HfF	Mt1_F	Female	Mutant	Fluoxetine	B4-1	Group2
-Mt1_HfF_3	Mt1	HfF	Mt1_F	Female	Mutant	Fluoxetine	B4-1	Group2
-Mt1_HfF_4	Mt1	HfF	Mt1_F	Female	Mutant	Fluoxetine	B4-1	Group2
-Mt1_HfF_5	Mt1	HfF	Mt1_F	Female	Mutant	Fluoxetine	B4-1	Group2
-Mt1_HfM_1	Mt1	HfM	Mt1_M	Male	Mutant	Fluoxetine	B4-1	Group2
-Mt1_HfM_2	Mt1	HfM	Mt1_M	Male	Mutant	Fluoxetine	B4-1	Group2
-Mt1_HfM_3	Mt1	HfM	Mt1_M	Male	Mutant	Fluoxetine	B4-1	Group2
-Mt1_HfM_4	Mt1	HfM	Mt1_M	Male	Mutant	Fluoxetine	B4-1	Group2
-Mt1_HfM_5	Mt1	HfM	Mt1_M	Male	Mutant	Fluoxetine	B4-1	Group2
-Mt1_HLF_1	Mt1	HLF	Mt1_F	Female	Mutant	Lithium	B4-1	Group2
-Mt1_HLF_2	Mt1	HLF	Mt1_F	Female	Mutant	Lithium	B4-1	Group2
-Mt1_HLF_3	Mt1	HLF	Mt1_F	Female	Mutant	Lithium	B4-1	Group2
-Mt1_HLF_4	Mt1	HLF	Mt1_F	Female	Mutant	Lithium	B4-1	Group2
-Mt1_HLF_5	Mt1	HLF	Mt1_F	Female	Mutant	Lithium	B4-1	Group2
-Mt1_HLM_1	Mt1	HLM	Mt1_M	Male	Mutant	Lithium	B4-1	Group2
-Mt1_HLM_2	Mt1	HLM	Mt1_M	Male	Mutant	Lithium	B4-1	Group2
-Mt1_HLM_3	Mt1	HLM	Mt1_M	Male	Mutant	Lithium	B4-1	Group2
-Mt1_HLM_4	Mt1	HLM	Mt1_M	Male	Mutant	Lithium	B4-1	Group2
-Mt1_HLM_5	Mt1	HLM	Mt1_M	Male	Mutant	Lithium	B4-1	Group2
-Mt1_HvF_1	Mt1	HvF	Mt1_F	Female	Mutant	Vehicle	B4-1	Group2
-Mt1_HvF_2	Mt1	HvF	Mt1_F	Female	Mutant	Vehicle	B4-1	Group2
-Mt1_HvF_3	Mt1	HvF	Mt1_F	Female	Mutant	Vehicle	B4-1	Group2
-Mt1_HvF_4	Mt1	HvF	Mt1_F	Female	Mutant	Vehicle	B4-1	Group2
-Mt1_HvF_5	Mt1	HvF	Mt1_F	Female	Mutant	Vehicle	B4-1	Group2
-Mt1_HvM_1	Mt1	HvM	Mt1_M	Male	Mutant	Vehicle	B4-1	Group2
-Mt1_HvM_2	Mt1	HvM	Mt1_M	Male	Mutant	Vehicle	B4-1	Group2
-Mt1_HvM_3	Mt1	HvM	Mt1_M	Male	Mutant	Vehicle	B4-1	Group2
-Mt1_HvM_4	Mt1	HvM	Mt1_M	Male	Mutant	Vehicle	B4-1	Group2
-Mt1_HvM_5	Mt1	HvM	Mt1_M	Male	Mutant	Vehicle	B4-1	Group2
-Mt1_WfF_1	Mt1	WfF	Mt1_F	Female	Wildtype	Fluoxetine	B4-1	Group2
-Mt1_WfF_2	Mt1	WfF	Mt1_F	Female	Wildtype	Fluoxetine	B4-1	Group2
-Mt1_WfF_3	Mt1	WfF	Mt1_F	Female	Wildtype	Fluoxetine	B4-1	Group2
-Mt1_WfF_4	Mt1	WfF	Mt1_F	Female	Wildtype	Fluoxetine	B4-1	Group2
-Mt1_WfM_1	Mt1	WfM	Mt1_M	Male	Wildtype	Fluoxetine	B4-1	Group2
-Mt1_WfM_2	Mt1	WfM	Mt1_M	Male	Wildtype	Fluoxetine	B4-1	Group2
-Mt1_WfM_3	Mt1	WfM	Mt1_M	Male	Wildtype	Fluoxetine	B4-1	Group2
-Mt1_WfM_4	Mt1	WfM	Mt1_M	Male	Wildtype	Fluoxetine	B4-1	Group2
-Mt1_WfM_5	Mt1	WfM	Mt1_M	Male	Wildtype	Fluoxetine	B4-1	Group2
-Mt1_WLF_1	Mt1	WLF	Mt1_F	Female	Wildtype	Lithium	B4-1	Group2
-Mt1_WLF_2	Mt1	WLF	Mt1_F	Female	Wildtype	Lithium	B4-1	Group2
-Mt1_WLF_3	Mt1	WLF	Mt1_F	Female	Wildtype	Lithium	B4-1	Group2
-Mt1_WLF_4	Mt1	WLF	Mt1_F	Female	Wildtype	Lithium	B4-1	Group2
-Mt1_WLF_5	Mt1	WLF	Mt1_F	Female	Wildtype	Lithium	B4-1	Group2
-Mt1_WLM_1	Mt1	WLM	Mt1_M	Male	Wildtype	Lithium	B4-1	Group2
-Mt1_WLM_2	Mt1	WLM	Mt1_M	Male	Wildtype	Lithium	B4-1	Group2
-Mt1_WLM_3	Mt1	WLM	Mt1_M	Male	Wildtype	Lithium	B4-1	Group2
-Mt1_WLM_4	Mt1	WLM	Mt1_M	Male	Wildtype	Lithium	B4-1	Group2
-Mt1_WLM_5	Mt1	WLM	Mt1_M	Male	Wildtype	Lithium	B4-1	Group2
-Mt1_WvF_1	Mt1	WvF	Mt1_F	Female	Wildtype	Vehicle	B4-1	Group2
-Mt1_WvF_2	Mt1	WvF	Mt1_F	Female	Wildtype	Vehicle	B4-1	Group2
-Mt1_WvF_3	Mt1	WvF	Mt1_F	Female	Wildtype	Vehicle	B4-1	Group2
-Mt1_WvF_4	Mt1	WvF	Mt1_F	Female	Wildtype	Vehicle	B4-1	Group2
-Mt1_WvF_5	Mt1	WvF	Mt1_F	Female	Wildtype	Vehicle	B4-1	Group2
-Mt1_WvM_1	Mt1	WvM	Mt1_M	Male	Wildtype	Vehicle	B4-1	Group2
-Mt1_WvM_2	Mt1	WvM	Mt1_M	Male	Wildtype	Vehicle	B4-1	Group2
-Mt1_WvM_3	Mt1	WvM	Mt1_M	Male	Wildtype	Vehicle	B4-1	Group2
-Mt1_WvM_4	Mt1	WvM	Mt1_M	Male	Wildtype	Vehicle	B4-1	Group2
-Mt1_WvM_5	Mt1	WvM	Mt1_M	Male	Wildtype	Vehicle	B4-1	Group2
-Na_HfF_1	Na	HfF	Na_F	Female	Mutant	Fluoxetine	B3	Group2
-Na_HfF_2	Na	HfF	Na_F	Female	Mutant	Fluoxetine	B3	Group2
-Na_HfF_3	Na	HfF	Na_F	Female	Mutant	Fluoxetine	B3	Group2
-Na_HfF_4	Na	HfF	Na_F	Female	Mutant	Fluoxetine	B3	Group2
-Na_HfF_5	Na	HfF	Na_F	Female	Mutant	Fluoxetine	B3	Group2
-Na_HfM_1	Na	HfM	Na_M	Male	Mutant	Fluoxetine	B3	Group1
-Na_HfM_2	Na	HfM	Na_M	Male	Mutant	Fluoxetine	B3	Group1
-Na_HfM_3	Na	HfM	Na_M	Male	Mutant	Fluoxetine	B3	Group1
-Na_HfM_4	Na	HfM	Na_M	Male	Mutant	Fluoxetine	B3	Group1
-Na_HfM_5	Na	HfM	Na_M	Male	Mutant	Fluoxetine	B3	Group1
-Na_HLF_1	Na	HLF	Na_F	Female	Mutant	Lithium	B3	Group2
-Na_HLF_2	Na	HLF	Na_F	Female	Mutant	Lithium	B3	Group2
-Na_HLF_3	Na	HLF	Na_F	Female	Mutant	Lithium	B3	Group2
-Na_HLF_4	Na	HLF	Na_F	Female	Mutant	Lithium	B3	Group2
-Na_HLF_5	Na	HLF	Na_F	Female	Mutant	Lithium	B3	Group2
-Na_HLM_1	Na	HLM	Na_M	Male	Mutant	Lithium	B3	Group1
-Na_HLM_2	Na	HLM	Na_M	Male	Mutant	Lithium	B3	Group1
-Na_HLM_3	Na	HLM	Na_M	Male	Mutant	Lithium	B3	Group1
-Na_HLM_4	Na	HLM	Na_M	Male	Mutant	Lithium	B3	Group1
-Na_HLM_5	Na	HLM	Na_M	Male	Mutant	Lithium	B3	Group1
-Na_HvF_1	Na	HvF	Na_F	Female	Mutant	Vehicle	B3	Group2
-Na_HvF_2	Na	HvF	Na_F	Female	Mutant	Vehicle	B3	Group2
-Na_HvF_3	Na	HvF	Na_F	Female	Mutant	Vehicle	B3	Group2
-Na_HvF_4	Na	HvF	Na_F	Female	Mutant	Vehicle	B3	Group2
-Na_HvF_5	Na	HvF	Na_F	Female	Mutant	Vehicle	B3	Group2
-Na_HvM_1	Na	HvM	Na_M	Male	Mutant	Vehicle	B3	Group1
-Na_HvM_2	Na	HvM	Na_M	Male	Mutant	Vehicle	B3	Group1
-Na_HvM_4	Na	HvM	Na_M	Male	Mutant	Vehicle	B3	Group1
-Na_HvM_5	Na	HvM	Na_M	Male	Mutant	Vehicle	B3	Group1
-Na_WfF_1	Na	WfF	Na_F	Female	Wildtype	Fluoxetine	B3	Group2
-Na_WfF_2	Na	WfF	Na_F	Female	Wildtype	Fluoxetine	B3	Group2
-Na_WfF_3	Na	WfF	Na_F	Female	Wildtype	Fluoxetine	B3	Group2
-Na_WfF_4	Na	WfF	Na_F	Female	Wildtype	Fluoxetine	B3	Group2
-Na_WfF_5	Na	WfF	Na_F	Female	Wildtype	Fluoxetine	B3	Group2
-Na_WfM_1	Na	WfM	Na_M	Male	Wildtype	Fluoxetine	B3	Group1
-Na_WfM_2	Na	WfM	Na_M	Male	Wildtype	Fluoxetine	B3	Group1
-Na_WfM_3	Na	WfM	Na_M	Male	Wildtype	Fluoxetine	B3	Group1
-Na_WfM_4	Na	WfM	Na_M	Male	Wildtype	Fluoxetine	B3	Group1
-Na_WfM_5	Na	WfM	Na_M	Male	Wildtype	Fluoxetine	B3	Group1
-Na_WLF_1	Na	WLF	Na_F	Female	Wildtype	Lithium	B3	Group2
-Na_WLF_2	Na	WLF	Na_F	Female	Wildtype	Lithium	B3	Group2
-Na_WLF_3	Na	WLF	Na_F	Female	Wildtype	Lithium	B3	Group2
-Na_WLF_4	Na	WLF	Na_F	Female	Wildtype	Lithium	B3	Group2
-Na_WLF_5	Na	WLF	Na_F	Female	Wildtype	Lithium	B3	Group2
-Na_WLM_1	Na	WLM	Na_M	Male	Wildtype	Lithium	B3	Group1
-Na_WLM_2	Na	WLM	Na_M	Male	Wildtype	Lithium	B3	Group1
-Na_WLM_3	Na	WLM	Na_M	Male	Wildtype	Lithium	B3	Group1
-Na_WLM_4	Na	WLM	Na_M	Male	Wildtype	Lithium	B3	Group1
-Na_WLM_5	Na	WLM	Na_M	Male	Wildtype	Lithium	B3	Group1
-Na_WvF_1	Na	WvF	Na_F	Female	Wildtype	Vehicle	B3	Group2
-Na_WvF_2	Na	WvF	Na_F	Female	Wildtype	Vehicle	B3	Group2
-Na_WvF_3	Na	WvF	Na_F	Female	Wildtype	Vehicle	B3	Group2
-Na_WvF_4	Na	WvF	Na_F	Female	Wildtype	Vehicle	B3	Group2
-Na_WvF_5	Na	WvF	Na_F	Female	Wildtype	Vehicle	B3	Group2
-Na_WvM_1	Na	WvM	Na_M	Male	Wildtype	Vehicle	B3	Group1
-Na_WvM_2	Na	WvM	Na_M	Male	Wildtype	Vehicle	B3	Group1
-Na_WvM_3	Na	WvM	Na_M	Male	Wildtype	Vehicle	B3	Group1
-Na_WvM_4	Na	WvM	Na_M	Male	Wildtype	Vehicle	B3	Group1
-Na_WvM_5	Na	WvM	Na_M	Male	Wildtype	Vehicle	B3	Group1
-PTEN_HfF_1	PTEN	HfF	PTEN_F	Female	Mutant	Fluoxetine	B5	Group1
-PTEN_HfF_2	PTEN	HfF	PTEN_F	Female	Mutant	Fluoxetine	B5	Group1
-PTEN_HfF_3	PTEN	HfF	PTEN_F	Female	Mutant	Fluoxetine	B5	Group1
-PTEN_HfF_4	PTEN	HfF	PTEN_F	Female	Mutant	Fluoxetine	B5	Group1
-PTEN_HfF_5	PTEN	HfF	PTEN_F	Female	Mutant	Fluoxetine	B5	Group1
-PTEN_HfM_1	PTEN	HfM	PTEN_M	Male	Mutant	Fluoxetine	B5	Group1
-PTEN_HfM_2	PTEN	HfM	PTEN_M	Male	Mutant	Fluoxetine	B5	Group1
-PTEN_HfM_3	PTEN	HfM	PTEN_M	Male	Mutant	Fluoxetine	B5	Group1
-PTEN_HfM_4	PTEN	HfM	PTEN_M	Male	Mutant	Fluoxetine	B5	Group1
-PTEN_HfM_5	PTEN	HfM	PTEN_M	Male	Mutant	Fluoxetine	B5	Group1
-PTEN_HLF_1	PTEN	HLF	PTEN_F	Female	Mutant	Lithium	B5	Group1
-PTEN_HLF_2	PTEN	HLF	PTEN_F	Female	Mutant	Lithium	B5	Group1
-PTEN_HLF_3	PTEN	HLF	PTEN_F	Female	Mutant	Lithium	B5	Group1
-PTEN_HLF_4	PTEN	HLF	PTEN_F	Female	Mutant	Lithium	B5	Group1
-PTEN_HLF_5	PTEN	HLF	PTEN_F	Female	Mutant	Lithium	B5	Group1
-PTEN_HLM_1	PTEN	HLM	PTEN_M	Male	Mutant	Lithium	B5	Group1
-PTEN_HLM_2	PTEN	HLM	PTEN_M	Male	Mutant	Lithium	B5	Group1
-PTEN_HLM_3	PTEN	HLM	PTEN_M	Male	Mutant	Lithium	B5	Group1
-PTEN_HLM_4	PTEN	HLM	PTEN_M	Male	Mutant	Lithium	B5	Group1
-PTEN_HLM_5	PTEN	HLM	PTEN_M	Male	Mutant	Lithium	B5	Group1
-PTEN_HvF_1	PTEN	HvF	PTEN_F	Female	Mutant	Vehicle	B5	Group1
-PTEN_HvF_2	PTEN	HvF	PTEN_F	Female	Mutant	Vehicle	B5	Group1
-PTEN_HvF_3	PTEN	HvF	PTEN_F	Female	Mutant	Vehicle	B5	Group1
-PTEN_HvF_4	PTEN	HvF	PTEN_F	Female	Mutant	Vehicle	B5	Group1
-PTEN_HvF_5	PTEN	HvF	PTEN_F	Female	Mutant	Vehicle	B5	Group1
-PTEN_HvM_1	PTEN	HvM	PTEN_M	Male	Mutant	Vehicle	B5	Group1
-PTEN_HvM_2	PTEN	HvM	PTEN_M	Male	Mutant	Vehicle	B5	Group1
-PTEN_HvM_3	PTEN	HvM	PTEN_M	Male	Mutant	Vehicle	B5	Group1
-PTEN_HvM_4	PTEN	HvM	PTEN_M	Male	Mutant	Vehicle	B5	Group1
-PTEN_HvM_5	PTEN	HvM	PTEN_M	Male	Mutant	Vehicle	B5	Group1
-PTEN_WfF_1	PTEN	WfF	PTEN_F	Female	Wildtype	Fluoxetine	B5	Group1
-PTEN_WfF_2	PTEN	WfF	PTEN_F	Female	Wildtype	Fluoxetine	B5	Group1
-PTEN_WfF_3	PTEN	WfF	PTEN_F	Female	Wildtype	Fluoxetine	B5	Group1
-PTEN_WfF_4	PTEN	WfF	PTEN_F	Female	Wildtype	Fluoxetine	B5	Group1
-PTEN_WfF_5	PTEN	WfF	PTEN_F	Female	Wildtype	Fluoxetine	B5	Group1
-PTEN_WfM_1	PTEN	WfM	PTEN_M	Male	Wildtype	Fluoxetine	B5	Group1
-PTEN_WfM_2	PTEN	WfM	PTEN_M	Male	Wildtype	Fluoxetine	B5	Group1
-PTEN_WfM_3	PTEN	WfM	PTEN_M	Male	Wildtype	Fluoxetine	B5	Group1
-PTEN_WfM_4	PTEN	WfM	PTEN_M	Male	Wildtype	Fluoxetine	B5	Group1
-PTEN_WfM_5	PTEN	WfM	PTEN_M	Male	Wildtype	Fluoxetine	B5	Group1
-PTEN_WLF_1	PTEN	WLF	PTEN_F	Female	Wildtype	Lithium	B5	Group1
-PTEN_WLF_2	PTEN	WLF	PTEN_F	Female	Wildtype	Lithium	B5	Group1
-PTEN_WLF_3	PTEN	WLF	PTEN_F	Female	Wildtype	Lithium	B5	Group1
-PTEN_WLF_4	PTEN	WLF	PTEN_F	Female	Wildtype	Lithium	B5	Group1
-PTEN_WLF_5	PTEN	WLF	PTEN_F	Female	Wildtype	Lithium	B5	Group1
-PTEN_WLM_1	PTEN	WLM	PTEN_M	Male	Wildtype	Lithium	B5	Group1
-PTEN_WLM_2	PTEN	WLM	PTEN_M	Male	Wildtype	Lithium	B5	Group1
-PTEN_WLM_3	PTEN	WLM	PTEN_M	Male	Wildtype	Lithium	B5	Group1
-PTEN_WLM_4	PTEN	WLM	PTEN_M	Male	Wildtype	Lithium	B5	Group1
-PTEN_WLM_5	PTEN	WLM	PTEN_M	Male	Wildtype	Lithium	B5	Group1
-PTEN_WvF_1	PTEN	WvF	PTEN_F	Female	Wildtype	Vehicle	B5	Group1
-PTEN_WvF_2	PTEN	WvF	PTEN_F	Female	Wildtype	Vehicle	B5	Group1
-PTEN_WvF_3	PTEN	WvF	PTEN_F	Female	Wildtype	Vehicle	B5	Group1
-PTEN_WvF_4	PTEN	WvF	PTEN_F	Female	Wildtype	Vehicle	B5	Group1
-PTEN_WvF_5	PTEN	WvF	PTEN_F	Female	Wildtype	Vehicle	B5	Group1
-PTEN_WvM_1	PTEN	WvM	PTEN_M	Male	Wildtype	Vehicle	B5	Group1
-PTEN_WvM_2	PTEN	WvM	PTEN_M	Male	Wildtype	Vehicle	B5	Group1
-PTEN_WvM_3	PTEN	WvM	PTEN_M	Male	Wildtype	Vehicle	B5	Group1
-PTEN_WvM_4	PTEN	WvM	PTEN_M	Male	Wildtype	Vehicle	B5	Group1
-PTEN_WvM_5	PTEN	WvM	PTEN_M	Male	Wildtype	Vehicle	B5	Group1
-Scn_HfF_1	Scn	HfF	Scn_F	Female	Mutant	Fluoxetine	B3	Group2
-Scn_HfF_2	Scn	HfF	Scn_F	Female	Mutant	Fluoxetine	B3	Group2
-Scn_HfF_3	Scn	HfF	Scn_F	Female	Mutant	Fluoxetine	B3	Group2
-Scn_HfF_4	Scn	HfF	Scn_F	Female	Mutant	Fluoxetine	B3	Group2
-Scn_HfM_1	Scn	HfM	Scn_M	Male	Mutant	Fluoxetine	B3	Group2
-Scn_HfM_2	Scn	HfM	Scn_M	Male	Mutant	Fluoxetine	B3	Group2
-Scn_HfM_3	Scn	HfM	Scn_M	Male	Mutant	Fluoxetine	B3	Group2
-Scn_HfM_4	Scn	HfM	Scn_M	Male	Mutant	Fluoxetine	B3	Group2
-Scn_HfM_5	Scn	HfM	Scn_M	Male	Mutant	Fluoxetine	B3	Group2
-Scn_HLF_1	Scn	HLF	Scn_F	Female	Mutant	Lithium	B3	Group2
-Scn_HLF_2	Scn	HLF	Scn_F	Female	Mutant	Lithium	B3	Group2
-Scn_HLF_3	Scn	HLF	Scn_F	Female	Mutant	Lithium	B3	Group2
-Scn_HLF_4	Scn	HLF	Scn_F	Female	Mutant	Lithium	B3	Group2
-Scn_HLF_5	Scn	HLF	Scn_F	Female	Mutant	Lithium	B3	Group2
-Scn_HLM_1	Scn	HLM	Scn_M	Male	Mutant	Lithium	B3	Group2
-Scn_HLM_2	Scn	HLM	Scn_M	Male	Mutant	Lithium	B3	Group2
-Scn_HLM_3	Scn	HLM	Scn_M	Male	Mutant	Lithium	B3	Group2
-Scn_HLM_4	Scn	HLM	Scn_M	Male	Mutant	Lithium	B3	Group2
-Scn_HLM_5	Scn	HLM	Scn_M	Male	Mutant	Lithium	B3	Group2
-Scn_HvF_1	Scn	HvF	Scn_F	Female	Mutant	Vehicle	B3	Group2
-Scn_HvF_2	Scn	HvF	Scn_F	Female	Mutant	Vehicle	B3	Group2
-Scn_HvF_3	Scn	HvF	Scn_F	Female	Mutant	Vehicle	B3	Group2
-Scn_HvF_4	Scn	HvF	Scn_F	Female	Mutant	Vehicle	B3	Group2
-Scn_HvF_5	Scn	HvF	Scn_F	Female	Mutant	Vehicle	B3	Group2
-Scn_HvM_1	Scn	HvM	Scn_M	Male	Mutant	Vehicle	B3	Group2
-Scn_HvM_2	Scn	HvM	Scn_M	Male	Mutant	Vehicle	B3	Group2
-Scn_HvM_3	Scn	HvM	Scn_M	Male	Mutant	Vehicle	B3	Group2
-Scn_HvM_4	Scn	HvM	Scn_M	Male	Mutant	Vehicle	B3	Group2
-Scn_HvM_5	Scn	HvM	Scn_M	Male	Mutant	Vehicle	B3	Group2
-Scn_WfF_1	Scn	WfF	Scn_F	Female	Wildtype	Fluoxetine	B3	Group2
-Scn_WfF_2	Scn	WfF	Scn_F	Female	Wildtype	Fluoxetine	B3	Group2
-Scn_WfF_3	Scn	WfF	Scn_F	Female	Wildtype	Fluoxetine	B3	Group2
-Scn_WfF_5	Scn	WfF	Scn_F	Female	Wildtype	Fluoxetine	B3	Group2
-Scn_WfM_1	Scn	WfM	Scn_M	Male	Wildtype	Fluoxetine	B3	Group2
-Scn_WfM_2	Scn	WfM	Scn_M	Male	Wildtype	Fluoxetine	B3	Group2
-Scn_WfM_3	Scn	WfM	Scn_M	Male	Wildtype	Fluoxetine	B3	Group2
-Scn_WfM_4	Scn	WfM	Scn_M	Male	Wildtype	Fluoxetine	B3	Group2
-Scn_WfM_5	Scn	WfM	Scn_M	Male	Wildtype	Fluoxetine	B3	Group2
-Scn_WLF_1	Scn	WLF	Scn_F	Female	Wildtype	Lithium	B3	Group2
-Scn_WLF_3	Scn	WLF	Scn_F	Female	Wildtype	Lithium	B3	Group2
-Scn_WLF_4	Scn	WLF	Scn_F	Female	Wildtype	Lithium	B3	Group2
-Scn_WLF_5	Scn	WLF	Scn_F	Female	Wildtype	Lithium	B3	Group2
-Scn_WLM_1	Scn	WLM	Scn_M	Male	Wildtype	Lithium	B3	Group2
-Scn_WLM_2	Scn	WLM	Scn_M	Male	Wildtype	Lithium	B3	Group2
-Scn_WLM_3	Scn	WLM	Scn_M	Male	Wildtype	Lithium	B3	Group2
-Scn_WLM_4	Scn	WLM	Scn_M	Male	Wildtype	Lithium	B3	Group2
-Scn_WLM_5	Scn	WLM	Scn_M	Male	Wildtype	Lithium	B3	Group2
-Scn_WvF_1	Scn	WvF	Scn_F	Female	Wildtype	Vehicle	B3	Group2
-Scn_WvF_2	Scn	WvF	Scn_F	Female	Wildtype	Vehicle	B3	Group2
-Scn_WvF_3	Scn	WvF	Scn_F	Female	Wildtype	Vehicle	B3	Group2
-Scn_WvF_4	Scn	WvF	Scn_F	Female	Wildtype	Vehicle	B3	Group2
-Scn_WvF_5	Scn	WvF	Scn_F	Female	Wildtype	Vehicle	B3	Group2
-Scn_WvM_1	Scn	WvM	Scn_M	Male	Wildtype	Vehicle	B3	Group2
-Scn_WvM_2	Scn	WvM	Scn_M	Male	Wildtype	Vehicle	B3	Group2
-Scn_WvM_3	Scn	WvM	Scn_M	Male	Wildtype	Vehicle	B3	Group2
-Scn_WvM_4	Scn	WvM	Scn_M	Male	Wildtype	Vehicle	B3	Group2
-SdC_HfF_1	SdC	HfF	SdC_F	Female	Mutant	Fluoxetine	B4-1	Group1
-SdC_HfF_2	SdC	HfF	SdC_F	Female	Mutant	Fluoxetine	B4-1	Group1
-SdC_HfF_3	SdC	HfF	SdC_F	Female	Mutant	Fluoxetine	B4-1	Group1
-SdC_HfF_4	SdC	HfF	SdC_F	Female	Mutant	Fluoxetine	B4-1	Group1
-SdC_HfF_5	SdC	HfF	SdC_F	Female	Mutant	Fluoxetine	B4-1	Group1
-SdC_HfM_1	SdC	HfM	SdC_M	Male	Mutant	Fluoxetine	B4-1	Group1
-SdC_HfM_2	SdC	HfM	SdC_M	Male	Mutant	Fluoxetine	B4-1	Group1
-SdC_HfM_3	SdC	HfM	SdC_M	Male	Mutant	Fluoxetine	B4-1	Group1
-SdC_HfM_4	SdC	HfM	SdC_M	Male	Mutant	Fluoxetine	B4-1	Group1
-SdC_HfM_5	SdC	HfM	SdC_M	Male	Mutant	Fluoxetine	B4-1	Group1
-SdC_HLF_1	SdC	HLF	SdC_F	Female	Mutant	Lithium	B4-1	Group1
-SdC_HLF_2	SdC	HLF	SdC_F	Female	Mutant	Lithium	B4-1	Group1
-SdC_HLF_3	SdC	HLF	SdC_F	Female	Mutant	Lithium	B4-1	Group1
-SdC_HLF_4	SdC	HLF	SdC_F	Female	Mutant	Lithium	B4-1	Group1
-SdC_HLF_5	SdC	HLF	SdC_F	Female	Mutant	Lithium	B4-1	Group1
-SdC_HLM_1	SdC	HLM	SdC_M	Male	Mutant	Lithium	B4-1	Group1
-SdC_HLM_2	SdC	HLM	SdC_M	Male	Mutant	Lithium	B4-1	Group1
-SdC_HLM_3	SdC	HLM	SdC_M	Male	Mutant	Lithium	B4-1	Group1
-SdC_HLM_4	SdC	HLM	SdC_M	Male	Mutant	Lithium	B4-1	Group1
-SdC_HvF_1	SdC	HvF	SdC_F	Female	Mutant	Vehicle	B4-1	Group1
-SdC_HvF_2	SdC	HvF	SdC_F	Female	Mutant	Vehicle	B4-1	Group1
-SdC_HvF_3	SdC	HvF	SdC_F	Female	Mutant	Vehicle	B4-1	Group1
-SdC_HvF_4	SdC	HvF	SdC_F	Female	Mutant	Vehicle	B4-1	Group1
-SdC_HvF_5	SdC	HvF	SdC_F	Female	Mutant	Vehicle	B4-1	Group1
-SdC_HvM_1	SdC	HvM	SdC_M	Male	Mutant	Vehicle	B4-2	Group1
-SdC_HvM_2	SdC	HvM	SdC_M	Male	Mutant	Vehicle	B4-2	Group1
-SdC_HvM_3	SdC	HvM	SdC_M	Male	Mutant	Vehicle	B4-3	Group1
-SdC_WfF_1	SdC	WfF	SdC_F	Female	Wildtype	Fluoxetine	B4-1	Group1
-SdC_WfF_2	SdC	WfF	SdC_F	Female	Wildtype	Fluoxetine	B4-1	Group1
-SdC_WfF_3	SdC	WfF	SdC_F	Female	Wildtype	Fluoxetine	B4-1	Group1
-SdC_WfF_4	SdC	WfF	SdC_F	Female	Wildtype	Fluoxetine	B4-1	Group1
-SdC_WfF_5	SdC	WfF	SdC_F	Female	Wildtype	Fluoxetine	B4-1	Group1
-SdC_WfM_1	SdC	WfM	SdC_M	Male	Wildtype	Fluoxetine	B4-1	Group1
-SdC_WfM_2	SdC	WfM	SdC_M	Male	Wildtype	Fluoxetine	B4-1	Group1
-SdC_WfM_3	SdC	WfM	SdC_M	Male	Wildtype	Fluoxetine	B4-1	Group1
-SdC_WfM_4	SdC	WfM	SdC_M	Male	Wildtype	Fluoxetine	B4-1	Group1
-SdC_WfM_5	SdC	WfM	SdC_M	Male	Wildtype	Fluoxetine	B4-1	Group1
-SdC_WLF_1	SdC	WLF	SdC_F	Female	Wildtype	Lithium	B4-1	Group1
-SdC_WLF_2	SdC	WLF	SdC_F	Female	Wildtype	Lithium	B4-1	Group1
-SdC_WLF_3	SdC	WLF	SdC_F	Female	Wildtype	Lithium	B4-1	Group1
-SdC_WLF_4	SdC	WLF	SdC_F	Female	Wildtype	Lithium	B4-1	Group1
-SdC_WLF_5	SdC	WLF	SdC_F	Female	Wildtype	Lithium	B4-1	Group1
-SdC_WLM_1	SdC	WLM	SdC_M	Male	Wildtype	Lithium	B4-1	Group1
-SdC_WLM_2	SdC	WLM	SdC_M	Male	Wildtype	Lithium	B4-1	Group1
-SdC_WLM_3	SdC	WLM	SdC_M	Male	Wildtype	Lithium	B4-1	Group1
-SdC_WLM_4	SdC	WLM	SdC_M	Male	Wildtype	Lithium	B4-1	Group1
-SdC_WLM_5	SdC	WLM	SdC_M	Male	Wildtype	Lithium	B4-1	Group1
-SdC_WvF_1	SdC	WvF	SdC_F	Female	Wildtype	Vehicle	B4-1	Group1
-SdC_WvF_2	SdC	WvF	SdC_F	Female	Wildtype	Vehicle	B4-1	Group1
-SdC_WvF_3	SdC	WvF	SdC_F	Female	Wildtype	Vehicle	B4-1	Group1
-SdC_WvF_4	SdC	WvF	SdC_F	Female	Wildtype	Vehicle	B4-1	Group1
-SdC_WvF_5	SdC	WvF	SdC_F	Female	Wildtype	Vehicle	B4-1	Group1
-SdC_WvM_1	SdC	WvM	SdC_M	Male	Wildtype	Vehicle	B4-3	Group1
-SdC_WvM_2	SdC	WvM	SdC_M	Male	Wildtype	Vehicle	B4-2	Group1
-SdC_WvM_3	SdC	WvM	SdC_M	Male	Wildtype	Vehicle	B4-3	Group1
-SdC_WvM_4	SdC	WvM	SdC_M	Male	Wildtype	Vehicle	B4-3	Group1
-SdC_WvM_5	SdC	WvM	SdC_M	Male	Wildtype	Vehicle	B4-3	Group1
-T12_HfF_1	T12	HfF	T12_F	Female	Mutant	Fluoxetine	B4-1	Group1
-T12_HfF_2	T12	HfF	T12_F	Female	Mutant	Fluoxetine	B4-1	Group1
-T12_HfF_3	T12	HfF	T12_F	Female	Mutant	Fluoxetine	B4-1	Group1
-T12_HfF_4	T12	HfF	T12_F	Female	Mutant	Fluoxetine	B4-1	Group1
-T12_HfF_5	T12	HfF	T12_F	Female	Mutant	Fluoxetine	B4-1	Group1
-T12_HfM_1	T12	HfM	T12_M	Male	Mutant	Fluoxetine	B4-1	Group2
-T12_HfM_2	T12	HfM	T12_M	Male	Mutant	Fluoxetine	B4-1	Group2
-T12_HfM_3	T12	HfM	T12_M	Male	Mutant	Fluoxetine	B4-1	Group2
-T12_HfM_4	T12	HfM	T12_M	Male	Mutant	Fluoxetine	B4-1	Group2
-T12_HfM_5	T12	HfM	T12_M	Male	Mutant	Fluoxetine	B4-1	Group2
-T12_HLF_1	T12	HLF	T12_F	Female	Mutant	Lithium	B4-1	Group1
-T12_HLF_2	T12	HLF	T12_F	Female	Mutant	Lithium	B4-1	Group1
-T12_HLF_3	T12	HLF	T12_F	Female	Mutant	Lithium	B4-1	Group1
-T12_HLF_4	T12	HLF	T12_F	Female	Mutant	Lithium	B4-1	Group1
-T12_HLF_5	T12	HLF	T12_F	Female	Mutant	Lithium	B4-1	Group1
-T12_HLM_1	T12	HLM	T12_M	Male	Mutant	Lithium	B4-1	Group2
-T12_HLM_2	T12	HLM	T12_M	Male	Mutant	Lithium	B4-1	Group2
-T12_HLM_3	T12	HLM	T12_M	Male	Mutant	Lithium	B4-1	Group2
-T12_HLM_4	T12	HLM	T12_M	Male	Mutant	Lithium	B4-1	Group2
-T12_HLM_5	T12	HLM	T12_M	Male	Mutant	Lithium	B4-1	Group2
-T12_HvF_1	T12	HvF	T12_F	Female	Mutant	Vehicle	B4-1	Group1
-T12_HvF_2	T12	HvF	T12_F	Female	Mutant	Vehicle	B4-1	Group1
-T12_HvF_3	T12	HvF	T12_F	Female	Mutant	Vehicle	B4-1	Group1
-T12_HvF_4	T12	HvF	T12_F	Female	Mutant	Vehicle	B4-1	Group1
-T12_HvF_5	T12	HvF	T12_F	Female	Mutant	Vehicle	B4-1	Group1
-T12_HvM_1	T12	HvM	T12_M	Male	Mutant	Vehicle	B4-1	Group2
-T12_HvM_2	T12	HvM	T12_M	Male	Mutant	Vehicle	B4-1	Group2
-T12_HvM_3	T12	HvM	T12_M	Male	Mutant	Vehicle	B4-1	Group2
-T12_HvM_4	T12	HvM	T12_M	Male	Mutant	Vehicle	B4-1	Group2
-T12_HvM_5	T12	HvM	T12_M	Male	Mutant	Vehicle	B4-1	Group2
-T12_WfF_1	T12	WfF	T12_F	Female	Wildtype	Fluoxetine	B4-1	Group1
-T12_WfF_2	T12	WfF	T12_F	Female	Wildtype	Fluoxetine	B4-1	Group1
-T12_WfF_3	T12	WfF	T12_F	Female	Wildtype	Fluoxetine	B4-1	Group1
-T12_WfF_4	T12	WfF	T12_F	Female	Wildtype	Fluoxetine	B4-1	Group1
-T12_WfF_5	T12	WfF	T12_F	Female	Wildtype	Fluoxetine	B4-1	Group1
-T12_WfM_1	T12	WfM	T12_M	Male	Wildtype	Fluoxetine	B4-1	Group2
-T12_WfM_2	T12	WfM	T12_M	Male	Wildtype	Fluoxetine	B4-1	Group2
-T12_WfM_3	T12	WfM	T12_M	Male	Wildtype	Fluoxetine	B4-1	Group2
-T12_WfM_4	T12	WfM	T12_M	Male	Wildtype	Fluoxetine	B4-1	Group2
-T12_WfM_5	T12	WfM	T12_M	Male	Wildtype	Fluoxetine	B4-1	Group2
-T12_WLF_1	T12	WLF	T12_F	Female	Wildtype	Lithium	B4-1	Group1
-T12_WLF_2	T12	WLF	T12_F	Female	Wildtype	Lithium	B4-1	Group1
-T12_WLF_3	T12	WLF	T12_F	Female	Wildtype	Lithium	B4-1	Group1
-T12_WLF_4	T12	WLF	T12_F	Female	Wildtype	Lithium	B4-1	Group1
-T12_WLF_5	T12	WLF	T12_F	Female	Wildtype	Lithium	B4-1	Group1
-T12_WLM_1	T12	WLM	T12_M	Male	Wildtype	Lithium	B4-1	Group2
-T12_WLM_2	T12	WLM	T12_M	Male	Wildtype	Lithium	B4-1	Group2
-T12_WLM_3	T12	WLM	T12_M	Male	Wildtype	Lithium	B4-1	Group2
-T12_WLM_4	T12	WLM	T12_M	Male	Wildtype	Lithium	B4-1	Group2
-T12_WLM_5	T12	WLM	T12_M	Male	Wildtype	Lithium	B4-1	Group2
-T12_WvF_1	T12	WvF	T12_F	Female	Wildtype	Vehicle	B4-1	Group1
-T12_WvF_2	T12	WvF	T12_F	Female	Wildtype	Vehicle	B4-1	Group1
-T12_WvF_3	T12	WvF	T12_F	Female	Wildtype	Vehicle	B4-1	Group1
-T12_WvF_4	T12	WvF	T12_F	Female	Wildtype	Vehicle	B4-1	Group1
-T12_WvF_5	T12	WvF	T12_F	Female	Wildtype	Vehicle	B4-1	Group1
-T12_WvM_1	T12	WvM	T12_M	Male	Wildtype	Vehicle	B4-1	Group2
-T12_WvM_2	T12	WvM	T12_M	Male	Wildtype	Vehicle	B4-1	Group2
-T12_WvM_3	T12	WvM	T12_M	Male	Wildtype	Vehicle	B4-1	Group2
-T12_WvM_4	T12	WvM	T12_M	Male	Wildtype	Vehicle	B4-1	Group2
-T12_WvM_5	T12	WvM	T12_M	Male	Wildtype	Vehicle	B4-1	Group2
-Tanc_HfF_1	Tanc	HfF	Tanc_F	Female	Mutant	Fluoxetine	B5	Group1
-Tanc_HfF_2	Tanc	HfF	Tanc_F	Female	Mutant	Fluoxetine	B5	Group1
-Tanc_HfF_3	Tanc	HfF	Tanc_F	Female	Mutant	Fluoxetine	B5	Group1
-Tanc_HfF_4	Tanc	HfF	Tanc_F	Female	Mutant	Fluoxetine	B5	Group1
-Tanc_HfF_5	Tanc	HfF	Tanc_F	Female	Mutant	Fluoxetine	B5	Group1
-Tanc_HfM_1	Tanc	HfM	Tanc_M	Male	Mutant	Fluoxetine	B5	Group1
-Tanc_HfM_2	Tanc	HfM	Tanc_M	Male	Mutant	Fluoxetine	B5	Group1
-Tanc_HfM_3	Tanc	HfM	Tanc_M	Male	Mutant	Fluoxetine	B5	Group1
-Tanc_HfM_4	Tanc	HfM	Tanc_M	Male	Mutant	Fluoxetine	B5	Group1
-Tanc_HfM_5	Tanc	HfM	Tanc_M	Male	Mutant	Fluoxetine	B5	Group1
-Tanc_HLF_1	Tanc	HLF	Tanc_F	Female	Mutant	Lithium	B5	Group1
-Tanc_HLF_2	Tanc	HLF	Tanc_F	Female	Mutant	Lithium	B5	Group1
-Tanc_HLF_3	Tanc	HLF	Tanc_F	Female	Mutant	Lithium	B5	Group1
-Tanc_HLF_4	Tanc	HLF	Tanc_F	Female	Mutant	Lithium	B5	Group1
-Tanc_HLF_5	Tanc	HLF	Tanc_F	Female	Mutant	Lithium	B5	Group1
-Tanc_HLM_1	Tanc	HLM	Tanc_M	Male	Mutant	Lithium	B5	Group1
-Tanc_HLM_2	Tanc	HLM	Tanc_M	Male	Mutant	Lithium	B5	Group1
-Tanc_HLM_3	Tanc	HLM	Tanc_M	Male	Mutant	Lithium	B5	Group1
-Tanc_HLM_4	Tanc	HLM	Tanc_M	Male	Mutant	Lithium	B5	Group1
-Tanc_HvF_1	Tanc	HvF	Tanc_F	Female	Mutant	Vehicle	B5	Group1
-Tanc_HvF_2	Tanc	HvF	Tanc_F	Female	Mutant	Vehicle	B5	Group1
-Tanc_HvF_3	Tanc	HvF	Tanc_F	Female	Mutant	Vehicle	B5	Group1
-Tanc_HvF_4	Tanc	HvF	Tanc_F	Female	Mutant	Vehicle	B5	Group1
-Tanc_HvF_5	Tanc	HvF	Tanc_F	Female	Mutant	Vehicle	B5	Group1
-Tanc_HvM_1	Tanc	HvM	Tanc_M	Male	Mutant	Vehicle	B5	Group1
-Tanc_HvM_2	Tanc	HvM	Tanc_M	Male	Mutant	Vehicle	B5	Group1
-Tanc_HvM_3	Tanc	HvM	Tanc_M	Male	Mutant	Vehicle	B5	Group1
-Tanc_HvM_4	Tanc	HvM	Tanc_M	Male	Mutant	Vehicle	B5	Group1
-Tanc_HvM_5	Tanc	HvM	Tanc_M	Male	Mutant	Vehicle	B5	Group1
-Tanc_WfF_1	Tanc	WfF	Tanc_F	Female	Wildtype	Fluoxetine	B5	Group1
-Tanc_WfF_2	Tanc	WfF	Tanc_F	Female	Wildtype	Fluoxetine	B5	Group1
-Tanc_WfF_3	Tanc	WfF	Tanc_F	Female	Wildtype	Fluoxetine	B5	Group1
-Tanc_WfF_4	Tanc	WfF	Tanc_F	Female	Wildtype	Fluoxetine	B5	Group1
-Tanc_WfF_5	Tanc	WfF	Tanc_F	Female	Wildtype	Fluoxetine	B5	Group1
-Tanc_WfM_1	Tanc	WfM	Tanc_M	Male	Wildtype	Fluoxetine	B5	Group1
-Tanc_WfM_2	Tanc	WfM	Tanc_M	Male	Wildtype	Fluoxetine	B5	Group1
-Tanc_WfM_3	Tanc	WfM	Tanc_M	Male	Wildtype	Fluoxetine	B5	Group1
-Tanc_WfM_4	Tanc	WfM	Tanc_M	Male	Wildtype	Fluoxetine	B5	Group1
-Tanc_WfM_5	Tanc	WfM	Tanc_M	Male	Wildtype	Fluoxetine	B5	Group1
-Tanc_WLF_1	Tanc	WLF	Tanc_F	Female	Wildtype	Lithium	B5	Group1
-Tanc_WLF_2	Tanc	WLF	Tanc_F	Female	Wildtype	Lithium	B5	Group1
-Tanc_WLF_3	Tanc	WLF	Tanc_F	Female	Wildtype	Lithium	B5	Group1
-Tanc_WLF_4	Tanc	WLF	Tanc_F	Female	Wildtype	Lithium	B5	Group1
-Tanc_WLF_5	Tanc	WLF	Tanc_F	Female	Wildtype	Lithium	B5	Group1
-Tanc_WLM_1	Tanc	WLM	Tanc_M	Male	Wildtype	Lithium	B5	Group1
-Tanc_WLM_2	Tanc	WLM	Tanc_M	Male	Wildtype	Lithium	B5	Group1
-Tanc_WLM_3	Tanc	WLM	Tanc_M	Male	Wildtype	Lithium	B5	Group1
-Tanc_WLM_4	Tanc	WLM	Tanc_M	Male	Wildtype	Lithium	B5	Group1
-Tanc_WLM_5	Tanc	WLM	Tanc_M	Male	Wildtype	Lithium	B5	Group1
-Tanc_WvF_1	Tanc	WvF	Tanc_F	Female	Wildtype	Vehicle	B5	Group1
-Tanc_WvF_2	Tanc	WvF	Tanc_F	Female	Wildtype	Vehicle	B5	Group1
-Tanc_WvF_3	Tanc	WvF	Tanc_F	Female	Wildtype	Vehicle	B5	Group1
-Tanc_WvF_4	Tanc	WvF	Tanc_F	Female	Wildtype	Vehicle	B5	Group1
-Tanc_WvF_5	Tanc	WvF	Tanc_F	Female	Wildtype	Vehicle	B5	Group1
-Tanc_WvM_1	Tanc	WvM	Tanc_M	Male	Wildtype	Vehicle	B5	Group1
-Tanc_WvM_2	Tanc	WvM	Tanc_M	Male	Wildtype	Vehicle	B5	Group1
-Tanc_WvM_4	Tanc	WvM	Tanc_M	Male	Wildtype	Vehicle	B5	Group1
-Tanc_WvM_5	Tanc	WvM	Tanc_M	Male	Wildtype	Vehicle	B5	Group1
-Tbl_HfF_1	Tbl	HfF	Tbl_F	Female	Mutant	Fluoxetine	B2	Group2
-Tbl_HfF_2	Tbl	HfF	Tbl_F	Female	Mutant	Fluoxetine	B2	Group2
-Tbl_HfF_3	Tbl	HfF	Tbl_F	Female	Mutant	Fluoxetine	B2	Group2
-Tbl_HfF_4	Tbl	HfF	Tbl_F	Female	Mutant	Fluoxetine	B2	Group2
-Tbl_HfF_5	Tbl	HfF	Tbl_F	Female	Mutant	Fluoxetine	B2	Group2
-Tbl_HfM_1	Tbl	HfM	Tbl_M	Male	Mutant	Fluoxetine	B2	Group2
-Tbl_HfM_2	Tbl	HfM	Tbl_M	Male	Mutant	Fluoxetine	B2	Group2
-Tbl_HfM_3	Tbl	HfM	Tbl_M	Male	Mutant	Fluoxetine	B2	Group2
-Tbl_HfM_4	Tbl	HfM	Tbl_M	Male	Mutant	Fluoxetine	B2	Group2
-Tbl_HfM_5	Tbl	HfM	Tbl_M	Male	Mutant	Fluoxetine	B2	Group2
-Tbl_HLF_1	Tbl	HLF	Tbl_F	Female	Mutant	Lithium	B2	Group2
-Tbl_HLF_2	Tbl	HLF	Tbl_F	Female	Mutant	Lithium	B2	Group2
-Tbl_HLF_3	Tbl	HLF	Tbl_F	Female	Mutant	Lithium	B2	Group2
-Tbl_HLF_4	Tbl	HLF	Tbl_F	Female	Mutant	Lithium	B2	Group2
-Tbl_HLF_5	Tbl	HLF	Tbl_F	Female	Mutant	Lithium	B2	Group2
-Tbl_HLM_1	Tbl	HLM	Tbl_M	Male	Mutant	Lithium	B2	Group2
-Tbl_HLM_2	Tbl	HLM	Tbl_M	Male	Mutant	Lithium	B2	Group2
-Tbl_HLM_3	Tbl	HLM	Tbl_M	Male	Mutant	Lithium	B2	Group2
-Tbl_HLM_4	Tbl	HLM	Tbl_M	Male	Mutant	Lithium	B2	Group2
-Tbl_HLM_5	Tbl	HLM	Tbl_M	Male	Mutant	Lithium	B2	Group2
-Tbl_HvF_1	Tbl	HvF	Tbl_F	Female	Mutant	Vehicle	B2	Group2
-Tbl_HvF_2	Tbl	HvF	Tbl_F	Female	Mutant	Vehicle	B2	Group2
-Tbl_HvF_3	Tbl	HvF	Tbl_F	Female	Mutant	Vehicle	B2	Group2
-Tbl_HvF_4	Tbl	HvF	Tbl_F	Female	Mutant	Vehicle	B2	Group2
-Tbl_HvF_5	Tbl	HvF	Tbl_F	Female	Mutant	Vehicle	B2	Group2
-Tbl_HvM_1	Tbl	HvM	Tbl_M	Male	Mutant	Vehicle	B2	Group2
-Tbl_HvM_2	Tbl	HvM	Tbl_M	Male	Mutant	Vehicle	B2	Group2
-Tbl_HvM_3	Tbl	HvM	Tbl_M	Male	Mutant	Vehicle	B2	Group2
-Tbl_HvM_4	Tbl	HvM	Tbl_M	Male	Mutant	Vehicle	B2	Group2
-Tbl_HvM_5	Tbl	HvM	Tbl_M	Male	Mutant	Vehicle	B2	Group2
-Tbl_WfF_1	Tbl	WfF	Tbl_F	Female	Wildtype	Fluoxetine	B2	Group2
-Tbl_WfF_2	Tbl	WfF	Tbl_F	Female	Wildtype	Fluoxetine	B2	Group2
-Tbl_WfF_3	Tbl	WfF	Tbl_F	Female	Wildtype	Fluoxetine	B2	Group2
-Tbl_WfF_4	Tbl	WfF	Tbl_F	Female	Wildtype	Fluoxetine	B2	Group2
-Tbl_WfF_5	Tbl	WfF	Tbl_F	Female	Wildtype	Fluoxetine	B2	Group2
-Tbl_WfM_1	Tbl	WfM	Tbl_M	Male	Wildtype	Fluoxetine	B2	Group2
-Tbl_WfM_2	Tbl	WfM	Tbl_M	Male	Wildtype	Fluoxetine	B2	Group2
-Tbl_WfM_3	Tbl	WfM	Tbl_M	Male	Wildtype	Fluoxetine	B2	Group2
-Tbl_WfM_4	Tbl	WfM	Tbl_M	Male	Wildtype	Fluoxetine	B2	Group2
-Tbl_WfM_5	Tbl	WfM	Tbl_M	Male	Wildtype	Fluoxetine	B2	Group2
-Tbl_WLF_1	Tbl	WLF	Tbl_F	Female	Wildtype	Lithium	B2	Group2
-Tbl_WLF_2	Tbl	WLF	Tbl_F	Female	Wildtype	Lithium	B2	Group2
-Tbl_WLF_3	Tbl	WLF	Tbl_F	Female	Wildtype	Lithium	B2	Group2
-Tbl_WLF_4	Tbl	WLF	Tbl_F	Female	Wildtype	Lithium	B2	Group2
-Tbl_WLM_1	Tbl	WLM	Tbl_M	Male	Wildtype	Lithium	B2	Group2
-Tbl_WLM_2	Tbl	WLM	Tbl_M	Male	Wildtype	Lithium	B2	Group2
-Tbl_WLM_4	Tbl	WLM	Tbl_M	Male	Wildtype	Lithium	B2	Group2
-Tbl_WLM_5	Tbl	WLM	Tbl_M	Male	Wildtype	Lithium	B2	Group2
-Tbl_WvF_1	Tbl	WvF	Tbl_F	Female	Wildtype	Vehicle	B2	Group2
-Tbl_WvF_2	Tbl	WvF	Tbl_F	Female	Wildtype	Vehicle	B2	Group2
-Tbl_WvF_3	Tbl	WvF	Tbl_F	Female	Wildtype	Vehicle	B2	Group2
-Tbl_WvF_4	Tbl	WvF	Tbl_F	Female	Wildtype	Vehicle	B2	Group2
-Tbl_WvF_5	Tbl	WvF	Tbl_F	Female	Wildtype	Vehicle	B2	Group2
-Tbl_WvM_1	Tbl	WvM	Tbl_M	Male	Wildtype	Vehicle	B2	Group2
-Tbl_WvM_2	Tbl	WvM	Tbl_M	Male	Wildtype	Vehicle	B2	Group2
-Tbl_WvM_3	Tbl	WvM	Tbl_M	Male	Wildtype	Vehicle	B2	Group2
-Tbl_WvM_4	Tbl	WvM	Tbl_M	Male	Wildtype	Vehicle	B2	Group2
-Tbl_WvM_5	Tbl	WvM	Tbl_M	Male	Wildtype	Vehicle	B2	Group2
-TBR1_HfF_1	TBR1	HfF	TBR1_F	Female	Mutant	Fluoxetine	B5	Group2
-TBR1_HfF_2	TBR1	HfF	TBR1_F	Female	Mutant	Fluoxetine	B5	Group2
-TBR1_HfF_3	TBR1	HfF	TBR1_F	Female	Mutant	Fluoxetine	B5	Group2
-TBR1_HfF_4	TBR1	HfF	TBR1_F	Female	Mutant	Fluoxetine	B5	Group2
-TBR1_HfF_5	TBR1	HfF	TBR1_F	Female	Mutant	Fluoxetine	B5	Group2
-TBR1_HfM_1	TBR1	HfM	TBR1_M	Male	Mutant	Fluoxetine	B5	Group2
-TBR1_HfM_2	TBR1	HfM	TBR1_M	Male	Mutant	Fluoxetine	B5	Group2
-TBR1_HfM_3	TBR1	HfM	TBR1_M	Male	Mutant	Fluoxetine	B5	Group2
-TBR1_HfM_4	TBR1	HfM	TBR1_M	Male	Mutant	Fluoxetine	B5	Group2
-TBR1_HfM_5	TBR1	HfM	TBR1_M	Male	Mutant	Fluoxetine	B5	Group2
-TBR1_HLF_1	TBR1	HLF	TBR1_F	Female	Mutant	Lithium	B5	Group2
-TBR1_HLF_2	TBR1	HLF	TBR1_F	Female	Mutant	Lithium	B5	Group2
-TBR1_HLF_3	TBR1	HLF	TBR1_F	Female	Mutant	Lithium	B5	Group2
-TBR1_HLF_4	TBR1	HLF	TBR1_F	Female	Mutant	Lithium	B5	Group2
-TBR1_HLF_5	TBR1	HLF	TBR1_F	Female	Mutant	Lithium	B5	Group2
-TBR1_HLM_1	TBR1	HLM	TBR1_M	Male	Mutant	Lithium	B5	Group2
-TBR1_HLM_2	TBR1	HLM	TBR1_M	Male	Mutant	Lithium	B5	Group2
-TBR1_HLM_3	TBR1	HLM	TBR1_M	Male	Mutant	Lithium	B5	Group2
-TBR1_HLM_4	TBR1	HLM	TBR1_M	Male	Mutant	Lithium	B5	Group2
-TBR1_HLM_5	TBR1	HLM	TBR1_M	Male	Mutant	Lithium	B5	Group2
-TBR1_HvF_1	TBR1	HvF	TBR1_F	Female	Mutant	Vehicle	B5	Group2
-TBR1_HvF_2	TBR1	HvF	TBR1_F	Female	Mutant	Vehicle	B5	Group2
-TBR1_HvF_3	TBR1	HvF	TBR1_F	Female	Mutant	Vehicle	B5	Group2
-TBR1_HvF_4	TBR1	HvF	TBR1_F	Female	Mutant	Vehicle	B5	Group2
-TBR1_HvF_5	TBR1	HvF	TBR1_F	Female	Mutant	Vehicle	B5	Group2
-TBR1_HvM_1	TBR1	HvM	TBR1_M	Male	Mutant	Vehicle	B5	Group2
-TBR1_HvM_2	TBR1	HvM	TBR1_M	Male	Mutant	Vehicle	B5	Group2
-TBR1_HvM_3	TBR1	HvM	TBR1_M	Male	Mutant	Vehicle	B5	Group2
-TBR1_HvM_4	TBR1	HvM	TBR1_M	Male	Mutant	Vehicle	B5	Group2
-TBR1_HvM_5	TBR1	HvM	TBR1_M	Male	Mutant	Vehicle	B5	Group2
-TBR1_WfF_1	TBR1	WfF	TBR1_F	Female	Wildtype	Fluoxetine	B5	Group2
-TBR1_WfF_2	TBR1	WfF	TBR1_F	Female	Wildtype	Fluoxetine	B5	Group2
-TBR1_WfF_3	TBR1	WfF	TBR1_F	Female	Wildtype	Fluoxetine	B5	Group2
-TBR1_WfF_4	TBR1	WfF	TBR1_F	Female	Wildtype	Fluoxetine	B5	Group2
-TBR1_WfF_5	TBR1	WfF	TBR1_F	Female	Wildtype	Fluoxetine	B5	Group2
-TBR1_WfM_1	TBR1	WfM	TBR1_M	Male	Wildtype	Fluoxetine	B5	Group2
-TBR1_WfM_2	TBR1	WfM	TBR1_M	Male	Wildtype	Fluoxetine	B5	Group2
-TBR1_WfM_3	TBR1	WfM	TBR1_M	Male	Wildtype	Fluoxetine	B5	Group2
-TBR1_WfM_4	TBR1	WfM	TBR1_M	Male	Wildtype	Fluoxetine	B5	Group2
-TBR1_WfM_5	TBR1	WfM	TBR1_M	Male	Wildtype	Fluoxetine	B5	Group2
-TBR1_WLF_1	TBR1	WLF	TBR1_F	Female	Wildtype	Lithium	B5	Group2
-TBR1_WLF_2	TBR1	WLF	TBR1_F	Female	Wildtype	Lithium	B5	Group2
-TBR1_WLF_3	TBR1	WLF	TBR1_F	Female	Wildtype	Lithium	B5	Group2
-TBR1_WLF_4	TBR1	WLF	TBR1_F	Female	Wildtype	Lithium	B5	Group2
-TBR1_WLF_5	TBR1	WLF	TBR1_F	Female	Wildtype	Lithium	B5	Group2
-TBR1_WLM_1	TBR1	WLM	TBR1_M	Male	Wildtype	Lithium	B5	Group2
-TBR1_WLM_2	TBR1	WLM	TBR1_M	Male	Wildtype	Lithium	B5	Group2
-TBR1_WLM_3	TBR1	WLM	TBR1_M	Male	Wildtype	Lithium	B5	Group2
-TBR1_WLM_4	TBR1	WLM	TBR1_M	Male	Wildtype	Lithium	B5	Group2
-TBR1_WLM_5	TBR1	WLM	TBR1_M	Male	Wildtype	Lithium	B5	Group2
-TBR1_WvF_1	TBR1	WvF	TBR1_F	Female	Wildtype	Vehicle	B5	Group2
-TBR1_WvF_2	TBR1	WvF	TBR1_F	Female	Wildtype	Vehicle	B5	Group2
-TBR1_WvF_3	TBR1	WvF	TBR1_F	Female	Wildtype	Vehicle	B5	Group2
-TBR1_WvF_4	TBR1	WvF	TBR1_F	Female	Wildtype	Vehicle	B5	Group2
-TBR1_WvF_5	TBR1	WvF	TBR1_F	Female	Wildtype	Vehicle	B5	Group2
-TBR1_WvM_1	TBR1	WvM	TBR1_M	Male	Wildtype	Vehicle	B5	Group2
-TBR1_WvM_2	TBR1	WvM	TBR1_M	Male	Wildtype	Vehicle	B5	Group2
-TBR1_WvM_3	TBR1	WvM	TBR1_M	Male	Wildtype	Vehicle	B5	Group2
-TBR1_WvM_4	TBR1	WvM	TBR1_M	Male	Wildtype	Vehicle	B5	Group2
-TBR1_WvM_5	TBR1	WvM	TBR1_M	Male	Wildtype	Vehicle	B5	Group2
+Sample	Mouse_Model	Condition	Model_Sex	Genotype	Drug	Batch	Group
+ADNP_HfF_1	Adnp	HfF	ADNP_F	Mutant	Fluoxetine	B1	Group2
+ADNP_HfF_2	Adnp	HfF	ADNP_F	Mutant	Fluoxetine	B1	Group2
+ADNP_HfF_3	Adnp	HfF	ADNP_F	Mutant	Fluoxetine	B1	Group2
+ADNP_HfF_4	Adnp	HfF	ADNP_F	Mutant	Fluoxetine	B1	Group2
+ADNP_HfF_5	Adnp	HfF	ADNP_F	Mutant	Fluoxetine	B1	Group2
+ADNP_HfM_1	Adnp	HfM	ADNP_M	Mutant	Fluoxetine	B1	Group2
+ADNP_HfM_2	Adnp	HfM	ADNP_M	Mutant	Fluoxetine	B1	Group2
+ADNP_HfM_3	Adnp	HfM	ADNP_M	Mutant	Fluoxetine	B1	Group2
+ADNP_HfM_4	Adnp	HfM	ADNP_M	Mutant	Fluoxetine	B1	Group2
+ADNP_HfM_5	Adnp	HfM	ADNP_M	Mutant	Fluoxetine	B1	Group2
+ADNP_HLF_1	Adnp	HLF	ADNP_F	Mutant	Lithium	B5	Group2
+ADNP_HLF_2	Adnp	HLF	ADNP_F	Mutant	Lithium	B5	Group2
+ADNP_HLF_3	Adnp	HLF	ADNP_F	Mutant	Lithium	B5	Group2
+ADNP_HLF_5	Adnp	HLF	ADNP_F	Mutant	Lithium	B5	Group2
+ADNP_HLM_1	Adnp	HLM	ADNP_M	Mutant	Lithium	B5	Group2
+ADNP_HLM_2	Adnp	HLM	ADNP_M	Mutant	Lithium	B5	Group2
+ADNP_HLM_3	Adnp	HLM	ADNP_M	Mutant	Lithium	B5	Group2
+ADNP_HLM_4	Adnp	HLM	ADNP_M	Mutant	Lithium	B5	Group2
+ADNP_HLM_5	Adnp	HLM	ADNP_M	Mutant	Lithium	B5	Group2
+ADNP_HvF_1	Adnp	HvF	ADNP_F	Mutant	Vehicle	B1	Group2
+ADNP_HvF_2	Adnp	HvF	ADNP_F	Mutant	Vehicle	B1	Group2
+ADNP_HvF_3	Adnp	HvF	ADNP_F	Mutant	Vehicle	B1	Group2
+ADNP_HvF_4	Adnp	HvF	ADNP_F	Mutant	Vehicle	B1	Group2
+ADNP_HvF_5	Adnp	HvF	ADNP_F	Mutant	Vehicle	B1	Group2
+ADNP_HvF_6	Adnp	HvF	ADNP_F	Mutant	Vehicle	B5	Group2
+ADNP_HvF_7	Adnp	HvF	ADNP_F	Mutant	Vehicle	B5	Group2
+ADNP_HvF_8	Adnp	HvF	ADNP_F	Mutant	Vehicle	B5	Group2
+ADNP_HvM_1	Adnp	HvM	ADNP_M	Mutant	Vehicle	B1	Group2
+ADNP_HvM_2	Adnp	HvM	ADNP_M	Mutant	Vehicle	B1	Group2
+ADNP_HvM_3	Adnp	HvM	ADNP_M	Mutant	Vehicle	B1	Group2
+ADNP_HvM_4	Adnp	HvM	ADNP_M	Mutant	Vehicle	B1	Group2
+ADNP_HvM_5	Adnp	HvM	ADNP_M	Mutant	Vehicle	B1	Group2
+ADNP_HvM_6	Adnp	HvM	ADNP_M	Mutant	Vehicle	B5	Group2
+ADNP_HvM_7	Adnp	HvM	ADNP_M	Mutant	Vehicle	B5	Group2
+ADNP_HvM_8	Adnp	HvM	ADNP_M	Mutant	Vehicle	B5	Group2
+ADNP_WfF_1	Adnp	WfF	ADNP_F	Wildtype	Fluoxetine	B1	Group2
+ADNP_WfF_2	Adnp	WfF	ADNP_F	Wildtype	Fluoxetine	B1	Group2
+ADNP_WfF_3	Adnp	WfF	ADNP_F	Wildtype	Fluoxetine	B1	Group2
+ADNP_WfF_4	Adnp	WfF	ADNP_F	Wildtype	Fluoxetine	B1	Group2
+ADNP_WfF_5	Adnp	WfF	ADNP_F	Wildtype	Fluoxetine	B1	Group2
+ADNP_WfM_1	Adnp	WfM	ADNP_M	Wildtype	Fluoxetine	B1	Group2
+ADNP_WfM_2	Adnp	WfM	ADNP_M	Wildtype	Fluoxetine	B1	Group2
+ADNP_WfM_3	Adnp	WfM	ADNP_M	Wildtype	Fluoxetine	B1	Group2
+ADNP_WfM_4	Adnp	WfM	ADNP_M	Wildtype	Fluoxetine	B1	Group2
+ADNP_WfM_5	Adnp	WfM	ADNP_M	Wildtype	Fluoxetine	B1	Group2
+ADNP_WLF_1	Adnp	WLF	ADNP_F	Wildtype	Lithium	B5	Group2
+ADNP_WLF_2	Adnp	WLF	ADNP_F	Wildtype	Lithium	B5	Group2
+ADNP_WLF_3	Adnp	WLF	ADNP_F	Wildtype	Lithium	B5	Group2
+ADNP_WLF_4	Adnp	WLF	ADNP_F	Wildtype	Lithium	B5	Group2
+ADNP_WLF_5	Adnp	WLF	ADNP_F	Wildtype	Lithium	B5	Group2
+ADNP_WLM_1	Adnp	WLM	ADNP_M	Wildtype	Lithium	B5	Group2
+ADNP_WLM_2	Adnp	WLM	ADNP_M	Wildtype	Lithium	B5	Group2
+ADNP_WLM_3	Adnp	WLM	ADNP_M	Wildtype	Lithium	B5	Group2
+ADNP_WvF_1	Adnp	WvF	ADNP_F	Wildtype	Vehicle	B1	Group2
+ADNP_WvF_2	Adnp	WvF	ADNP_F	Wildtype	Vehicle	B1	Group2
+ADNP_WvF_3	Adnp	WvF	ADNP_F	Wildtype	Vehicle	B1	Group2
+ADNP_WvF_4	Adnp	WvF	ADNP_F	Wildtype	Vehicle	B1	Group2
+ADNP_WvF_5	Adnp	WvF	ADNP_F	Wildtype	Vehicle	B1	Group2
+ADNP_WvF_6	Adnp	WvF	ADNP_F	Wildtype	Vehicle	B5	Group2
+ADNP_WvF_7	Adnp	WvF	ADNP_F	Wildtype	Vehicle	B5	Group2
+ADNP_WvF_8	Adnp	WvF	ADNP_F	Wildtype	Vehicle	B5	Group2
+ADNP_WvM_1	Adnp	WvM	ADNP_M	Wildtype	Vehicle	B1	Group2
+ADNP_WvM_2	Adnp	WvM	ADNP_M	Wildtype	Vehicle	B1	Group2
+ADNP_WvM_3	Adnp	WvM	ADNP_M	Wildtype	Vehicle	B1	Group2
+ADNP_WvM_4	Adnp	WvM	ADNP_M	Wildtype	Vehicle	B1	Group2
+ADNP_WvM_5	Adnp	WvM	ADNP_M	Wildtype	Vehicle	B1	Group2
+ADNP_WvM_6	Adnp	WvM	ADNP_M	Wildtype	Vehicle	B5	Group2
+ADNP_WvM_7	Adnp	WvM	ADNP_M	Wildtype	Vehicle	B5	Group2
+Arid_HfF_1	Arid1b	HfF	Arid_F	Mutant	Fluoxetine	B2	Group2
+Arid_HfF_2	Arid1b	HfF	Arid_F	Mutant	Fluoxetine	B2	Group2
+Arid_HfF_3	Arid1b	HfF	Arid_F	Mutant	Fluoxetine	B2	Group2
+Arid_HfF_4	Arid1b	HfF	Arid_F	Mutant	Fluoxetine	B2	Group2
+Arid_HfF_5	Arid1b	HfF	Arid_F	Mutant	Fluoxetine	B2	Group2
+Arid_HfM_1	Arid1b	HfM	Arid_M	Mutant	Fluoxetine	B2	Group1
+Arid_HfM_2	Arid1b	HfM	Arid_M	Mutant	Fluoxetine	B2	Group1
+Arid_HfM_3	Arid1b	HfM	Arid_M	Mutant	Fluoxetine	B2	Group1
+Arid_HfM_4	Arid1b	HfM	Arid_M	Mutant	Fluoxetine	B2	Group1
+Arid_HfM_5	Arid1b	HfM	Arid_M	Mutant	Fluoxetine	B2	Group1
+Arid_HLF_1	Arid1b	HLF	Arid_F	Mutant	Lithium	B2	Group2
+Arid_HLF_2	Arid1b	HLF	Arid_F	Mutant	Lithium	B2	Group2
+Arid_HLF_3	Arid1b	HLF	Arid_F	Mutant	Lithium	B2	Group2
+Arid_HLF_4	Arid1b	HLF	Arid_F	Mutant	Lithium	B2	Group2
+Arid_HLF_5	Arid1b	HLF	Arid_F	Mutant	Lithium	B2	Group2
+Arid_HLM_1	Arid1b	HLM	Arid_M	Mutant	Lithium	B2	Group1
+Arid_HLM_2	Arid1b	HLM	Arid_M	Mutant	Lithium	B2	Group1
+Arid_HLM_3	Arid1b	HLM	Arid_M	Mutant	Lithium	B2	Group1
+Arid_HLM_4	Arid1b	HLM	Arid_M	Mutant	Lithium	B2	Group1
+Arid_HLM_5	Arid1b	HLM	Arid_M	Mutant	Lithium	B2	Group1
+Arid_HvF_1	Arid1b	HvF	Arid_F	Mutant	Vehicle	B2	Group2
+Arid_HvF_2	Arid1b	HvF	Arid_F	Mutant	Vehicle	B2	Group2
+Arid_HvF_3	Arid1b	HvF	Arid_F	Mutant	Vehicle	B2	Group2
+Arid_HvF_4	Arid1b	HvF	Arid_F	Mutant	Vehicle	B2	Group2
+Arid_HvM_1	Arid1b	HvM	Arid_M	Mutant	Vehicle	B2	Group1
+Arid_HvM_2	Arid1b	HvM	Arid_M	Mutant	Vehicle	B2	Group1
+Arid_HvM_3	Arid1b	HvM	Arid_M	Mutant	Vehicle	B2	Group1
+Arid_HvM_4	Arid1b	HvM	Arid_M	Mutant	Vehicle	B2	Group1
+Arid_HvM_5	Arid1b	HvM	Arid_M	Mutant	Vehicle	B2	Group1
+Arid_WfF_1	Arid1b	WfF	Arid_F	Wildtype	Fluoxetine	B2	Group2
+Arid_WfF_2	Arid1b	WfF	Arid_F	Wildtype	Fluoxetine	B2	Group2
+Arid_WfF_3	Arid1b	WfF	Arid_F	Wildtype	Fluoxetine	B2	Group2
+Arid_WfF_4	Arid1b	WfF	Arid_F	Wildtype	Fluoxetine	B2	Group2
+Arid_WfF_5	Arid1b	WfF	Arid_F	Wildtype	Fluoxetine	B2	Group2
+Arid_WfM_1	Arid1b	WfM	Arid_M	Wildtype	Fluoxetine	B2	Group1
+Arid_WfM_2	Arid1b	WfM	Arid_M	Wildtype	Fluoxetine	B2	Group1
+Arid_WfM_3	Arid1b	WfM	Arid_M	Wildtype	Fluoxetine	B2	Group1
+Arid_WfM_4	Arid1b	WfM	Arid_M	Wildtype	Fluoxetine	B2	Group1
+Arid_WfM_5	Arid1b	WfM	Arid_M	Wildtype	Fluoxetine	B2	Group1
+Arid_WLF_1	Arid1b	WLF	Arid_F	Wildtype	Lithium	B2	Group2
+Arid_WLF_2	Arid1b	WLF	Arid_F	Wildtype	Lithium	B2	Group2
+Arid_WLF_3	Arid1b	WLF	Arid_F	Wildtype	Lithium	B2	Group2
+Arid_WLF_4	Arid1b	WLF	Arid_F	Wildtype	Lithium	B2	Group2
+Arid_WLF_5	Arid1b	WLF	Arid_F	Wildtype	Lithium	B2	Group2
+Arid_WLM_1	Arid1b	WLM	Arid_M	Wildtype	Lithium	B2	Group1
+Arid_WLM_2	Arid1b	WLM	Arid_M	Wildtype	Lithium	B2	Group1
+Arid_WLM_3	Arid1b	WLM	Arid_M	Wildtype	Lithium	B2	Group1
+Arid_WLM_4	Arid1b	WLM	Arid_M	Wildtype	Lithium	B2	Group1
+Arid_WLM_5	Arid1b	WLM	Arid_M	Wildtype	Lithium	B2	Group1
+Arid_WvF_1	Arid1b	WvF	Arid_F	Wildtype	Vehicle	B2	Group2
+Arid_WvF_2	Arid1b	WvF	Arid_F	Wildtype	Vehicle	B2	Group2
+Arid_WvF_3	Arid1b	WvF	Arid_F	Wildtype	Vehicle	B2	Group2
+Arid_WvF_4	Arid1b	WvF	Arid_F	Wildtype	Vehicle	B2	Group2
+Arid_WvF_5	Arid1b	WvF	Arid_F	Wildtype	Vehicle	B2	Group2
+Arid_WvM_2	Arid1b	WvM	Arid_M	Wildtype	Vehicle	B2	Group1
+Arid_WvM_3	Arid1b	WvM	Arid_M	Wildtype	Vehicle	B2	Group1
+Arid_WvM_4	Arid1b	WvM	Arid_M	Wildtype	Vehicle	B2	Group1
+Arid_WvM_5	Arid1b	WvM	Arid_M	Wildtype	Vehicle	B2	Group1
+ASH_HfF_1	Ash1l	HfF	ASH_F	Mutant	Fluoxetine	B4-2	Group1
+ASH_HfF_2	Ash1l	HfF	ASH_F	Mutant	Fluoxetine	B4-2	Group1
+ASH_HfF_3	Ash1l	HfF	ASH_F	Mutant	Fluoxetine	B4-3	Group1
+ASH_HfF_4	Ash1l	HfF	ASH_F	Mutant	Fluoxetine	B4-2	Group1
+ASH_HfF_5	Ash1l	HfF	ASH_F	Mutant	Fluoxetine	B4-3	Group1
+ASH_HfM_1	Ash1l	HfM	ASH_M	Mutant	Fluoxetine	B4-3	Group2
+ASH_HfM_2	Ash1l	HfM	ASH_M	Mutant	Fluoxetine	B4-3	Group2
+ASH_HfM_3	Ash1l	HfM	ASH_M	Mutant	Fluoxetine	B4-3	Group2
+ASH_HfM_4	Ash1l	HfM	ASH_M	Mutant	Fluoxetine	B4-3	Group2
+ASH_HfM_5	Ash1l	HfM	ASH_M	Mutant	Fluoxetine	B4-2	Group2
+ASH_HLF_1	Ash1l	HLF	ASH_F	Mutant	Lithium	B4-3	Group1
+ASH_HLF_2	Ash1l	HLF	ASH_F	Mutant	Lithium	B4-3	Group1
+ASH_HLF_3	Ash1l	HLF	ASH_F	Mutant	Lithium	B4-3	Group1
+ASH_HLF_5	Ash1l	HLF	ASH_F	Mutant	Lithium	B4-2	Group1
+ASH_HLM_1	Ash1l	HLM	ASH_M	Mutant	Lithium	B4-3	Group2
+ASH_HLM_2	Ash1l	HLM	ASH_M	Mutant	Lithium	B4-3	Group2
+ASH_HLM_3	Ash1l	HLM	ASH_M	Mutant	Lithium	B4-3	Group2
+ASH_HLM_4	Ash1l	HLM	ASH_M	Mutant	Lithium	B4-3	Group2
+ASH_HLM_5	Ash1l	HLM	ASH_M	Mutant	Lithium	B4-3	Group2
+ASH_HvF_1	Ash1l	HvF	ASH_F	Mutant	Vehicle	B4-3	Group1
+ASH_HvF_2	Ash1l	HvF	ASH_F	Mutant	Vehicle	B4-3	Group1
+ASH_HvF_3	Ash1l	HvF	ASH_F	Mutant	Vehicle	B4-3	Group1
+ASH_HvF_4	Ash1l	HvF	ASH_F	Mutant	Vehicle	B4-3	Group1
+ASH_HvF_5	Ash1l	HvF	ASH_F	Mutant	Vehicle	B4-3	Group1
+ASH_HvM_1	Ash1l	HvM	ASH_M	Mutant	Vehicle	B4-3	Group2
+ASH_HvM_2	Ash1l	HvM	ASH_M	Mutant	Vehicle	B4-3	Group2
+ASH_HvM_3	Ash1l	HvM	ASH_M	Mutant	Vehicle	B4-3	Group2
+ASH_HvM_4	Ash1l	HvM	ASH_M	Mutant	Vehicle	B4-2	Group2
+ASH_HvM_5	Ash1l	HvM	ASH_M	Mutant	Vehicle	B4-3	Group2
+ASH_WfF_1	Ash1l	WfF	ASH_F	Wildtype	Fluoxetine	B4-3	Group1
+ASH_WfF_2	Ash1l	WfF	ASH_F	Wildtype	Fluoxetine	B4-3	Group1
+ASH_WfF_3	Ash1l	WfF	ASH_F	Wildtype	Fluoxetine	B4-3	Group1
+ASH_WfF_4	Ash1l	WfF	ASH_F	Wildtype	Fluoxetine	B4-2	Group1
+ASH_WfF_5	Ash1l	WfF	ASH_F	Wildtype	Fluoxetine	B4-3	Group1
+ASH_WfM_1	Ash1l	WfM	ASH_M	Wildtype	Fluoxetine	B4-3	Group2
+ASH_WfM_2	Ash1l	WfM	ASH_M	Wildtype	Fluoxetine	B4-3	Group2
+ASH_WfM_3	Ash1l	WfM	ASH_M	Wildtype	Fluoxetine	B4-3	Group2
+ASH_WfM_4	Ash1l	WfM	ASH_M	Wildtype	Fluoxetine	B4-3	Group2
+ASH_WfM_5	Ash1l	WfM	ASH_M	Wildtype	Fluoxetine	B4-3	Group2
+ASH_WLF_1	Ash1l	WLF	ASH_F	Wildtype	Lithium	B4-2	Group1
+ASH_WLF_2	Ash1l	WLF	ASH_F	Wildtype	Lithium	B4-2	Group1
+ASH_WLF_3	Ash1l	WLF	ASH_F	Wildtype	Lithium	B4-2	Group1
+ASH_WLF_4	Ash1l	WLF	ASH_F	Wildtype	Lithium	B4-2	Group1
+ASH_WLF_5	Ash1l	WLF	ASH_F	Wildtype	Lithium	B4-3	Group1
+ASH_WLM_1	Ash1l	WLM	ASH_M	Wildtype	Lithium	B4-3	Group2
+ASH_WLM_2	Ash1l	WLM	ASH_M	Wildtype	Lithium	B4-3	Group2
+ASH_WLM_3	Ash1l	WLM	ASH_M	Wildtype	Lithium	B4-2	Group2
+ASH_WLM_4	Ash1l	WLM	ASH_M	Wildtype	Lithium	B4-2	Group2
+ASH_WLM_5	Ash1l	WLM	ASH_M	Wildtype	Lithium	B4-2	Group2
+ASH_WvF_1	Ash1l	WvF	ASH_F	Wildtype	Vehicle	B4-2	Group1
+ASH_WvF_2	Ash1l	WvF	ASH_F	Wildtype	Vehicle	B4-2	Group1
+ASH_WvF_3	Ash1l	WvF	ASH_F	Wildtype	Vehicle	B4-2	Group1
+ASH_WvF_4	Ash1l	WvF	ASH_F	Wildtype	Vehicle	B4-3	Group1
+ASH_WvF_5	Ash1l	WvF	ASH_F	Wildtype	Vehicle	B4-3	Group1
+ASH_WvM_1	Ash1l	WvM	ASH_M	Wildtype	Vehicle	B4-3	Group2
+ASH_WvM_2	Ash1l	WvM	ASH_M	Wildtype	Vehicle	B4-3	Group2
+ASH_WvM_3	Ash1l	WvM	ASH_M	Wildtype	Vehicle	B4-3	Group2
+ASH_WvM_4	Ash1l	WvM	ASH_M	Wildtype	Vehicle	B4-3	Group2
+ASH_WvM_5	Ash1l	WvM	ASH_M	Wildtype	Vehicle	B4-3	Group2
+CHN_HfF_1	Chd8-N	HfF	CHN_F	Mutant	Fluoxetine	B1	Group2
+CHN_HfF_2	Chd8-N	HfF	CHN_F	Mutant	Fluoxetine	B1	Group2
+CHN_HfF_3	Chd8-N	HfF	CHN_F	Mutant	Fluoxetine	B1	Group2
+CHN_HfF_4	Chd8-N	HfF	CHN_F	Mutant	Fluoxetine	B1	Group2
+CHN_HfF_5	Chd8-N	HfF	CHN_F	Mutant	Fluoxetine	B1	Group2
+CHN_HfM_1	Chd8-N	HfM	CHN_M	Mutant	Fluoxetine	B1	Group1
+CHN_HfM_2	Chd8-N	HfM	CHN_M	Mutant	Fluoxetine	B1	Group1
+CHN_HfM_3	Chd8-N	HfM	CHN_M	Mutant	Fluoxetine	B1	Group1
+CHN_HfM_4	Chd8-N	HfM	CHN_M	Mutant	Fluoxetine	B1	Group1
+CHN_HfM_5	Chd8-N	HfM	CHN_M	Mutant	Fluoxetine	B1	Group1
+CHN_HLF_1	Chd8-N	HLF	CHN_F	Mutant	Lithium	B1	Group2
+CHN_HLF_2	Chd8-N	HLF	CHN_F	Mutant	Lithium	B1	Group2
+CHN_HLF_3	Chd8-N	HLF	CHN_F	Mutant	Lithium	B1	Group2
+CHN_HLF_4	Chd8-N	HLF	CHN_F	Mutant	Lithium	B1	Group2
+CHN_HLF_5	Chd8-N	HLF	CHN_F	Mutant	Lithium	B1	Group2
+CHN_HLM_1	Chd8-N	HLM	CHN_M	Mutant	Lithium	B1	Group1
+CHN_HLM_2	Chd8-N	HLM	CHN_M	Mutant	Lithium	B1	Group1
+CHN_HLM_3	Chd8-N	HLM	CHN_M	Mutant	Lithium	B1	Group1
+CHN_HLM_4	Chd8-N	HLM	CHN_M	Mutant	Lithium	B1	Group1
+CHN_HLM_5	Chd8-N	HLM	CHN_M	Mutant	Lithium	B1	Group1
+CHN_HvF_1	Chd8-N	HvF	CHN_F	Mutant	Vehicle	B1	Group2
+CHN_HvF_2	Chd8-N	HvF	CHN_F	Mutant	Vehicle	B1	Group2
+CHN_HvF_3	Chd8-N	HvF	CHN_F	Mutant	Vehicle	B1	Group2
+CHN_HvF_4	Chd8-N	HvF	CHN_F	Mutant	Vehicle	B1	Group2
+CHN_HvF_5	Chd8-N	HvF	CHN_F	Mutant	Vehicle	B1	Group2
+CHN_HvM_1	Chd8-N	HvM	CHN_M	Mutant	Vehicle	B1	Group1
+CHN_HvM_2	Chd8-N	HvM	CHN_M	Mutant	Vehicle	B1	Group1
+CHN_HvM_3	Chd8-N	HvM	CHN_M	Mutant	Vehicle	B1	Group1
+CHN_HvM_4	Chd8-N	HvM	CHN_M	Mutant	Vehicle	B1	Group1
+CHN_HvM_5	Chd8-N	HvM	CHN_M	Mutant	Vehicle	B1	Group1
+CHN_WfF_1	Chd8-N	WfF	CHN_F	Wildtype	Fluoxetine	B1	Group2
+CHN_WfF_2	Chd8-N	WfF	CHN_F	Wildtype	Fluoxetine	B1	Group2
+CHN_WfF_3	Chd8-N	WfF	CHN_F	Wildtype	Fluoxetine	B1	Group2
+CHN_WfF_4	Chd8-N	WfF	CHN_F	Wildtype	Fluoxetine	B1	Group2
+CHN_WfF_5	Chd8-N	WfF	CHN_F	Wildtype	Fluoxetine	B1	Group2
+CHN_WfM_1	Chd8-N	WfM	CHN_M	Wildtype	Fluoxetine	B1	Group1
+CHN_WfM_2	Chd8-N	WfM	CHN_M	Wildtype	Fluoxetine	B1	Group1
+CHN_WfM_3	Chd8-N	WfM	CHN_M	Wildtype	Fluoxetine	B1	Group1
+CHN_WfM_4	Chd8-N	WfM	CHN_M	Wildtype	Fluoxetine	B1	Group1
+CHN_WfM_5	Chd8-N	WfM	CHN_M	Wildtype	Fluoxetine	B1	Group1
+CHN_WLF_1	Chd8-N	WLF	CHN_F	Wildtype	Lithium	B1	Group2
+CHN_WLF_2	Chd8-N	WLF	CHN_F	Wildtype	Lithium	B1	Group2
+CHN_WLF_3	Chd8-N	WLF	CHN_F	Wildtype	Lithium	B1	Group2
+CHN_WLF_4	Chd8-N	WLF	CHN_F	Wildtype	Lithium	B1	Group2
+CHN_WLF_5	Chd8-N	WLF	CHN_F	Wildtype	Lithium	B1	Group2
+CHN_WLM_1	Chd8-N	WLM	CHN_M	Wildtype	Lithium	B1	Group1
+CHN_WLM_2	Chd8-N	WLM	CHN_M	Wildtype	Lithium	B1	Group1
+CHN_WLM_3	Chd8-N	WLM	CHN_M	Wildtype	Lithium	B1	Group1
+CHN_WLM_4	Chd8-N	WLM	CHN_M	Wildtype	Lithium	B1	Group1
+CHN_WLM_5	Chd8-N	WLM	CHN_M	Wildtype	Lithium	B1	Group1
+CHN_WvF_1	Chd8-N	WvF	CHN_F	Wildtype	Vehicle	B1	Group2
+CHN_WvF_2	Chd8-N	WvF	CHN_F	Wildtype	Vehicle	B1	Group2
+CHN_WvF_3	Chd8-N	WvF	CHN_F	Wildtype	Vehicle	B1	Group2
+CHN_WvF_4	Chd8-N	WvF	CHN_F	Wildtype	Vehicle	B1	Group2
+CHN_WvF_5	Chd8-N	WvF	CHN_F	Wildtype	Vehicle	B1	Group2
+CHN_WvM_1	Chd8-N	WvM	CHN_M	Wildtype	Vehicle	B1	Group1
+CHN_WvM_2	Chd8-N	WvM	CHN_M	Wildtype	Vehicle	B1	Group1
+CHN_WvM_3	Chd8-N	WvM	CHN_M	Wildtype	Vehicle	B1	Group1
+CHN_WvM_4	Chd8-N	WvM	CHN_M	Wildtype	Vehicle	B1	Group1
+CHN_WvM_5	Chd8-N	WvM	CHN_M	Wildtype	Vehicle	B1	Group1
+Dyrk_HfF_1	Dyrk1a	HfF	Dyrk_F	Mutant	Fluoxetine	B3	Group2
+Dyrk_HfF_2	Dyrk1a	HfF	Dyrk_F	Mutant	Fluoxetine	B3	Group2
+Dyrk_HfF_3	Dyrk1a	HfF	Dyrk_F	Mutant	Fluoxetine	B3	Group2
+Dyrk_HfF_4	Dyrk1a	HfF	Dyrk_F	Mutant	Fluoxetine	B3	Group2
+Dyrk_HfF_5	Dyrk1a	HfF	Dyrk_F	Mutant	Fluoxetine	B3	Group2
+Dyrk_HfM_1	Dyrk1a	HfM	Dyrk_M	Mutant	Fluoxetine	B3	Group1
+Dyrk_HfM_2	Dyrk1a	HfM	Dyrk_M	Mutant	Fluoxetine	B3	Group1
+Dyrk_HfM_3	Dyrk1a	HfM	Dyrk_M	Mutant	Fluoxetine	B3	Group1
+Dyrk_HfM_4	Dyrk1a	HfM	Dyrk_M	Mutant	Fluoxetine	B3	Group1
+Dyrk_HfM_5	Dyrk1a	HfM	Dyrk_M	Mutant	Fluoxetine	B3	Group1
+Dyrk_HLF_1	Dyrk1a	HLF	Dyrk_F	Mutant	Lithium	B3	Group2
+Dyrk_HLF_2	Dyrk1a	HLF	Dyrk_F	Mutant	Lithium	B3	Group2
+Dyrk_HLF_3	Dyrk1a	HLF	Dyrk_F	Mutant	Lithium	B3	Group2
+Dyrk_HLF_4	Dyrk1a	HLF	Dyrk_F	Mutant	Lithium	B3	Group2
+Dyrk_HLF_5	Dyrk1a	HLF	Dyrk_F	Mutant	Lithium	B3	Group2
+Dyrk_HLM_1	Dyrk1a	HLM	Dyrk_M	Mutant	Lithium	B3	Group1
+Dyrk_HLM_2	Dyrk1a	HLM	Dyrk_M	Mutant	Lithium	B3	Group1
+Dyrk_HLM_3	Dyrk1a	HLM	Dyrk_M	Mutant	Lithium	B3	Group1
+Dyrk_HLM_4	Dyrk1a	HLM	Dyrk_M	Mutant	Lithium	B3	Group1
+Dyrk_HLM_5	Dyrk1a	HLM	Dyrk_M	Mutant	Lithium	B3	Group1
+Dyrk_HvF_1	Dyrk1a	HvF	Dyrk_F	Mutant	Vehicle	B3	Group2
+Dyrk_HvF_2	Dyrk1a	HvF	Dyrk_F	Mutant	Vehicle	B3	Group2
+Dyrk_HvF_3	Dyrk1a	HvF	Dyrk_F	Mutant	Vehicle	B3	Group2
+Dyrk_HvF_4	Dyrk1a	HvF	Dyrk_F	Mutant	Vehicle	B3	Group2
+Dyrk_HvF_5	Dyrk1a	HvF	Dyrk_F	Mutant	Vehicle	B3	Group2
+Dyrk_HvM_1	Dyrk1a	HvM	Dyrk_M	Mutant	Vehicle	B3	Group1
+Dyrk_HvM_2	Dyrk1a	HvM	Dyrk_M	Mutant	Vehicle	B3	Group1
+Dyrk_HvM_3	Dyrk1a	HvM	Dyrk_M	Mutant	Vehicle	B3	Group1
+Dyrk_HvM_4	Dyrk1a	HvM	Dyrk_M	Mutant	Vehicle	B3	Group1
+Dyrk_HvM_5	Dyrk1a	HvM	Dyrk_M	Mutant	Vehicle	B3	Group1
+Dyrk_WfF_1	Dyrk1a	WfF	Dyrk_F	Wildtype	Fluoxetine	B3	Group2
+Dyrk_WfF_2	Dyrk1a	WfF	Dyrk_F	Wildtype	Fluoxetine	B3	Group2
+Dyrk_WfF_3	Dyrk1a	WfF	Dyrk_F	Wildtype	Fluoxetine	B3	Group2
+Dyrk_WfF_4	Dyrk1a	WfF	Dyrk_F	Wildtype	Fluoxetine	B3	Group2
+Dyrk_WfF_5	Dyrk1a	WfF	Dyrk_F	Wildtype	Fluoxetine	B3	Group2
+Dyrk_WfM_1	Dyrk1a	WfM	Dyrk_M	Wildtype	Fluoxetine	B3	Group1
+Dyrk_WfM_2	Dyrk1a	WfM	Dyrk_M	Wildtype	Fluoxetine	B3	Group1
+Dyrk_WfM_3	Dyrk1a	WfM	Dyrk_M	Wildtype	Fluoxetine	B3	Group1
+Dyrk_WfM_4	Dyrk1a	WfM	Dyrk_M	Wildtype	Fluoxetine	B3	Group1
+Dyrk_WLF_1	Dyrk1a	WLF	Dyrk_F	Wildtype	Lithium	B3	Group2
+Dyrk_WLF_2	Dyrk1a	WLF	Dyrk_F	Wildtype	Lithium	B3	Group2
+Dyrk_WLF_3	Dyrk1a	WLF	Dyrk_F	Wildtype	Lithium	B3	Group2
+Dyrk_WLF_4	Dyrk1a	WLF	Dyrk_F	Wildtype	Lithium	B3	Group2
+Dyrk_WLF_5	Dyrk1a	WLF	Dyrk_F	Wildtype	Lithium	B3	Group2
+Dyrk_WLM_1	Dyrk1a	WLM	Dyrk_M	Wildtype	Lithium	B3	Group1
+Dyrk_WLM_2	Dyrk1a	WLM	Dyrk_M	Wildtype	Lithium	B3	Group1
+Dyrk_WLM_3	Dyrk1a	WLM	Dyrk_M	Wildtype	Lithium	B3	Group1
+Dyrk_WLM_4	Dyrk1a	WLM	Dyrk_M	Wildtype	Lithium	B3	Group1
+Dyrk_WLM_5	Dyrk1a	WLM	Dyrk_M	Wildtype	Lithium	B3	Group1
+Dyrk_WvF_1	Dyrk1a	WvF	Dyrk_F	Wildtype	Vehicle	B3	Group2
+Dyrk_WvF_2	Dyrk1a	WvF	Dyrk_F	Wildtype	Vehicle	B3	Group2
+Dyrk_WvF_3	Dyrk1a	WvF	Dyrk_F	Wildtype	Vehicle	B3	Group2
+Dyrk_WvF_4	Dyrk1a	WvF	Dyrk_F	Wildtype	Vehicle	B3	Group2
+Dyrk_WvF_5	Dyrk1a	WvF	Dyrk_F	Wildtype	Vehicle	B3	Group2
+Dyrk_WvM_1	Dyrk1a	WvM	Dyrk_M	Wildtype	Vehicle	B3	Group1
+Dyrk_WvM_2	Dyrk1a	WvM	Dyrk_M	Wildtype	Vehicle	B3	Group1
+Dyrk_WvM_3	Dyrk1a	WvM	Dyrk_M	Wildtype	Vehicle	B3	Group1
+Dyrk_WvM_4	Dyrk1a	WvM	Dyrk_M	Wildtype	Vehicle	B3	Group1
+Dyrk_WvM_5	Dyrk1a	WvM	Dyrk_M	Wildtype	Vehicle	B3	Group1
+G2b_HfF_1	Grin2b	HfF	G2b_F	Mutant	Fluoxetine	B1	Group2
+G2b_HfF_2	Grin2b	HfF	G2b_F	Mutant	Fluoxetine	B1	Group2
+G2b_HfF_3	Grin2b	HfF	G2b_F	Mutant	Fluoxetine	B1	Group2
+G2b_HfF_4	Grin2b	HfF	G2b_F	Mutant	Fluoxetine	B1	Group2
+G2b_HfF_5	Grin2b	HfF	G2b_F	Mutant	Fluoxetine	B1	Group2
+G2b_HfM_1	Grin2b	HfM	G2b_M	Mutant	Fluoxetine	B1	Group2
+G2b_HfM_2	Grin2b	HfM	G2b_M	Mutant	Fluoxetine	B1	Group2
+G2b_HfM_3	Grin2b	HfM	G2b_M	Mutant	Fluoxetine	B1	Group2
+G2b_HfM_4	Grin2b	HfM	G2b_M	Mutant	Fluoxetine	B1	Group2
+G2b_HfM_5	Grin2b	HfM	G2b_M	Mutant	Fluoxetine	B1	Group2
+G2b_HLF_1	Grin2b	HLF	G2b_F	Mutant	Lithium	B1	Group2
+G2b_HLF_2	Grin2b	HLF	G2b_F	Mutant	Lithium	B1	Group2
+G2b_HLF_3	Grin2b	HLF	G2b_F	Mutant	Lithium	B1	Group2
+G2b_HLF_4	Grin2b	HLF	G2b_F	Mutant	Lithium	B1	Group2
+G2b_HLF_5	Grin2b	HLF	G2b_F	Mutant	Lithium	B1	Group2
+G2b_HLM_1	Grin2b	HLM	G2b_M	Mutant	Lithium	B1	Group2
+G2b_HLM_2	Grin2b	HLM	G2b_M	Mutant	Lithium	B1	Group2
+G2b_HLM_3	Grin2b	HLM	G2b_M	Mutant	Lithium	B1	Group2
+G2b_HLM_4	Grin2b	HLM	G2b_M	Mutant	Lithium	B1	Group2
+G2b_HLM_5	Grin2b	HLM	G2b_M	Mutant	Lithium	B1	Group2
+G2b_HvF_1	Grin2b	HvF	G2b_F	Mutant	Vehicle	B1	Group2
+G2b_HvF_2	Grin2b	HvF	G2b_F	Mutant	Vehicle	B1	Group2
+G2b_HvF_3	Grin2b	HvF	G2b_F	Mutant	Vehicle	B1	Group2
+G2b_HvF_4	Grin2b	HvF	G2b_F	Mutant	Vehicle	B1	Group2
+G2b_HvF_5	Grin2b	HvF	G2b_F	Mutant	Vehicle	B1	Group2
+G2b_HvM_1	Grin2b	HvM	G2b_M	Mutant	Vehicle	B1	Group2
+G2b_HvM_2	Grin2b	HvM	G2b_M	Mutant	Vehicle	B1	Group2
+G2b_HvM_3	Grin2b	HvM	G2b_M	Mutant	Vehicle	B1	Group2
+G2b_HvM_4	Grin2b	HvM	G2b_M	Mutant	Vehicle	B1	Group2
+G2b_HvM_5	Grin2b	HvM	G2b_M	Mutant	Vehicle	B1	Group2
+G2b_WfF_1	Grin2b	WfF	G2b_F	Wildtype	Fluoxetine	B1	Group2
+G2b_WfF_2	Grin2b	WfF	G2b_F	Wildtype	Fluoxetine	B1	Group2
+G2b_WfF_3	Grin2b	WfF	G2b_F	Wildtype	Fluoxetine	B1	Group2
+G2b_WfF_4	Grin2b	WfF	G2b_F	Wildtype	Fluoxetine	B1	Group2
+G2b_WfF_5	Grin2b	WfF	G2b_F	Wildtype	Fluoxetine	B1	Group2
+G2b_WfM_1	Grin2b	WfM	G2b_M	Wildtype	Fluoxetine	B1	Group2
+G2b_WfM_2	Grin2b	WfM	G2b_M	Wildtype	Fluoxetine	B1	Group2
+G2b_WfM_3	Grin2b	WfM	G2b_M	Wildtype	Fluoxetine	B1	Group2
+G2b_WfM_4	Grin2b	WfM	G2b_M	Wildtype	Fluoxetine	B1	Group2
+G2b_WfM_5	Grin2b	WfM	G2b_M	Wildtype	Fluoxetine	B1	Group2
+G2b_WLF_1	Grin2b	WLF	G2b_F	Wildtype	Lithium	B1	Group2
+G2b_WLF_2	Grin2b	WLF	G2b_F	Wildtype	Lithium	B1	Group2
+G2b_WLF_3	Grin2b	WLF	G2b_F	Wildtype	Lithium	B1	Group2
+G2b_WLF_4	Grin2b	WLF	G2b_F	Wildtype	Lithium	B1	Group2
+G2b_WLF_5	Grin2b	WLF	G2b_F	Wildtype	Lithium	B1	Group2
+G2b_WLM_1	Grin2b	WLM	G2b_M	Wildtype	Lithium	B1	Group2
+G2b_WLM_2	Grin2b	WLM	G2b_M	Wildtype	Lithium	B1	Group2
+G2b_WLM_3	Grin2b	WLM	G2b_M	Wildtype	Lithium	B1	Group2
+G2b_WLM_4	Grin2b	WLM	G2b_M	Wildtype	Lithium	B1	Group2
+G2b_WLM_5	Grin2b	WLM	G2b_M	Wildtype	Lithium	B1	Group2
+G2b_WvF_1	Grin2b	WvF	G2b_F	Wildtype	Vehicle	B1	Group2
+G2b_WvF_2	Grin2b	WvF	G2b_F	Wildtype	Vehicle	B1	Group2
+G2b_WvF_3	Grin2b	WvF	G2b_F	Wildtype	Vehicle	B1	Group2
+G2b_WvF_4	Grin2b	WvF	G2b_F	Wildtype	Vehicle	B1	Group2
+G2b_WvF_5	Grin2b	WvF	G2b_F	Wildtype	Vehicle	B1	Group2
+G2b_WvM_1	Grin2b	WvM	G2b_M	Wildtype	Vehicle	B1	Group2
+G2b_WvM_2	Grin2b	WvM	G2b_M	Wildtype	Vehicle	B1	Group2
+G2b_WvM_3	Grin2b	WvM	G2b_M	Wildtype	Vehicle	B1	Group2
+G2b_WvM_4	Grin2b	WvM	G2b_M	Wildtype	Vehicle	B1	Group2
+G2b_WvM_5	Grin2b	WvM	G2b_M	Wildtype	Vehicle	B1	Group2
+K5B_HfF_1	Kmt5b	HfF	K5B_F	Mutant	Fluoxetine	B5	Group1
+K5B_HfF_2	Kmt5b	HfF	K5B_F	Mutant	Fluoxetine	B5	Group1
+K5B_HfF_3	Kmt5b	HfF	K5B_F	Mutant	Fluoxetine	B5	Group1
+K5B_HfF_4	Kmt5b	HfF	K5B_F	Mutant	Fluoxetine	B5	Group1
+K5B_HfF_5	Kmt5b	HfF	K5B_F	Mutant	Fluoxetine	B5	Group1
+K5B_HfM_1	Kmt5b	HfM	K5B_M	Mutant	Fluoxetine	B5	Group1
+K5B_HfM_2	Kmt5b	HfM	K5B_M	Mutant	Fluoxetine	B5	Group1
+K5B_HfM_3	Kmt5b	HfM	K5B_M	Mutant	Fluoxetine	B5	Group1
+K5B_HfM_4	Kmt5b	HfM	K5B_M	Mutant	Fluoxetine	B5	Group1
+K5B_HfM_5	Kmt5b	HfM	K5B_M	Mutant	Fluoxetine	B5	Group1
+K5B_HLF_1	Kmt5b	HLF	K5B_F	Mutant	Lithium	B5	Group1
+K5B_HLF_2	Kmt5b	HLF	K5B_F	Mutant	Lithium	B5	Group1
+K5B_HLF_3	Kmt5b	HLF	K5B_F	Mutant	Lithium	B5	Group1
+K5B_HLF_4	Kmt5b	HLF	K5B_F	Mutant	Lithium	B5	Group1
+K5B_HLF_5	Kmt5b	HLF	K5B_F	Mutant	Lithium	B5	Group1
+K5B_HLM_1	Kmt5b	HLM	K5B_M	Mutant	Lithium	B5	Group1
+K5B_HLM_2	Kmt5b	HLM	K5B_M	Mutant	Lithium	B5	Group1
+K5B_HLM_3	Kmt5b	HLM	K5B_M	Mutant	Lithium	B5	Group1
+K5B_HLM_4	Kmt5b	HLM	K5B_M	Mutant	Lithium	B5	Group1
+K5B_HLM_5	Kmt5b	HLM	K5B_M	Mutant	Lithium	B5	Group1
+K5B_HvF_1	Kmt5b	HvF	K5B_F	Mutant	Vehicle	B5	Group1
+K5B_HvF_2	Kmt5b	HvF	K5B_F	Mutant	Vehicle	B5	Group1
+K5B_HvF_3	Kmt5b	HvF	K5B_F	Mutant	Vehicle	B5	Group1
+K5B_HvF_4	Kmt5b	HvF	K5B_F	Mutant	Vehicle	B5	Group1
+K5B_HvF_5	Kmt5b	HvF	K5B_F	Mutant	Vehicle	B5	Group1
+K5B_HvM_1	Kmt5b	HvM	K5B_M	Mutant	Vehicle	B5	Group1
+K5B_HvM_2	Kmt5b	HvM	K5B_M	Mutant	Vehicle	B5	Group1
+K5B_HvM_3	Kmt5b	HvM	K5B_M	Mutant	Vehicle	B5	Group1
+K5B_HvM_4	Kmt5b	HvM	K5B_M	Mutant	Vehicle	B5	Group1
+K5B_HvM_5	Kmt5b	HvM	K5B_M	Mutant	Vehicle	B5	Group1
+K5B_WfF_1	Kmt5b	WfF	K5B_F	Wildtype	Fluoxetine	B5	Group1
+K5B_WfF_2	Kmt5b	WfF	K5B_F	Wildtype	Fluoxetine	B5	Group1
+K5B_WfF_3	Kmt5b	WfF	K5B_F	Wildtype	Fluoxetine	B5	Group1
+K5B_WfF_4	Kmt5b	WfF	K5B_F	Wildtype	Fluoxetine	B5	Group1
+K5B_WfF_5	Kmt5b	WfF	K5B_F	Wildtype	Fluoxetine	B5	Group1
+K5B_WfM_1	Kmt5b	WfM	K5B_M	Wildtype	Fluoxetine	B5	Group1
+K5B_WfM_2	Kmt5b	WfM	K5B_M	Wildtype	Fluoxetine	B5	Group1
+K5B_WfM_3	Kmt5b	WfM	K5B_M	Wildtype	Fluoxetine	B5	Group1
+K5B_WfM_4	Kmt5b	WfM	K5B_M	Wildtype	Fluoxetine	B5	Group1
+K5B_WfM_5	Kmt5b	WfM	K5B_M	Wildtype	Fluoxetine	B5	Group1
+K5B_WLF_1	Kmt5b	WLF	K5B_F	Wildtype	Lithium	B5	Group1
+K5B_WLF_2	Kmt5b	WLF	K5B_F	Wildtype	Lithium	B5	Group1
+K5B_WLF_3	Kmt5b	WLF	K5B_F	Wildtype	Lithium	B5	Group1
+K5B_WLF_4	Kmt5b	WLF	K5B_F	Wildtype	Lithium	B5	Group1
+K5B_WLM_1	Kmt5b	WLM	K5B_M	Wildtype	Lithium	B5	Group1
+K5B_WLM_2	Kmt5b	WLM	K5B_M	Wildtype	Lithium	B5	Group1
+K5B_WLM_3	Kmt5b	WLM	K5B_M	Wildtype	Lithium	B5	Group1
+K5B_WLM_4	Kmt5b	WLM	K5B_M	Wildtype	Lithium	B5	Group1
+K5B_WvF_1	Kmt5b	WvF	K5B_F	Wildtype	Vehicle	B5	Group1
+K5B_WvF_2	Kmt5b	WvF	K5B_F	Wildtype	Vehicle	B5	Group1
+K5B_WvF_3	Kmt5b	WvF	K5B_F	Wildtype	Vehicle	B5	Group1
+K5B_WvF_4	Kmt5b	WvF	K5B_F	Wildtype	Vehicle	B5	Group1
+K5B_WvF_5	Kmt5b	WvF	K5B_F	Wildtype	Vehicle	B5	Group1
+K5B_WvM_1	Kmt5b	WvM	K5B_M	Wildtype	Vehicle	B5	Group1
+K5B_WvM_2	Kmt5b	WvM	K5B_M	Wildtype	Vehicle	B5	Group1
+K5B_WvM_3	Kmt5b	WvM	K5B_M	Wildtype	Vehicle	B5	Group1
+K5B_WvM_4	Kmt5b	WvM	K5B_M	Wildtype	Vehicle	B5	Group1
+K5B_WvM_5	Kmt5b	WvM	K5B_M	Wildtype	Vehicle	B5	Group1
+L68P_HfF_1	Shank3-L	HfF	L68P_F	Mutant	Fluoxetine	B6	Group2
+L68P_HfF_2	Shank3-L	HfF	L68P_F	Mutant	Fluoxetine	B6	Group2
+L68P_HfF_3	Shank3-L	HfF	L68P_F	Mutant	Fluoxetine	B6	Group2
+L68P_HfF_4	Shank3-L	HfF	L68P_F	Mutant	Fluoxetine	B6	Group2
+L68P_HfF_5	Shank3-L	HfF	L68P_F	Mutant	Fluoxetine	B6	Group2
+L68P_HfM_1	Shank3-L	HfM	L68P_M	Mutant	Fluoxetine	B6	Group1
+L68P_HfM_2	Shank3-L	HfM	L68P_M	Mutant	Fluoxetine	B6	Group1
+L68P_HfM_3	Shank3-L	HfM	L68P_M	Mutant	Fluoxetine	B6	Group1
+L68P_HfM_4	Shank3-L	HfM	L68P_M	Mutant	Fluoxetine	B6	Group1
+L68P_HfM_5	Shank3-L	HfM	L68P_M	Mutant	Fluoxetine	B6	Group1
+L68P_HLF_1	Shank3-L	HLF	L68P_F	Mutant	Lithium	B6	Group2
+L68P_HLF_2	Shank3-L	HLF	L68P_F	Mutant	Lithium	B6	Group2
+L68P_HLF_3	Shank3-L	HLF	L68P_F	Mutant	Lithium	B6	Group2
+L68P_HLF_4	Shank3-L	HLF	L68P_F	Mutant	Lithium	B6	Group2
+L68P_HLF_5	Shank3-L	HLF	L68P_F	Mutant	Lithium	B6	Group2
+L68P_HLM_1	Shank3-L	HLM	L68P_M	Mutant	Lithium	B6	Group1
+L68P_HLM_2	Shank3-L	HLM	L68P_M	Mutant	Lithium	B6	Group1
+L68P_HLM_3	Shank3-L	HLM	L68P_M	Mutant	Lithium	B6	Group1
+L68P_HLM_4	Shank3-L	HLM	L68P_M	Mutant	Lithium	B6	Group1
+L68P_HLM_5	Shank3-L	HLM	L68P_M	Mutant	Lithium	B6	Group1
+L68P_HvF_1	Shank3-L	HvF	L68P_F	Mutant	Vehicle	B6	Group2
+L68P_HvF_2	Shank3-L	HvF	L68P_F	Mutant	Vehicle	B6	Group2
+L68P_HvF_3	Shank3-L	HvF	L68P_F	Mutant	Vehicle	B6	Group2
+L68P_HvF_4	Shank3-L	HvF	L68P_F	Mutant	Vehicle	B6	Group2
+L68P_HvF_5	Shank3-L	HvF	L68P_F	Mutant	Vehicle	B6	Group2
+L68P_HvM_1	Shank3-L	HvM	L68P_M	Mutant	Vehicle	B6	Group1
+L68P_HvM_2	Shank3-L	HvM	L68P_M	Mutant	Vehicle	B6	Group1
+L68P_HvM_3	Shank3-L	HvM	L68P_M	Mutant	Vehicle	B6	Group1
+L68P_HvM_4	Shank3-L	HvM	L68P_M	Mutant	Vehicle	B6	Group1
+L68P_HvM_5	Shank3-L	HvM	L68P_M	Mutant	Vehicle	B6	Group1
+L68P_WfF_1	Shank3-L	WfF	L68P_F	Wildtype	Fluoxetine	B6	Group2
+L68P_WfF_2	Shank3-L	WfF	L68P_F	Wildtype	Fluoxetine	B6	Group2
+L68P_WfF_3	Shank3-L	WfF	L68P_F	Wildtype	Fluoxetine	B6	Group2
+L68P_WfF_4	Shank3-L	WfF	L68P_F	Wildtype	Fluoxetine	B6	Group2
+L68P_WfF_5	Shank3-L	WfF	L68P_F	Wildtype	Fluoxetine	B6	Group2
+L68P_WfM_1	Shank3-L	WfM	L68P_M	Wildtype	Fluoxetine	B6	Group1
+L68P_WfM_2	Shank3-L	WfM	L68P_M	Wildtype	Fluoxetine	B6	Group1
+L68P_WfM_3	Shank3-L	WfM	L68P_M	Wildtype	Fluoxetine	B6	Group1
+L68P_WfM_4	Shank3-L	WfM	L68P_M	Wildtype	Fluoxetine	B6	Group1
+L68P_WfM_5	Shank3-L	WfM	L68P_M	Wildtype	Fluoxetine	B6	Group1
+L68P_WLF_1	Shank3-L	WLF	L68P_F	Wildtype	Lithium	B6	Group2
+L68P_WLF_2	Shank3-L	WLF	L68P_F	Wildtype	Lithium	B6	Group2
+L68P_WLF_3	Shank3-L	WLF	L68P_F	Wildtype	Lithium	B6	Group2
+L68P_WLF_4	Shank3-L	WLF	L68P_F	Wildtype	Lithium	B6	Group2
+L68P_WLM_1	Shank3-L	WLM	L68P_M	Wildtype	Lithium	B6	Group1
+L68P_WLM_2	Shank3-L	WLM	L68P_M	Wildtype	Lithium	B6	Group1
+L68P_WLM_3	Shank3-L	WLM	L68P_M	Wildtype	Lithium	B6	Group1
+L68P_WLM_4	Shank3-L	WLM	L68P_M	Wildtype	Lithium	B6	Group1
+L68P_WLM_5	Shank3-L	WLM	L68P_M	Wildtype	Lithium	B6	Group1
+L68P_WvF_1	Shank3-L	WvF	L68P_F	Wildtype	Vehicle	B6	Group2
+L68P_WvF_2	Shank3-L	WvF	L68P_F	Wildtype	Vehicle	B6	Group2
+L68P_WvF_3	Shank3-L	WvF	L68P_F	Wildtype	Vehicle	B6	Group2
+L68P_WvF_4	Shank3-L	WvF	L68P_F	Wildtype	Vehicle	B6	Group2
+L68P_WvF_5	Shank3-L	WvF	L68P_F	Wildtype	Vehicle	B6	Group2
+L68P_WvM_1	Shank3-L	WvM	L68P_M	Wildtype	Vehicle	B6	Group1
+L68P_WvM_2	Shank3-L	WvM	L68P_M	Wildtype	Vehicle	B6	Group1
+L68P_WvM_3	Shank3-L	WvM	L68P_M	Wildtype	Vehicle	B6	Group1
+L68P_WvM_4	Shank3-L	WvM	L68P_M	Wildtype	Vehicle	B6	Group1
+L68P_WvM_5	Shank3-L	WvM	L68P_M	Wildtype	Vehicle	B6	Group1
+Mt1_HfF_1	Myt1l	HfF	Mt1_F	Mutant	Fluoxetine	B4-1	Group2
+Mt1_HfF_2	Myt1l	HfF	Mt1_F	Mutant	Fluoxetine	B4-1	Group2
+Mt1_HfF_3	Myt1l	HfF	Mt1_F	Mutant	Fluoxetine	B4-1	Group2
+Mt1_HfF_4	Myt1l	HfF	Mt1_F	Mutant	Fluoxetine	B4-1	Group2
+Mt1_HfF_5	Myt1l	HfF	Mt1_F	Mutant	Fluoxetine	B4-1	Group2
+Mt1_HfM_1	Myt1l	HfM	Mt1_M	Mutant	Fluoxetine	B4-1	Group2
+Mt1_HfM_2	Myt1l	HfM	Mt1_M	Mutant	Fluoxetine	B4-1	Group2
+Mt1_HfM_3	Myt1l	HfM	Mt1_M	Mutant	Fluoxetine	B4-1	Group2
+Mt1_HfM_4	Myt1l	HfM	Mt1_M	Mutant	Fluoxetine	B4-1	Group2
+Mt1_HfM_5	Myt1l	HfM	Mt1_M	Mutant	Fluoxetine	B4-1	Group2
+Mt1_HLF_1	Myt1l	HLF	Mt1_F	Mutant	Lithium	B4-1	Group2
+Mt1_HLF_2	Myt1l	HLF	Mt1_F	Mutant	Lithium	B4-1	Group2
+Mt1_HLF_3	Myt1l	HLF	Mt1_F	Mutant	Lithium	B4-1	Group2
+Mt1_HLF_4	Myt1l	HLF	Mt1_F	Mutant	Lithium	B4-1	Group2
+Mt1_HLF_5	Myt1l	HLF	Mt1_F	Mutant	Lithium	B4-1	Group2
+Mt1_HLM_1	Myt1l	HLM	Mt1_M	Mutant	Lithium	B4-1	Group2
+Mt1_HLM_2	Myt1l	HLM	Mt1_M	Mutant	Lithium	B4-1	Group2
+Mt1_HLM_3	Myt1l	HLM	Mt1_M	Mutant	Lithium	B4-1	Group2
+Mt1_HLM_4	Myt1l	HLM	Mt1_M	Mutant	Lithium	B4-1	Group2
+Mt1_HLM_5	Myt1l	HLM	Mt1_M	Mutant	Lithium	B4-1	Group2
+Mt1_HvF_1	Myt1l	HvF	Mt1_F	Mutant	Vehicle	B4-1	Group2
+Mt1_HvF_2	Myt1l	HvF	Mt1_F	Mutant	Vehicle	B4-1	Group2
+Mt1_HvF_3	Myt1l	HvF	Mt1_F	Mutant	Vehicle	B4-1	Group2
+Mt1_HvF_4	Myt1l	HvF	Mt1_F	Mutant	Vehicle	B4-1	Group2
+Mt1_HvF_5	Myt1l	HvF	Mt1_F	Mutant	Vehicle	B4-1	Group2
+Mt1_HvM_1	Myt1l	HvM	Mt1_M	Mutant	Vehicle	B4-1	Group2
+Mt1_HvM_2	Myt1l	HvM	Mt1_M	Mutant	Vehicle	B4-1	Group2
+Mt1_HvM_3	Myt1l	HvM	Mt1_M	Mutant	Vehicle	B4-1	Group2
+Mt1_HvM_4	Myt1l	HvM	Mt1_M	Mutant	Vehicle	B4-1	Group2
+Mt1_HvM_5	Myt1l	HvM	Mt1_M	Mutant	Vehicle	B4-1	Group2
+Mt1_WfF_1	Myt1l	WfF	Mt1_F	Wildtype	Fluoxetine	B4-1	Group2
+Mt1_WfF_2	Myt1l	WfF	Mt1_F	Wildtype	Fluoxetine	B4-1	Group2
+Mt1_WfF_3	Myt1l	WfF	Mt1_F	Wildtype	Fluoxetine	B4-1	Group2
+Mt1_WfF_4	Myt1l	WfF	Mt1_F	Wildtype	Fluoxetine	B4-1	Group2
+Mt1_WfM_1	Myt1l	WfM	Mt1_M	Wildtype	Fluoxetine	B4-1	Group2
+Mt1_WfM_2	Myt1l	WfM	Mt1_M	Wildtype	Fluoxetine	B4-1	Group2
+Mt1_WfM_3	Myt1l	WfM	Mt1_M	Wildtype	Fluoxetine	B4-1	Group2
+Mt1_WfM_4	Myt1l	WfM	Mt1_M	Wildtype	Fluoxetine	B4-1	Group2
+Mt1_WfM_5	Myt1l	WfM	Mt1_M	Wildtype	Fluoxetine	B4-1	Group2
+Mt1_WLF_1	Myt1l	WLF	Mt1_F	Wildtype	Lithium	B4-1	Group2
+Mt1_WLF_2	Myt1l	WLF	Mt1_F	Wildtype	Lithium	B4-1	Group2
+Mt1_WLF_3	Myt1l	WLF	Mt1_F	Wildtype	Lithium	B4-1	Group2
+Mt1_WLF_4	Myt1l	WLF	Mt1_F	Wildtype	Lithium	B4-1	Group2
+Mt1_WLF_5	Myt1l	WLF	Mt1_F	Wildtype	Lithium	B4-1	Group2
+Mt1_WLM_1	Myt1l	WLM	Mt1_M	Wildtype	Lithium	B4-1	Group2
+Mt1_WLM_2	Myt1l	WLM	Mt1_M	Wildtype	Lithium	B4-1	Group2
+Mt1_WLM_3	Myt1l	WLM	Mt1_M	Wildtype	Lithium	B4-1	Group2
+Mt1_WLM_4	Myt1l	WLM	Mt1_M	Wildtype	Lithium	B4-1	Group2
+Mt1_WLM_5	Myt1l	WLM	Mt1_M	Wildtype	Lithium	B4-1	Group2
+Mt1_WvF_1	Myt1l	WvF	Mt1_F	Wildtype	Vehicle	B4-1	Group2
+Mt1_WvF_2	Myt1l	WvF	Mt1_F	Wildtype	Vehicle	B4-1	Group2
+Mt1_WvF_3	Myt1l	WvF	Mt1_F	Wildtype	Vehicle	B4-1	Group2
+Mt1_WvF_4	Myt1l	WvF	Mt1_F	Wildtype	Vehicle	B4-1	Group2
+Mt1_WvF_5	Myt1l	WvF	Mt1_F	Wildtype	Vehicle	B4-1	Group2
+Mt1_WvM_1	Myt1l	WvM	Mt1_M	Wildtype	Vehicle	B4-1	Group2
+Mt1_WvM_2	Myt1l	WvM	Mt1_M	Wildtype	Vehicle	B4-1	Group2
+Mt1_WvM_3	Myt1l	WvM	Mt1_M	Wildtype	Vehicle	B4-1	Group2
+Mt1_WvM_4	Myt1l	WvM	Mt1_M	Wildtype	Vehicle	B4-1	Group2
+Mt1_WvM_5	Myt1l	WvM	Mt1_M	Wildtype	Vehicle	B4-1	Group2
+Na_HfF_1	Naa15	HfF	Na_F	Mutant	Fluoxetine	B3	Group2
+Na_HfF_2	Naa15	HfF	Na_F	Mutant	Fluoxetine	B3	Group2
+Na_HfF_3	Naa15	HfF	Na_F	Mutant	Fluoxetine	B3	Group2
+Na_HfF_4	Naa15	HfF	Na_F	Mutant	Fluoxetine	B3	Group2
+Na_HfF_5	Naa15	HfF	Na_F	Mutant	Fluoxetine	B3	Group2
+Na_HfM_1	Naa15	HfM	Na_M	Mutant	Fluoxetine	B3	Group1
+Na_HfM_2	Naa15	HfM	Na_M	Mutant	Fluoxetine	B3	Group1
+Na_HfM_3	Naa15	HfM	Na_M	Mutant	Fluoxetine	B3	Group1
+Na_HfM_4	Naa15	HfM	Na_M	Mutant	Fluoxetine	B3	Group1
+Na_HfM_5	Naa15	HfM	Na_M	Mutant	Fluoxetine	B3	Group1
+Na_HLF_1	Naa15	HLF	Na_F	Mutant	Lithium	B3	Group2
+Na_HLF_2	Naa15	HLF	Na_F	Mutant	Lithium	B3	Group2
+Na_HLF_3	Naa15	HLF	Na_F	Mutant	Lithium	B3	Group2
+Na_HLF_4	Naa15	HLF	Na_F	Mutant	Lithium	B3	Group2
+Na_HLF_5	Naa15	HLF	Na_F	Mutant	Lithium	B3	Group2
+Na_HLM_1	Naa15	HLM	Na_M	Mutant	Lithium	B3	Group1
+Na_HLM_2	Naa15	HLM	Na_M	Mutant	Lithium	B3	Group1
+Na_HLM_3	Naa15	HLM	Na_M	Mutant	Lithium	B3	Group1
+Na_HLM_4	Naa15	HLM	Na_M	Mutant	Lithium	B3	Group1
+Na_HLM_5	Naa15	HLM	Na_M	Mutant	Lithium	B3	Group1
+Na_HvF_1	Naa15	HvF	Na_F	Mutant	Vehicle	B3	Group2
+Na_HvF_2	Naa15	HvF	Na_F	Mutant	Vehicle	B3	Group2
+Na_HvF_3	Naa15	HvF	Na_F	Mutant	Vehicle	B3	Group2
+Na_HvF_4	Naa15	HvF	Na_F	Mutant	Vehicle	B3	Group2
+Na_HvF_5	Naa15	HvF	Na_F	Mutant	Vehicle	B3	Group2
+Na_HvM_1	Naa15	HvM	Na_M	Mutant	Vehicle	B3	Group1
+Na_HvM_2	Naa15	HvM	Na_M	Mutant	Vehicle	B3	Group1
+Na_HvM_4	Naa15	HvM	Na_M	Mutant	Vehicle	B3	Group1
+Na_HvM_5	Naa15	HvM	Na_M	Mutant	Vehicle	B3	Group1
+Na_WfF_1	Naa15	WfF	Na_F	Wildtype	Fluoxetine	B3	Group2
+Na_WfF_2	Naa15	WfF	Na_F	Wildtype	Fluoxetine	B3	Group2
+Na_WfF_3	Naa15	WfF	Na_F	Wildtype	Fluoxetine	B3	Group2
+Na_WfF_4	Naa15	WfF	Na_F	Wildtype	Fluoxetine	B3	Group2
+Na_WfF_5	Naa15	WfF	Na_F	Wildtype	Fluoxetine	B3	Group2
+Na_WfM_1	Naa15	WfM	Na_M	Wildtype	Fluoxetine	B3	Group1
+Na_WfM_2	Naa15	WfM	Na_M	Wildtype	Fluoxetine	B3	Group1
+Na_WfM_3	Naa15	WfM	Na_M	Wildtype	Fluoxetine	B3	Group1
+Na_WfM_4	Naa15	WfM	Na_M	Wildtype	Fluoxetine	B3	Group1
+Na_WfM_5	Naa15	WfM	Na_M	Wildtype	Fluoxetine	B3	Group1
+Na_WLF_1	Naa15	WLF	Na_F	Wildtype	Lithium	B3	Group2
+Na_WLF_2	Naa15	WLF	Na_F	Wildtype	Lithium	B3	Group2
+Na_WLF_3	Naa15	WLF	Na_F	Wildtype	Lithium	B3	Group2
+Na_WLF_4	Naa15	WLF	Na_F	Wildtype	Lithium	B3	Group2
+Na_WLF_5	Naa15	WLF	Na_F	Wildtype	Lithium	B3	Group2
+Na_WLM_1	Naa15	WLM	Na_M	Wildtype	Lithium	B3	Group1
+Na_WLM_2	Naa15	WLM	Na_M	Wildtype	Lithium	B3	Group1
+Na_WLM_3	Naa15	WLM	Na_M	Wildtype	Lithium	B3	Group1
+Na_WLM_4	Naa15	WLM	Na_M	Wildtype	Lithium	B3	Group1
+Na_WLM_5	Naa15	WLM	Na_M	Wildtype	Lithium	B3	Group1
+Na_WvF_1	Naa15	WvF	Na_F	Wildtype	Vehicle	B3	Group2
+Na_WvF_2	Naa15	WvF	Na_F	Wildtype	Vehicle	B3	Group2
+Na_WvF_3	Naa15	WvF	Na_F	Wildtype	Vehicle	B3	Group2
+Na_WvF_4	Naa15	WvF	Na_F	Wildtype	Vehicle	B3	Group2
+Na_WvF_5	Naa15	WvF	Na_F	Wildtype	Vehicle	B3	Group2
+Na_WvM_1	Naa15	WvM	Na_M	Wildtype	Vehicle	B3	Group1
+Na_WvM_2	Naa15	WvM	Na_M	Wildtype	Vehicle	B3	Group1
+Na_WvM_3	Naa15	WvM	Na_M	Wildtype	Vehicle	B3	Group1
+Na_WvM_4	Naa15	WvM	Na_M	Wildtype	Vehicle	B3	Group1
+Na_WvM_5	Naa15	WvM	Na_M	Wildtype	Vehicle	B3	Group1
+P131_HfF_1	Pten	HfF	P131_F	Mutant	Fluoxetine	B5	Group1
+P131_HfF_2	Pten	HfF	P131_F	Mutant	Fluoxetine	B5	Group1
+P131_HfF_3	Pten	HfF	P131_F	Mutant	Fluoxetine	B5	Group1
+P131_HfF_4	Pten	HfF	P131_F	Mutant	Fluoxetine	B5	Group1
+P131_HfF_5	Pten	HfF	P131_F	Mutant	Fluoxetine	B5	Group1
+P131_HfM_1	Pten	HfM	P131_M	Mutant	Fluoxetine	B5	Group1
+P131_HfM_2	Pten	HfM	P131_M	Mutant	Fluoxetine	B5	Group1
+P131_HfM_3	Pten	HfM	P131_M	Mutant	Fluoxetine	B5	Group1
+P131_HfM_4	Pten	HfM	P131_M	Mutant	Fluoxetine	B5	Group1
+P131_HfM_5	Pten	HfM	P131_M	Mutant	Fluoxetine	B5	Group1
+P131_HLF_1	Pten	HLF	P131_F	Mutant	Lithium	B5	Group1
+P131_HLF_2	Pten	HLF	P131_F	Mutant	Lithium	B5	Group1
+P131_HLF_3	Pten	HLF	P131_F	Mutant	Lithium	B5	Group1
+P131_HLF_4	Pten	HLF	P131_F	Mutant	Lithium	B5	Group1
+P131_HLF_5	Pten	HLF	P131_F	Mutant	Lithium	B5	Group1
+P131_HLM_1	Pten	HLM	P131_M	Mutant	Lithium	B5	Group1
+P131_HLM_2	Pten	HLM	P131_M	Mutant	Lithium	B5	Group1
+P131_HLM_3	Pten	HLM	P131_M	Mutant	Lithium	B5	Group1
+P131_HLM_4	Pten	HLM	P131_M	Mutant	Lithium	B5	Group1
+P131_HLM_5	Pten	HLM	P131_M	Mutant	Lithium	B5	Group1
+P131_HvF_1	Pten	HvF	P131_F	Mutant	Vehicle	B5	Group1
+P131_HvF_2	Pten	HvF	P131_F	Mutant	Vehicle	B5	Group1
+P131_HvF_3	Pten	HvF	P131_F	Mutant	Vehicle	B5	Group1
+P131_HvF_4	Pten	HvF	P131_F	Mutant	Vehicle	B5	Group1
+P131_HvF_5	Pten	HvF	P131_F	Mutant	Vehicle	B5	Group1
+P131_HvM_1	Pten	HvM	P131_M	Mutant	Vehicle	B5	Group1
+P131_HvM_2	Pten	HvM	P131_M	Mutant	Vehicle	B5	Group1
+P131_HvM_3	Pten	HvM	P131_M	Mutant	Vehicle	B5	Group1
+P131_HvM_4	Pten	HvM	P131_M	Mutant	Vehicle	B5	Group1
+P131_HvM_5	Pten	HvM	P131_M	Mutant	Vehicle	B5	Group1
+P131_WfF_1	Pten	WfF	P131_F	Wildtype	Fluoxetine	B5	Group1
+P131_WfF_2	Pten	WfF	P131_F	Wildtype	Fluoxetine	B5	Group1
+P131_WfF_3	Pten	WfF	P131_F	Wildtype	Fluoxetine	B5	Group1
+P131_WfF_4	Pten	WfF	P131_F	Wildtype	Fluoxetine	B5	Group1
+P131_WfF_5	Pten	WfF	P131_F	Wildtype	Fluoxetine	B5	Group1
+P131_WfM_1	Pten	WfM	P131_M	Wildtype	Fluoxetine	B5	Group1
+P131_WfM_2	Pten	WfM	P131_M	Wildtype	Fluoxetine	B5	Group1
+P131_WfM_3	Pten	WfM	P131_M	Wildtype	Fluoxetine	B5	Group1
+P131_WfM_4	Pten	WfM	P131_M	Wildtype	Fluoxetine	B5	Group1
+P131_WfM_5	Pten	WfM	P131_M	Wildtype	Fluoxetine	B5	Group1
+P131_WLF_1	Pten	WLF	P131_F	Wildtype	Lithium	B5	Group1
+P131_WLF_2	Pten	WLF	P131_F	Wildtype	Lithium	B5	Group1
+P131_WLF_3	Pten	WLF	P131_F	Wildtype	Lithium	B5	Group1
+P131_WLF_4	Pten	WLF	P131_F	Wildtype	Lithium	B5	Group1
+P131_WLF_5	Pten	WLF	P131_F	Wildtype	Lithium	B5	Group1
+P131_WLM_1	Pten	WLM	P131_M	Wildtype	Lithium	B5	Group1
+P131_WLM_2	Pten	WLM	P131_M	Wildtype	Lithium	B5	Group1
+P131_WLM_3	Pten	WLM	P131_M	Wildtype	Lithium	B5	Group1
+P131_WLM_4	Pten	WLM	P131_M	Wildtype	Lithium	B5	Group1
+P131_WLM_5	Pten	WLM	P131_M	Wildtype	Lithium	B5	Group1
+P131_WvF_1	Pten	WvF	P131_F	Wildtype	Vehicle	B5	Group1
+P131_WvF_2	Pten	WvF	P131_F	Wildtype	Vehicle	B5	Group1
+P131_WvF_3	Pten	WvF	P131_F	Wildtype	Vehicle	B5	Group1
+P131_WvF_4	Pten	WvF	P131_F	Wildtype	Vehicle	B5	Group1
+P131_WvF_5	Pten	WvF	P131_F	Wildtype	Vehicle	B5	Group1
+P131_WvM_1	Pten	WvM	P131_M	Wildtype	Vehicle	B5	Group1
+P131_WvM_2	Pten	WvM	P131_M	Wildtype	Vehicle	B5	Group1
+P131_WvM_3	Pten	WvM	P131_M	Wildtype	Vehicle	B5	Group1
+P131_WvM_4	Pten	WvM	P131_M	Wildtype	Vehicle	B5	Group1
+P131_WvM_5	Pten	WvM	P131_M	Wildtype	Vehicle	B5	Group1
+Scn_HfF_1	Scn2a	HfF	Scn_F	Mutant	Fluoxetine	B3	Group2
+Scn_HfF_2	Scn2a	HfF	Scn_F	Mutant	Fluoxetine	B3	Group2
+Scn_HfF_3	Scn2a	HfF	Scn_F	Mutant	Fluoxetine	B3	Group2
+Scn_HfF_4	Scn2a	HfF	Scn_F	Mutant	Fluoxetine	B3	Group2
+Scn_HfM_1	Scn2a	HfM	Scn_M	Mutant	Fluoxetine	B3	Group2
+Scn_HfM_2	Scn2a	HfM	Scn_M	Mutant	Fluoxetine	B3	Group2
+Scn_HfM_3	Scn2a	HfM	Scn_M	Mutant	Fluoxetine	B3	Group2
+Scn_HfM_4	Scn2a	HfM	Scn_M	Mutant	Fluoxetine	B3	Group2
+Scn_HfM_5	Scn2a	HfM	Scn_M	Mutant	Fluoxetine	B3	Group2
+Scn_HLF_1	Scn2a	HLF	Scn_F	Mutant	Lithium	B3	Group2
+Scn_HLF_2	Scn2a	HLF	Scn_F	Mutant	Lithium	B3	Group2
+Scn_HLF_3	Scn2a	HLF	Scn_F	Mutant	Lithium	B3	Group2
+Scn_HLF_4	Scn2a	HLF	Scn_F	Mutant	Lithium	B3	Group2
+Scn_HLF_5	Scn2a	HLF	Scn_F	Mutant	Lithium	B3	Group2
+Scn_HLM_1	Scn2a	HLM	Scn_M	Mutant	Lithium	B3	Group2
+Scn_HLM_2	Scn2a	HLM	Scn_M	Mutant	Lithium	B3	Group2
+Scn_HLM_3	Scn2a	HLM	Scn_M	Mutant	Lithium	B3	Group2
+Scn_HLM_4	Scn2a	HLM	Scn_M	Mutant	Lithium	B3	Group2
+Scn_HLM_5	Scn2a	HLM	Scn_M	Mutant	Lithium	B3	Group2
+Scn_HvF_1	Scn2a	HvF	Scn_F	Mutant	Vehicle	B3	Group2
+Scn_HvF_2	Scn2a	HvF	Scn_F	Mutant	Vehicle	B3	Group2
+Scn_HvF_3	Scn2a	HvF	Scn_F	Mutant	Vehicle	B3	Group2
+Scn_HvF_4	Scn2a	HvF	Scn_F	Mutant	Vehicle	B3	Group2
+Scn_HvF_5	Scn2a	HvF	Scn_F	Mutant	Vehicle	B3	Group2
+Scn_HvM_1	Scn2a	HvM	Scn_M	Mutant	Vehicle	B3	Group2
+Scn_HvM_2	Scn2a	HvM	Scn_M	Mutant	Vehicle	B3	Group2
+Scn_HvM_3	Scn2a	HvM	Scn_M	Mutant	Vehicle	B3	Group2
+Scn_HvM_4	Scn2a	HvM	Scn_M	Mutant	Vehicle	B3	Group2
+Scn_HvM_5	Scn2a	HvM	Scn_M	Mutant	Vehicle	B3	Group2
+Scn_WfF_1	Scn2a	WfF	Scn_F	Wildtype	Fluoxetine	B3	Group2
+Scn_WfF_2	Scn2a	WfF	Scn_F	Wildtype	Fluoxetine	B3	Group2
+Scn_WfF_3	Scn2a	WfF	Scn_F	Wildtype	Fluoxetine	B3	Group2
+Scn_WfF_5	Scn2a	WfF	Scn_F	Wildtype	Fluoxetine	B3	Group2
+Scn_WfM_1	Scn2a	WfM	Scn_M	Wildtype	Fluoxetine	B3	Group2
+Scn_WfM_2	Scn2a	WfM	Scn_M	Wildtype	Fluoxetine	B3	Group2
+Scn_WfM_3	Scn2a	WfM	Scn_M	Wildtype	Fluoxetine	B3	Group2
+Scn_WfM_4	Scn2a	WfM	Scn_M	Wildtype	Fluoxetine	B3	Group2
+Scn_WfM_5	Scn2a	WfM	Scn_M	Wildtype	Fluoxetine	B3	Group2
+Scn_WLF_1	Scn2a	WLF	Scn_F	Wildtype	Lithium	B3	Group2
+Scn_WLF_3	Scn2a	WLF	Scn_F	Wildtype	Lithium	B3	Group2
+Scn_WLF_4	Scn2a	WLF	Scn_F	Wildtype	Lithium	B3	Group2
+Scn_WLF_5	Scn2a	WLF	Scn_F	Wildtype	Lithium	B3	Group2
+Scn_WLM_1	Scn2a	WLM	Scn_M	Wildtype	Lithium	B3	Group2
+Scn_WLM_2	Scn2a	WLM	Scn_M	Wildtype	Lithium	B3	Group2
+Scn_WLM_3	Scn2a	WLM	Scn_M	Wildtype	Lithium	B3	Group2
+Scn_WLM_4	Scn2a	WLM	Scn_M	Wildtype	Lithium	B3	Group2
+Scn_WLM_5	Scn2a	WLM	Scn_M	Wildtype	Lithium	B3	Group2
+Scn_WvF_1	Scn2a	WvF	Scn_F	Wildtype	Vehicle	B3	Group2
+Scn_WvF_2	Scn2a	WvF	Scn_F	Wildtype	Vehicle	B3	Group2
+Scn_WvF_3	Scn2a	WvF	Scn_F	Wildtype	Vehicle	B3	Group2
+Scn_WvF_4	Scn2a	WvF	Scn_F	Wildtype	Vehicle	B3	Group2
+Scn_WvF_5	Scn2a	WvF	Scn_F	Wildtype	Vehicle	B3	Group2
+Scn_WvM_1	Scn2a	WvM	Scn_M	Wildtype	Vehicle	B3	Group2
+Scn_WvM_2	Scn2a	WvM	Scn_M	Wildtype	Vehicle	B3	Group2
+Scn_WvM_3	Scn2a	WvM	Scn_M	Wildtype	Vehicle	B3	Group2
+Scn_WvM_4	Scn2a	WvM	Scn_M	Wildtype	Vehicle	B3	Group2
+SdC_HfF_1	Shank3-D	HfF	SdC_F	Mutant	Fluoxetine	B4-1	Group1
+SdC_HfF_2	Shank3-D	HfF	SdC_F	Mutant	Fluoxetine	B4-1	Group1
+SdC_HfF_3	Shank3-D	HfF	SdC_F	Mutant	Fluoxetine	B4-1	Group1
+SdC_HfF_4	Shank3-D	HfF	SdC_F	Mutant	Fluoxetine	B4-1	Group1
+SdC_HfF_5	Shank3-D	HfF	SdC_F	Mutant	Fluoxetine	B4-1	Group1
+SdC_HfM_1	Shank3-D	HfM	SdC_M	Mutant	Fluoxetine	B4-1	Group1
+SdC_HfM_2	Shank3-D	HfM	SdC_M	Mutant	Fluoxetine	B4-1	Group1
+SdC_HfM_3	Shank3-D	HfM	SdC_M	Mutant	Fluoxetine	B4-1	Group1
+SdC_HfM_4	Shank3-D	HfM	SdC_M	Mutant	Fluoxetine	B4-1	Group1
+SdC_HfM_5	Shank3-D	HfM	SdC_M	Mutant	Fluoxetine	B4-1	Group1
+SdC_HLF_1	Shank3-D	HLF	SdC_F	Mutant	Lithium	B4-1	Group1
+SdC_HLF_2	Shank3-D	HLF	SdC_F	Mutant	Lithium	B4-1	Group1
+SdC_HLF_3	Shank3-D	HLF	SdC_F	Mutant	Lithium	B4-1	Group1
+SdC_HLF_4	Shank3-D	HLF	SdC_F	Mutant	Lithium	B4-1	Group1
+SdC_HLF_5	Shank3-D	HLF	SdC_F	Mutant	Lithium	B4-1	Group1
+SdC_HLM_1	Shank3-D	HLM	SdC_M	Mutant	Lithium	B4-1	Group1
+SdC_HLM_2	Shank3-D	HLM	SdC_M	Mutant	Lithium	B4-1	Group1
+SdC_HLM_3	Shank3-D	HLM	SdC_M	Mutant	Lithium	B4-1	Group1
+SdC_HLM_4	Shank3-D	HLM	SdC_M	Mutant	Lithium	B4-1	Group1
+SdC_HvF_1	Shank3-D	HvF	SdC_F	Mutant	Vehicle	B4-1	Group1
+SdC_HvF_2	Shank3-D	HvF	SdC_F	Mutant	Vehicle	B4-1	Group1
+SdC_HvF_3	Shank3-D	HvF	SdC_F	Mutant	Vehicle	B4-1	Group1
+SdC_HvF_4	Shank3-D	HvF	SdC_F	Mutant	Vehicle	B4-1	Group1
+SdC_HvF_5	Shank3-D	HvF	SdC_F	Mutant	Vehicle	B4-1	Group1
+SdC_HvM_1	Shank3-D	HvM	SdC_M	Mutant	Vehicle	B4-2	Group1
+SdC_HvM_2	Shank3-D	HvM	SdC_M	Mutant	Vehicle	B4-2	Group1
+SdC_HvM_3	Shank3-D	HvM	SdC_M	Mutant	Vehicle	B4-3	Group1
+SdC_WfF_1	Shank3-D	WfF	SdC_F	Wildtype	Fluoxetine	B4-1	Group1
+SdC_WfF_2	Shank3-D	WfF	SdC_F	Wildtype	Fluoxetine	B4-1	Group1
+SdC_WfF_3	Shank3-D	WfF	SdC_F	Wildtype	Fluoxetine	B4-1	Group1
+SdC_WfF_4	Shank3-D	WfF	SdC_F	Wildtype	Fluoxetine	B4-1	Group1
+SdC_WfF_5	Shank3-D	WfF	SdC_F	Wildtype	Fluoxetine	B4-1	Group1
+SdC_WfM_1	Shank3-D	WfM	SdC_M	Wildtype	Fluoxetine	B4-1	Group1
+SdC_WfM_2	Shank3-D	WfM	SdC_M	Wildtype	Fluoxetine	B4-1	Group1
+SdC_WfM_3	Shank3-D	WfM	SdC_M	Wildtype	Fluoxetine	B4-1	Group1
+SdC_WfM_4	Shank3-D	WfM	SdC_M	Wildtype	Fluoxetine	B4-1	Group1
+SdC_WfM_5	Shank3-D	WfM	SdC_M	Wildtype	Fluoxetine	B4-1	Group1
+SdC_WLF_1	Shank3-D	WLF	SdC_F	Wildtype	Lithium	B4-1	Group1
+SdC_WLF_2	Shank3-D	WLF	SdC_F	Wildtype	Lithium	B4-1	Group1
+SdC_WLF_3	Shank3-D	WLF	SdC_F	Wildtype	Lithium	B4-1	Group1
+SdC_WLF_4	Shank3-D	WLF	SdC_F	Wildtype	Lithium	B4-1	Group1
+SdC_WLF_5	Shank3-D	WLF	SdC_F	Wildtype	Lithium	B4-1	Group1
+SdC_WLM_1	Shank3-D	WLM	SdC_M	Wildtype	Lithium	B4-1	Group1
+SdC_WLM_2	Shank3-D	WLM	SdC_M	Wildtype	Lithium	B4-1	Group1
+SdC_WLM_3	Shank3-D	WLM	SdC_M	Wildtype	Lithium	B4-1	Group1
+SdC_WLM_4	Shank3-D	WLM	SdC_M	Wildtype	Lithium	B4-1	Group1
+SdC_WLM_5	Shank3-D	WLM	SdC_M	Wildtype	Lithium	B4-1	Group1
+SdC_WvF_1	Shank3-D	WvF	SdC_F	Wildtype	Vehicle	B4-1	Group1
+SdC_WvF_2	Shank3-D	WvF	SdC_F	Wildtype	Vehicle	B4-1	Group1
+SdC_WvF_3	Shank3-D	WvF	SdC_F	Wildtype	Vehicle	B4-1	Group1
+SdC_WvF_4	Shank3-D	WvF	SdC_F	Wildtype	Vehicle	B4-1	Group1
+SdC_WvF_5	Shank3-D	WvF	SdC_F	Wildtype	Vehicle	B4-1	Group1
+SdC_WvM_1	Shank3-D	WvM	SdC_M	Wildtype	Vehicle	B4-3	Group1
+SdC_WvM_2	Shank3-D	WvM	SdC_M	Wildtype	Vehicle	B4-2	Group1
+SdC_WvM_3	Shank3-D	WvM	SdC_M	Wildtype	Vehicle	B4-3	Group1
+SdC_WvM_4	Shank3-D	WvM	SdC_M	Wildtype	Vehicle	B4-3	Group1
+SdC_WvM_5	Shank3-D	WvM	SdC_M	Wildtype	Vehicle	B4-3	Group1
+T12_HfF_1	Trip12	HfF	T12_F	Mutant	Fluoxetine	B4-1	Group1
+T12_HfF_2	Trip12	HfF	T12_F	Mutant	Fluoxetine	B4-1	Group1
+T12_HfF_3	Trip12	HfF	T12_F	Mutant	Fluoxetine	B4-1	Group1
+T12_HfF_4	Trip12	HfF	T12_F	Mutant	Fluoxetine	B4-1	Group1
+T12_HfF_5	Trip12	HfF	T12_F	Mutant	Fluoxetine	B4-1	Group1
+T12_HfM_1	Trip12	HfM	T12_M	Mutant	Fluoxetine	B4-1	Group2
+T12_HfM_2	Trip12	HfM	T12_M	Mutant	Fluoxetine	B4-1	Group2
+T12_HfM_3	Trip12	HfM	T12_M	Mutant	Fluoxetine	B4-1	Group2
+T12_HfM_4	Trip12	HfM	T12_M	Mutant	Fluoxetine	B4-1	Group2
+T12_HfM_5	Trip12	HfM	T12_M	Mutant	Fluoxetine	B4-1	Group2
+T12_HLF_1	Trip12	HLF	T12_F	Mutant	Lithium	B4-1	Group1
+T12_HLF_2	Trip12	HLF	T12_F	Mutant	Lithium	B4-1	Group1
+T12_HLF_3	Trip12	HLF	T12_F	Mutant	Lithium	B4-1	Group1
+T12_HLF_4	Trip12	HLF	T12_F	Mutant	Lithium	B4-1	Group1
+T12_HLF_5	Trip12	HLF	T12_F	Mutant	Lithium	B4-1	Group1
+T12_HLM_1	Trip12	HLM	T12_M	Mutant	Lithium	B4-1	Group2
+T12_HLM_2	Trip12	HLM	T12_M	Mutant	Lithium	B4-1	Group2
+T12_HLM_3	Trip12	HLM	T12_M	Mutant	Lithium	B4-1	Group2
+T12_HLM_4	Trip12	HLM	T12_M	Mutant	Lithium	B4-1	Group2
+T12_HLM_5	Trip12	HLM	T12_M	Mutant	Lithium	B4-1	Group2
+T12_HvF_1	Trip12	HvF	T12_F	Mutant	Vehicle	B4-1	Group1
+T12_HvF_2	Trip12	HvF	T12_F	Mutant	Vehicle	B4-1	Group1
+T12_HvF_3	Trip12	HvF	T12_F	Mutant	Vehicle	B4-1	Group1
+T12_HvF_4	Trip12	HvF	T12_F	Mutant	Vehicle	B4-1	Group1
+T12_HvF_5	Trip12	HvF	T12_F	Mutant	Vehicle	B4-1	Group1
+T12_HvM_1	Trip12	HvM	T12_M	Mutant	Vehicle	B4-1	Group2
+T12_HvM_2	Trip12	HvM	T12_M	Mutant	Vehicle	B4-1	Group2
+T12_HvM_3	Trip12	HvM	T12_M	Mutant	Vehicle	B4-1	Group2
+T12_HvM_4	Trip12	HvM	T12_M	Mutant	Vehicle	B4-1	Group2
+T12_HvM_5	Trip12	HvM	T12_M	Mutant	Vehicle	B4-1	Group2
+T12_WfF_1	Trip12	WfF	T12_F	Wildtype	Fluoxetine	B4-1	Group1
+T12_WfF_2	Trip12	WfF	T12_F	Wildtype	Fluoxetine	B4-1	Group1
+T12_WfF_3	Trip12	WfF	T12_F	Wildtype	Fluoxetine	B4-1	Group1
+T12_WfF_4	Trip12	WfF	T12_F	Wildtype	Fluoxetine	B4-1	Group1
+T12_WfF_5	Trip12	WfF	T12_F	Wildtype	Fluoxetine	B4-1	Group1
+T12_WfM_1	Trip12	WfM	T12_M	Wildtype	Fluoxetine	B4-1	Group2
+T12_WfM_2	Trip12	WfM	T12_M	Wildtype	Fluoxetine	B4-1	Group2
+T12_WfM_3	Trip12	WfM	T12_M	Wildtype	Fluoxetine	B4-1	Group2
+T12_WfM_4	Trip12	WfM	T12_M	Wildtype	Fluoxetine	B4-1	Group2
+T12_WfM_5	Trip12	WfM	T12_M	Wildtype	Fluoxetine	B4-1	Group2
+T12_WLF_1	Trip12	WLF	T12_F	Wildtype	Lithium	B4-1	Group1
+T12_WLF_2	Trip12	WLF	T12_F	Wildtype	Lithium	B4-1	Group1
+T12_WLF_3	Trip12	WLF	T12_F	Wildtype	Lithium	B4-1	Group1
+T12_WLF_4	Trip12	WLF	T12_F	Wildtype	Lithium	B4-1	Group1
+T12_WLF_5	Trip12	WLF	T12_F	Wildtype	Lithium	B4-1	Group1
+T12_WLM_1	Trip12	WLM	T12_M	Wildtype	Lithium	B4-1	Group2
+T12_WLM_2	Trip12	WLM	T12_M	Wildtype	Lithium	B4-1	Group2
+T12_WLM_3	Trip12	WLM	T12_M	Wildtype	Lithium	B4-1	Group2
+T12_WLM_4	Trip12	WLM	T12_M	Wildtype	Lithium	B4-1	Group2
+T12_WLM_5	Trip12	WLM	T12_M	Wildtype	Lithium	B4-1	Group2
+T12_WvF_1	Trip12	WvF	T12_F	Wildtype	Vehicle	B4-1	Group1
+T12_WvF_2	Trip12	WvF	T12_F	Wildtype	Vehicle	B4-1	Group1
+T12_WvF_3	Trip12	WvF	T12_F	Wildtype	Vehicle	B4-1	Group1
+T12_WvF_4	Trip12	WvF	T12_F	Wildtype	Vehicle	B4-1	Group1
+T12_WvF_5	Trip12	WvF	T12_F	Wildtype	Vehicle	B4-1	Group1
+T12_WvM_1	Trip12	WvM	T12_M	Wildtype	Vehicle	B4-1	Group2
+T12_WvM_2	Trip12	WvM	T12_M	Wildtype	Vehicle	B4-1	Group2
+T12_WvM_3	Trip12	WvM	T12_M	Wildtype	Vehicle	B4-1	Group2
+T12_WvM_4	Trip12	WvM	T12_M	Wildtype	Vehicle	B4-1	Group2
+T12_WvM_5	Trip12	WvM	T12_M	Wildtype	Vehicle	B4-1	Group2
+Tanc_HfF_1	Tanc2	HfF	Tanc_F	Mutant	Fluoxetine	B5	Group1
+Tanc_HfF_2	Tanc2	HfF	Tanc_F	Mutant	Fluoxetine	B5	Group1
+Tanc_HfF_3	Tanc2	HfF	Tanc_F	Mutant	Fluoxetine	B5	Group1
+Tanc_HfF_4	Tanc2	HfF	Tanc_F	Mutant	Fluoxetine	B5	Group1
+Tanc_HfF_5	Tanc2	HfF	Tanc_F	Mutant	Fluoxetine	B5	Group1
+Tanc_HfM_1	Tanc2	HfM	Tanc_M	Mutant	Fluoxetine	B5	Group1
+Tanc_HfM_2	Tanc2	HfM	Tanc_M	Mutant	Fluoxetine	B5	Group1
+Tanc_HfM_3	Tanc2	HfM	Tanc_M	Mutant	Fluoxetine	B5	Group1
+Tanc_HfM_4	Tanc2	HfM	Tanc_M	Mutant	Fluoxetine	B5	Group1
+Tanc_HfM_5	Tanc2	HfM	Tanc_M	Mutant	Fluoxetine	B5	Group1
+Tanc_HLF_1	Tanc2	HLF	Tanc_F	Mutant	Lithium	B5	Group1
+Tanc_HLF_2	Tanc2	HLF	Tanc_F	Mutant	Lithium	B5	Group1
+Tanc_HLF_3	Tanc2	HLF	Tanc_F	Mutant	Lithium	B5	Group1
+Tanc_HLF_4	Tanc2	HLF	Tanc_F	Mutant	Lithium	B5	Group1
+Tanc_HLF_5	Tanc2	HLF	Tanc_F	Mutant	Lithium	B5	Group1
+Tanc_HLM_1	Tanc2	HLM	Tanc_M	Mutant	Lithium	B5	Group1
+Tanc_HLM_2	Tanc2	HLM	Tanc_M	Mutant	Lithium	B5	Group1
+Tanc_HLM_3	Tanc2	HLM	Tanc_M	Mutant	Lithium	B5	Group1
+Tanc_HLM_4	Tanc2	HLM	Tanc_M	Mutant	Lithium	B5	Group1
+Tanc_HvF_1	Tanc2	HvF	Tanc_F	Mutant	Vehicle	B5	Group1
+Tanc_HvF_2	Tanc2	HvF	Tanc_F	Mutant	Vehicle	B5	Group1
+Tanc_HvF_3	Tanc2	HvF	Tanc_F	Mutant	Vehicle	B5	Group1
+Tanc_HvF_4	Tanc2	HvF	Tanc_F	Mutant	Vehicle	B5	Group1
+Tanc_HvF_5	Tanc2	HvF	Tanc_F	Mutant	Vehicle	B5	Group1
+Tanc_HvM_1	Tanc2	HvM	Tanc_M	Mutant	Vehicle	B5	Group1
+Tanc_HvM_2	Tanc2	HvM	Tanc_M	Mutant	Vehicle	B5	Group1
+Tanc_HvM_3	Tanc2	HvM	Tanc_M	Mutant	Vehicle	B5	Group1
+Tanc_HvM_4	Tanc2	HvM	Tanc_M	Mutant	Vehicle	B5	Group1
+Tanc_HvM_5	Tanc2	HvM	Tanc_M	Mutant	Vehicle	B5	Group1
+Tanc_WfF_1	Tanc2	WfF	Tanc_F	Wildtype	Fluoxetine	B5	Group1
+Tanc_WfF_2	Tanc2	WfF	Tanc_F	Wildtype	Fluoxetine	B5	Group1
+Tanc_WfF_3	Tanc2	WfF	Tanc_F	Wildtype	Fluoxetine	B5	Group1
+Tanc_WfF_4	Tanc2	WfF	Tanc_F	Wildtype	Fluoxetine	B5	Group1
+Tanc_WfF_5	Tanc2	WfF	Tanc_F	Wildtype	Fluoxetine	B5	Group1
+Tanc_WfM_1	Tanc2	WfM	Tanc_M	Wildtype	Fluoxetine	B5	Group1
+Tanc_WfM_2	Tanc2	WfM	Tanc_M	Wildtype	Fluoxetine	B5	Group1
+Tanc_WfM_3	Tanc2	WfM	Tanc_M	Wildtype	Fluoxetine	B5	Group1
+Tanc_WfM_4	Tanc2	WfM	Tanc_M	Wildtype	Fluoxetine	B5	Group1
+Tanc_WfM_5	Tanc2	WfM	Tanc_M	Wildtype	Fluoxetine	B5	Group1
+Tanc_WLF_1	Tanc2	WLF	Tanc_F	Wildtype	Lithium	B5	Group1
+Tanc_WLF_2	Tanc2	WLF	Tanc_F	Wildtype	Lithium	B5	Group1
+Tanc_WLF_3	Tanc2	WLF	Tanc_F	Wildtype	Lithium	B5	Group1
+Tanc_WLF_4	Tanc2	WLF	Tanc_F	Wildtype	Lithium	B5	Group1
+Tanc_WLF_5	Tanc2	WLF	Tanc_F	Wildtype	Lithium	B5	Group1
+Tanc_WLM_1	Tanc2	WLM	Tanc_M	Wildtype	Lithium	B5	Group1
+Tanc_WLM_2	Tanc2	WLM	Tanc_M	Wildtype	Lithium	B5	Group1
+Tanc_WLM_3	Tanc2	WLM	Tanc_M	Wildtype	Lithium	B5	Group1
+Tanc_WLM_4	Tanc2	WLM	Tanc_M	Wildtype	Lithium	B5	Group1
+Tanc_WLM_5	Tanc2	WLM	Tanc_M	Wildtype	Lithium	B5	Group1
+Tanc_WvF_1	Tanc2	WvF	Tanc_F	Wildtype	Vehicle	B5	Group1
+Tanc_WvF_2	Tanc2	WvF	Tanc_F	Wildtype	Vehicle	B5	Group1
+Tanc_WvF_3	Tanc2	WvF	Tanc_F	Wildtype	Vehicle	B5	Group1
+Tanc_WvF_4	Tanc2	WvF	Tanc_F	Wildtype	Vehicle	B5	Group1
+Tanc_WvF_5	Tanc2	WvF	Tanc_F	Wildtype	Vehicle	B5	Group1
+Tanc_WvM_1	Tanc2	WvM	Tanc_M	Wildtype	Vehicle	B5	Group1
+Tanc_WvM_2	Tanc2	WvM	Tanc_M	Wildtype	Vehicle	B5	Group1
+Tanc_WvM_4	Tanc2	WvM	Tanc_M	Wildtype	Vehicle	B5	Group1
+Tanc_WvM_5	Tanc2	WvM	Tanc_M	Wildtype	Vehicle	B5	Group1
+Tbl_HfF_1	Tbl1xr1	HfF	Tbl_F	Mutant	Fluoxetine	B2	Group2
+Tbl_HfF_2	Tbl1xr1	HfF	Tbl_F	Mutant	Fluoxetine	B2	Group2
+Tbl_HfF_3	Tbl1xr1	HfF	Tbl_F	Mutant	Fluoxetine	B2	Group2
+Tbl_HfF_4	Tbl1xr1	HfF	Tbl_F	Mutant	Fluoxetine	B2	Group2
+Tbl_HfF_5	Tbl1xr1	HfF	Tbl_F	Mutant	Fluoxetine	B2	Group2
+Tbl_HfM_1	Tbl1xr1	HfM	Tbl_M	Mutant	Fluoxetine	B2	Group2
+Tbl_HfM_2	Tbl1xr1	HfM	Tbl_M	Mutant	Fluoxetine	B2	Group2
+Tbl_HfM_3	Tbl1xr1	HfM	Tbl_M	Mutant	Fluoxetine	B2	Group2
+Tbl_HfM_4	Tbl1xr1	HfM	Tbl_M	Mutant	Fluoxetine	B2	Group2
+Tbl_HfM_5	Tbl1xr1	HfM	Tbl_M	Mutant	Fluoxetine	B2	Group2
+Tbl_HLF_1	Tbl1xr1	HLF	Tbl_F	Mutant	Lithium	B2	Group2
+Tbl_HLF_2	Tbl1xr1	HLF	Tbl_F	Mutant	Lithium	B2	Group2
+Tbl_HLF_3	Tbl1xr1	HLF	Tbl_F	Mutant	Lithium	B2	Group2
+Tbl_HLF_4	Tbl1xr1	HLF	Tbl_F	Mutant	Lithium	B2	Group2
+Tbl_HLF_5	Tbl1xr1	HLF	Tbl_F	Mutant	Lithium	B2	Group2
+Tbl_HLM_1	Tbl1xr1	HLM	Tbl_M	Mutant	Lithium	B2	Group2
+Tbl_HLM_2	Tbl1xr1	HLM	Tbl_M	Mutant	Lithium	B2	Group2
+Tbl_HLM_3	Tbl1xr1	HLM	Tbl_M	Mutant	Lithium	B2	Group2
+Tbl_HLM_4	Tbl1xr1	HLM	Tbl_M	Mutant	Lithium	B2	Group2
+Tbl_HLM_5	Tbl1xr1	HLM	Tbl_M	Mutant	Lithium	B2	Group2
+Tbl_HvF_1	Tbl1xr1	HvF	Tbl_F	Mutant	Vehicle	B2	Group2
+Tbl_HvF_2	Tbl1xr1	HvF	Tbl_F	Mutant	Vehicle	B2	Group2
+Tbl_HvF_3	Tbl1xr1	HvF	Tbl_F	Mutant	Vehicle	B2	Group2
+Tbl_HvF_4	Tbl1xr1	HvF	Tbl_F	Mutant	Vehicle	B2	Group2
+Tbl_HvF_5	Tbl1xr1	HvF	Tbl_F	Mutant	Vehicle	B2	Group2
+Tbl_HvM_1	Tbl1xr1	HvM	Tbl_M	Mutant	Vehicle	B2	Group2
+Tbl_HvM_2	Tbl1xr1	HvM	Tbl_M	Mutant	Vehicle	B2	Group2
+Tbl_HvM_3	Tbl1xr1	HvM	Tbl_M	Mutant	Vehicle	B2	Group2
+Tbl_HvM_4	Tbl1xr1	HvM	Tbl_M	Mutant	Vehicle	B2	Group2
+Tbl_HvM_5	Tbl1xr1	HvM	Tbl_M	Mutant	Vehicle	B2	Group2
+Tbl_WfF_1	Tbl1xr1	WfF	Tbl_F	Wildtype	Fluoxetine	B2	Group2
+Tbl_WfF_2	Tbl1xr1	WfF	Tbl_F	Wildtype	Fluoxetine	B2	Group2
+Tbl_WfF_3	Tbl1xr1	WfF	Tbl_F	Wildtype	Fluoxetine	B2	Group2
+Tbl_WfF_4	Tbl1xr1	WfF	Tbl_F	Wildtype	Fluoxetine	B2	Group2
+Tbl_WfF_5	Tbl1xr1	WfF	Tbl_F	Wildtype	Fluoxetine	B2	Group2
+Tbl_WfM_1	Tbl1xr1	WfM	Tbl_M	Wildtype	Fluoxetine	B2	Group2
+Tbl_WfM_2	Tbl1xr1	WfM	Tbl_M	Wildtype	Fluoxetine	B2	Group2
+Tbl_WfM_3	Tbl1xr1	WfM	Tbl_M	Wildtype	Fluoxetine	B2	Group2
+Tbl_WfM_4	Tbl1xr1	WfM	Tbl_M	Wildtype	Fluoxetine	B2	Group2
+Tbl_WfM_5	Tbl1xr1	WfM	Tbl_M	Wildtype	Fluoxetine	B2	Group2
+Tbl_WLF_1	Tbl1xr1	WLF	Tbl_F	Wildtype	Lithium	B2	Group2
+Tbl_WLF_2	Tbl1xr1	WLF	Tbl_F	Wildtype	Lithium	B2	Group2
+Tbl_WLF_3	Tbl1xr1	WLF	Tbl_F	Wildtype	Lithium	B2	Group2
+Tbl_WLF_4	Tbl1xr1	WLF	Tbl_F	Wildtype	Lithium	B2	Group2
+Tbl_WLM_1	Tbl1xr1	WLM	Tbl_M	Wildtype	Lithium	B2	Group2
+Tbl_WLM_2	Tbl1xr1	WLM	Tbl_M	Wildtype	Lithium	B2	Group2
+Tbl_WLM_4	Tbl1xr1	WLM	Tbl_M	Wildtype	Lithium	B2	Group2
+Tbl_WLM_5	Tbl1xr1	WLM	Tbl_M	Wildtype	Lithium	B2	Group2
+Tbl_WvF_1	Tbl1xr1	WvF	Tbl_F	Wildtype	Vehicle	B2	Group2
+Tbl_WvF_2	Tbl1xr1	WvF	Tbl_F	Wildtype	Vehicle	B2	Group2
+Tbl_WvF_3	Tbl1xr1	WvF	Tbl_F	Wildtype	Vehicle	B2	Group2
+Tbl_WvF_4	Tbl1xr1	WvF	Tbl_F	Wildtype	Vehicle	B2	Group2
+Tbl_WvF_5	Tbl1xr1	WvF	Tbl_F	Wildtype	Vehicle	B2	Group2
+Tbl_WvM_1	Tbl1xr1	WvM	Tbl_M	Wildtype	Vehicle	B2	Group2
+Tbl_WvM_2	Tbl1xr1	WvM	Tbl_M	Wildtype	Vehicle	B2	Group2
+Tbl_WvM_3	Tbl1xr1	WvM	Tbl_M	Wildtype	Vehicle	B2	Group2
+Tbl_WvM_4	Tbl1xr1	WvM	Tbl_M	Wildtype	Vehicle	B2	Group2
+Tbl_WvM_5	Tbl1xr1	WvM	Tbl_M	Wildtype	Vehicle	B2	Group2
+TBR1_HfF_1	Tbr1	HfF	TBR1_F	Mutant	Fluoxetine	B5	Group2
+TBR1_HfF_2	Tbr1	HfF	TBR1_F	Mutant	Fluoxetine	B5	Group2
+TBR1_HfF_3	Tbr1	HfF	TBR1_F	Mutant	Fluoxetine	B5	Group2
+TBR1_HfF_4	Tbr1	HfF	TBR1_F	Mutant	Fluoxetine	B5	Group2
+TBR1_HfF_5	Tbr1	HfF	TBR1_F	Mutant	Fluoxetine	B5	Group2
+TBR1_HfM_1	Tbr1	HfM	TBR1_M	Mutant	Fluoxetine	B5	Group2
+TBR1_HfM_2	Tbr1	HfM	TBR1_M	Mutant	Fluoxetine	B5	Group2
+TBR1_HfM_3	Tbr1	HfM	TBR1_M	Mutant	Fluoxetine	B5	Group2
+TBR1_HfM_4	Tbr1	HfM	TBR1_M	Mutant	Fluoxetine	B5	Group2
+TBR1_HfM_5	Tbr1	HfM	TBR1_M	Mutant	Fluoxetine	B5	Group2
+TBR1_HLF_1	Tbr1	HLF	TBR1_F	Mutant	Lithium	B5	Group2
+TBR1_HLF_2	Tbr1	HLF	TBR1_F	Mutant	Lithium	B5	Group2
+TBR1_HLF_3	Tbr1	HLF	TBR1_F	Mutant	Lithium	B5	Group2
+TBR1_HLF_4	Tbr1	HLF	TBR1_F	Mutant	Lithium	B5	Group2
+TBR1_HLF_5	Tbr1	HLF	TBR1_F	Mutant	Lithium	B5	Group2
+TBR1_HLM_1	Tbr1	HLM	TBR1_M	Mutant	Lithium	B5	Group2
+TBR1_HLM_2	Tbr1	HLM	TBR1_M	Mutant	Lithium	B5	Group2
+TBR1_HLM_3	Tbr1	HLM	TBR1_M	Mutant	Lithium	B5	Group2
+TBR1_HLM_4	Tbr1	HLM	TBR1_M	Mutant	Lithium	B5	Group2
+TBR1_HLM_5	Tbr1	HLM	TBR1_M	Mutant	Lithium	B5	Group2
+TBR1_HvF_1	Tbr1	HvF	TBR1_F	Mutant	Vehicle	B5	Group2
+TBR1_HvF_2	Tbr1	HvF	TBR1_F	Mutant	Vehicle	B5	Group2
+TBR1_HvF_3	Tbr1	HvF	TBR1_F	Mutant	Vehicle	B5	Group2
+TBR1_HvF_4	Tbr1	HvF	TBR1_F	Mutant	Vehicle	B5	Group2
+TBR1_HvF_5	Tbr1	HvF	TBR1_F	Mutant	Vehicle	B5	Group2
+TBR1_HvM_1	Tbr1	HvM	TBR1_M	Mutant	Vehicle	B5	Group2
+TBR1_HvM_2	Tbr1	HvM	TBR1_M	Mutant	Vehicle	B5	Group2
+TBR1_HvM_3	Tbr1	HvM	TBR1_M	Mutant	Vehicle	B5	Group2
+TBR1_HvM_4	Tbr1	HvM	TBR1_M	Mutant	Vehicle	B5	Group2
+TBR1_HvM_5	Tbr1	HvM	TBR1_M	Mutant	Vehicle	B5	Group2
+TBR1_WfF_1	Tbr1	WfF	TBR1_F	Wildtype	Fluoxetine	B5	Group2
+TBR1_WfF_2	Tbr1	WfF	TBR1_F	Wildtype	Fluoxetine	B5	Group2
+TBR1_WfF_3	Tbr1	WfF	TBR1_F	Wildtype	Fluoxetine	B5	Group2
+TBR1_WfF_4	Tbr1	WfF	TBR1_F	Wildtype	Fluoxetine	B5	Group2
+TBR1_WfF_5	Tbr1	WfF	TBR1_F	Wildtype	Fluoxetine	B5	Group2
+TBR1_WfM_1	Tbr1	WfM	TBR1_M	Wildtype	Fluoxetine	B5	Group2
+TBR1_WfM_2	Tbr1	WfM	TBR1_M	Wildtype	Fluoxetine	B5	Group2
+TBR1_WfM_3	Tbr1	WfM	TBR1_M	Wildtype	Fluoxetine	B5	Group2
+TBR1_WfM_4	Tbr1	WfM	TBR1_M	Wildtype	Fluoxetine	B5	Group2
+TBR1_WfM_5	Tbr1	WfM	TBR1_M	Wildtype	Fluoxetine	B5	Group2
+TBR1_WLF_1	Tbr1	WLF	TBR1_F	Wildtype	Lithium	B5	Group2
+TBR1_WLF_2	Tbr1	WLF	TBR1_F	Wildtype	Lithium	B5	Group2
+TBR1_WLF_3	Tbr1	WLF	TBR1_F	Wildtype	Lithium	B5	Group2
+TBR1_WLF_4	Tbr1	WLF	TBR1_F	Wildtype	Lithium	B5	Group2
+TBR1_WLF_5	Tbr1	WLF	TBR1_F	Wildtype	Lithium	B5	Group2
+TBR1_WLM_1	Tbr1	WLM	TBR1_M	Wildtype	Lithium	B5	Group2
+TBR1_WLM_2	Tbr1	WLM	TBR1_M	Wildtype	Lithium	B5	Group2
+TBR1_WLM_3	Tbr1	WLM	TBR1_M	Wildtype	Lithium	B5	Group2
+TBR1_WLM_4	Tbr1	WLM	TBR1_M	Wildtype	Lithium	B5	Group2
+TBR1_WLM_5	Tbr1	WLM	TBR1_M	Wildtype	Lithium	B5	Group2
+TBR1_WvF_1	Tbr1	WvF	TBR1_F	Wildtype	Vehicle	B5	Group2
+TBR1_WvF_2	Tbr1	WvF	TBR1_F	Wildtype	Vehicle	B5	Group2
+TBR1_WvF_3	Tbr1	WvF	TBR1_F	Wildtype	Vehicle	B5	Group2
+TBR1_WvF_4	Tbr1	WvF	TBR1_F	Wildtype	Vehicle	B5	Group2
+TBR1_WvF_5	Tbr1	WvF	TBR1_F	Wildtype	Vehicle	B5	Group2
+TBR1_WvM_1	Tbr1	WvM	TBR1_M	Wildtype	Vehicle	B5	Group2
+TBR1_WvM_2	Tbr1	WvM	TBR1_M	Wildtype	Vehicle	B5	Group2
+TBR1_WvM_3	Tbr1	WvM	TBR1_M	Wildtype	Vehicle	B5	Group2
+TBR1_WvM_4	Tbr1	WvM	TBR1_M	Wildtype	Vehicle	B5	Group2
+TBR1_WvM_5	Tbr1	WvM	TBR1_M	Wildtype	Vehicle	B5	Group2
