@@ -50,7 +50,7 @@ txi <- tximport(sampleFiles, type="salmon", tx2gene=tx2gene, ignoreTxVersion=TRU
 ############################################################
 ##### (2) Batch correction #####
 ### Bulk RNA-seq data were generated across eight separate batches. 
-### Detaild batch information can be found sample metadata file as below
+### Detailed sequencing batch information can be found in the sample metadata file below.
 ### https://github.com/combioKISTI/Transcriptome-based-subgrouping-of-ASD-mouse-models/tree/main/data/rnaseq_sample_metadata.txt
 
 ### To correct for potential batch effects, the ComBat_seq function from the R/Bioconductor sva (v3.42.0) package was applied to the raw count data. 
