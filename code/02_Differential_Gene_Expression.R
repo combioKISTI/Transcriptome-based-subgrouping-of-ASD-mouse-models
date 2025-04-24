@@ -1,20 +1,22 @@
 ############################################################
-##### 02. bulk RNA-seq Processing & Differential Gene Expression (DGE)
+##### 02. bulk RNA-seq Processing & Differential Expressed Genes (DEGs)
 ##### April 2025, Hyojin Kang
 ############################################################
-library("Biobase")
-library("DESeq2")
-library("ggplot2")
-library("tximport")
-library("readr")
 
-############################################################
 ##### Pipeline #####
 ### (1) Load count data
 ### (2) Batch correction
 ### (3) Gene Filtering
 ### (4) Normalization
 ### (5) Differential Expressed Genes (DEGs)
+############################################################
+##### Load library #####
+library("Biobase")
+library("DESeq2")
+library("ggplot2")
+library("tximport")
+library("readr")
+
 ############################################################
 #####(1) Load count data
 ### Differential gene expression (DGE) analysis was performed independently for each mouse strain and sex
@@ -48,6 +50,9 @@ txi <- tximport(sampleFiles, type="salmon", tx2gene=tx2gene, ignoreTxVersion=TRU
 ############################################################
 ##### (2) Batch correction #####
 ### Bulk RNA-seq data were generated across eight separate batches. 
+### Detaild batch information can be found sample metadata file as below
+### https://github.com/combioKISTI/Transcriptome-based-subgrouping-of-ASD-mouse-models/tree/main/data/rnaseq_sample_metadata.txt
+
 ### To correct for potential batch effects, the ComBat_seq function from the R/Bioconductor sva (v3.42.0) package was applied to the raw count data. 
 ### ComBat-seq takes as input an untransformed count matrix along with known batch variables. 
 ### Batch effects were modeled using a negative binomial regression, 
