@@ -12,7 +12,7 @@ SALMON=/path/salmon/salmon-1.1.0/bin/salmon
 
 ############################################################
 ##### mouse reference genome file
-REF=/path/ref/Mus_musculus/Ensembl/GRCm38
+REF=/path/ref/GRCm38
 GENOME_FASTA=$REF/genome.fa
 
 ############################################################
