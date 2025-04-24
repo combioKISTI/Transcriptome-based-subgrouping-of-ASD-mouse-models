@@ -11,16 +11,14 @@
 SALMON=/path/salmon/salmon-1.1.0/bin/salmon
 
 ############################################################
-##### salmon index file
-GENCODE=/path/db/gencode
-SALMON_INDEX=$GENCODE/Gencode_mouse/salmon_index
-GTF=$GENCODE/Gencode_mouse/gencode.vM23.annotation.gtf
+##### mouse reference genome file
+REF=/path/ref/Mus_musculus/Ensembl/GRCm38
+GENOME_FASTA=$REF/genome.fa
 
 ############################################################
-##### mouse reference genome file
-### https://support.illumina.com/sequencing/sequencing_software/igenome.html
-VERSION=/path/iGenomes/Mus_musculus/Ensembl/GRCm38
-GENOME_FASTA=$VERSION/Sequence/WholeGenomeFasta/genome.fa
+##### salmon index file
+SALMON_INDEX=$REF/salmon_index
+GTF=$REF/gtf/genes.gtf
 
 ############################################################
 ##### salmon run script
