@@ -10,7 +10,7 @@ The analysis pipeline and custom scripts used in the manuscript are listed below
 4. Alternative Splicing analysis
 5. Weighted Gene Co-expression Network Analysis (WGCNA)
 6. Cell type deconvolution analysis
-
+7. Human RNA-seq analysis
 
 ## Script Number:
 Script numbers represent scripts within a pipeline step. 
