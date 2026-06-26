@@ -1,0 +1,69 @@
+## R sessionInfo -- record of analysis environments
+##
+## Each pipeline script writes its actual sessionInfo() to its own output
+## directory (e.g. results/wgcna/sessionInfo_05_WGCNA.txt).
+## The block below captures the canonical environment used for the manuscript.
+
+## ----------------------------------------------------------------------------
+## Minimum requirements (template)
+## ----------------------------------------------------------------------------
+R version >= 4.2
+Bioconductor >= 3.16
+
+Required packages (CRAN):
+  dplyr, tidyr, stringr, ggplot2, readr, plyr, knitr, gplots, enrichR
+
+Required packages (Bioconductor):
+  Biobase, DESeq2, sva, tximport, biomaRt, WGCNA
+
+Optional (parallel DESeq2):
+  BiocParallel
+
+
+## ============================================================================
+## DEG analysis (script 02_Differential_Gene_Expression.R)
+## Provided by H. Kang -- baseline R/OS environment used for DESeq2 runs.
+## ============================================================================
+
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.4 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C
+ [3] LC_TIME=ko_KR.UTF-8        LC_COLLATE=en_US.UTF-8
+ [5] LC_MONETARY=ko_KR.UTF-8    LC_MESSAGES=en_US.UTF-8
+ [7] LC_PAPER=ko_KR.UTF-8       LC_NAME=C
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C
+[11] LC_MEASUREMENT=ko_KR.UTF-8 LC_IDENTIFICATION=C
+
+time zone: Asia/Seoul
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.3
+
+# Note: this sessionInfo() was captured before library() calls.
+#       The "other attached packages" list (DESeq2, sva, tximport, biomaRt,
+#       Biobase, ggplot2, readr) is appended automatically when the script
+#       writes its sessionInfo at the end of the run
+#       (see scripts/02_dge/02_Differential_Gene_Expression.R section (6)).
+
+
+## ============================================================================
+## Other steps
+## ============================================================================
+## Captured automatically per script:
+##   - 02b_export_combatcount.R        -> data/bulk/sessionInfo_02b_export.txt
+##   - 03_00_mouse_to_human_ortholog.R -> sessionInfo_03_00_ortholog.txt
+##   - 05_WGCNA_analysis.R             -> results/wgcna/sessionInfo_05_WGCNA.txt
+##   - 06_human_rnaseq.R               -> results/human/sessionInfo_06_human.txt
+##   - 08_consensus/scripts/03_wilcoxon/wilcoxon_one_sided_BH.R
+##                                     -> results/.../sessionInfo.txt

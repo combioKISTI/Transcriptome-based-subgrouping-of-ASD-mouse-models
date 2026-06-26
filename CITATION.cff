@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the manuscript and this repository."
+title: "Transcriptome-based subgrouping of ASD mouse models"
+authors:
+  - family-names: "Kang"
+    given-names: "Hyojin"
+    email: "hjkang@kisti.re.kr"
+    affiliation: "Korea Institute of Science and Technology Information (KISTI)"
+  - family-names: "Jun"
+    given-names: "Yukyung"
+repository-code: "https://github.com/combioKISTI/Transcriptome-based-subgrouping-of-ASD-mouse-models"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Transcriptome-based subgrouping of ASD mouse models"
+  authors:
+    - family-names: "Kang"
+      given-names: "Hyojin"
+    - family-names: "Jun"
+      given-names: "Yukyung"
+  year: 2026
+  journal: "TBD"
+  doi: "TBD"
